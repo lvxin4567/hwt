@@ -1,0 +1,895 @@
+{
+  "ID": "ef526f53-d3e3-4afd-bb84-7909a2d28f4b",
+  "Version": "2.3.4",
+  "Name": "PmdSendLabaPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 31,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 86,
+            "ActionTag": -938420921,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Alpha": 204,
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/bgs/pmd_bg_1.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 1046,
+            "Scale9Height": 531,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.8445,
+              "Y": 0.7792
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 99.5,
+            "RightMargin": 99.5,
+            "TopMargin": 79.5,
+            "BottomMargin": 79.5,
+            "Tag": 152,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "common/bnts/common_close_btn.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "common/bnts/common_close_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 37,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1077.0,
+                  "Y": 551.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9963,
+                  "Y": 0.9822
+                },
+                "PreSize": {
+                  "X": 0.062,
+                  "Y": 0.123
+                },
+                "LeftMargin": 1043.5,
+                "RightMargin": -29.5,
+                "TopMargin": -24.5,
+                "BottomMargin": 516.5,
+                "Tag": 154,
+                "ActionTag": 1714840296,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 69.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "lobby_pmd_img_textfield.png",
+                  "Plist": "lobby/PmdPanel/PmdBlock.plist"
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 17,
+                "Scale9OriginY": 27,
+                "Scale9Width": 731,
+                "Scale9Height": 27,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 136.0,
+                  "Y": 450.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1258,
+                  "Y": 0.8021
+                },
+                "PreSize": {
+                  "X": 0.5518,
+                  "Y": 0.0976
+                },
+                "LeftMargin": 136.0,
+                "RightMargin": 348.474,
+                "TopMargin": 56.2391,
+                "BottomMargin": 450.0,
+                "Tag": 108,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "lobby_pmd_btn_laba.png",
+                      "Plist": "lobby/PmdPanel/PmdBlock.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "lobby_pmd_btn_laba.png",
+                      "Plist": "lobby/PmdPanel/PmdBlock.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 162,
+                    "Scale9Height": 53,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 800.0,
+                      "Y": 26.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.3411,
+                      "Y": 0.4748
+                    },
+                    "PreSize": {
+                      "X": 0.3219,
+                      "Y": 1.3696
+                    },
+                    "LeftMargin": 704.0,
+                    "RightMargin": -299.474,
+                    "TopMargin": -8.7391,
+                    "BottomMargin": -11.5,
+                    "Tag": 156,
+                    "ActionTag": 1123616915,
+                    "Size": {
+                      "X": 192.0,
+                      "Y": 75.0
+                    },
+                    "Name": "btn_send_laba",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 34,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "请在此输入文字（1-27个字）",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -58.0,
+                      "Y": 27.3804
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 135,
+                      "G": 87,
+                      "B": 48
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": -0.0972,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.1986,
+                      "Y": 0.767
+                    },
+                    "LeftMargin": -58.0,
+                    "RightMargin": -60.474,
+                    "TopMargin": 6.3805,
+                    "BottomMargin": 6.3804,
+                    "Tag": 162,
+                    "ActionTag": 1357076370,
+                    "Size": {
+                      "X": 715.0,
+                      "Y": 42.0
+                    },
+                    "Name": "edx_laba",
+                    "ctype": "TextFieldObjectData"
+                  }
+                ],
+                "ActionTag": 136130082,
+                "Size": {
+                  "X": 596.526,
+                  "Y": 54.7609
+                },
+                "Name": "editbox_bg_1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "lobby_pmd_img_bg_1.png",
+                  "Plist": "lobby/PmdPanel/PmdBlock.plist"
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 422,
+                "Scale9OriginY": 19,
+                "Scale9Width": 125,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 541.0,
+                  "Y": 375.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5005,
+                  "Y": 0.6684
+                },
+                "PreSize": {
+                  "X": 0.901,
+                  "Y": 0.098
+                },
+                "LeftMargin": 54.0,
+                "RightMargin": 53.0,
+                "TopMargin": 158.5,
+                "BottomMargin": 347.5,
+                "Tag": 157,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "lobby_pmd_img_tishitu.png",
+                      "Plist": "lobby/PmdPanel/PmdBlock.plist"
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 10,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 32.0,
+                      "Y": 27.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0329,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0246,
+                      "Y": 0.4364
+                    },
+                    "LeftMargin": 20.0,
+                    "RightMargin": 930.0,
+                    "TopMargin": 15.5,
+                    "BottomMargin": 15.5,
+                    "Tag": 25,
+                    "ActionTag": -666590369,
+                    "Size": {
+                      "X": 24.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Image_tishi",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "发送世界喇叭将消耗",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 160.0,
+                      "Y": 27.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 135,
+                      "G": 87,
+                      "B": 48
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1643,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2218,
+                      "Y": 0.4364
+                    },
+                    "LeftMargin": 52.0,
+                    "RightMargin": 706.0,
+                    "TopMargin": 15.5,
+                    "BottomMargin": 15.5,
+                    "Tag": 159,
+                    "ActionTag": 209278908,
+                    "Size": {
+                      "X": 216.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text_info1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "发送成功后所有在线玩家都能接收",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 594.5,
+                      "Y": 27.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 135,
+                      "G": 87,
+                      "B": 48
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6104,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3696,
+                      "Y": 0.4364
+                    },
+                    "LeftMargin": 414.5,
+                    "RightMargin": 199.5,
+                    "TopMargin": 15.5,
+                    "BottomMargin": 15.5,
+                    "Tag": 160,
+                    "ActionTag": 1848067774,
+                    "Size": {
+                      "X": 360.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text_info2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "xxxx欢乐豆",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 340.5,
+                      "Y": 27.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 213,
+                      "G": 46,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3496,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1232,
+                      "Y": 0.4364
+                    },
+                    "LeftMargin": 280.5,
+                    "RightMargin": 573.5,
+                    "TopMargin": 15.5,
+                    "BottomMargin": 15.5,
+                    "Tag": 161,
+                    "ActionTag": -225332796,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_expend_score",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 747986630,
+                "Size": {
+                  "X": 974.0,
+                  "Y": 55.0
+                },
+                "Name": "tishiPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 1006,
+                  "Height": 390
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 50.0503,
+                  "Y": 15.9885
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0463,
+                  "Y": 0.0285
+                },
+                "PreSize": {
+                  "X": 0.9306,
+                  "Y": 0.5954
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 50.0503,
+                "RightMargin": 24.9497,
+                "TopMargin": 211.0115,
+                "BottomMargin": 15.9885,
+                "Tag": 37,
+                "ActionTag": -1628478061,
+                "Size": {
+                  "X": 1006.0,
+                  "Y": 334.0
+                },
+                "Name": "ScrollView_History",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 57.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0527,
+                  "Y": 0.1426
+                },
+                "PreSize": {
+                  "X": 0.8881,
+                  "Y": 0.1248
+                },
+                "LeftMargin": 57.0,
+                "RightMargin": 64.0,
+                "TopMargin": 411.0,
+                "BottomMargin": 80.0,
+                "Tag": 163,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 19,
+                      "G": 126,
+                      "B": 17
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0156,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3125,
+                      "Y": 0.3714
+                    },
+                    "LeftMargin": 15.0,
+                    "RightMargin": 645.0,
+                    "TopMargin": 22.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 26,
+                    "ActionTag": 1217810167,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 26.0
+                    },
+                    "Name": "text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 150.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 135,
+                      "G": 87,
+                      "B": 48
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1563,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8333,
+                      "Y": 0.3714
+                    },
+                    "LeftMargin": 150.0,
+                    "RightMargin": 10.0,
+                    "TopMargin": 22.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 165,
+                    "ActionTag": 1532688128,
+                    "Size": {
+                      "X": 800.0,
+                      "Y": 26.0
+                    },
+                    "Name": "text_info",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1870152899,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 70.0
+                },
+                "Name": "History_panel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1345743917,
+            "Size": {
+              "X": 1081.0,
+              "Y": 561.0
+            },
+            "Name": "contentPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../common/bgs/pmd_bg_1.png",
+        "../../common/bnts/common_close_btn.png",
+        "../../Default/Button_Disable.png",
+        "PmdBlock.plist",
+        "PmdBlock.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

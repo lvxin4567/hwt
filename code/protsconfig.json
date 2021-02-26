@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",  
+    "module": "amd",     
+    "allowJs": false,     
+    "declaration": false,        
+    "outDir": "./dist",               
+    "rootDir": "./tssrc", 
+    "strict": false, 
+    "strictNullChecks": false,  
+    "strictPropertyInitialization": false,  
+    "esModuleInterop": true  , 
+    "experimentalDecorators": true
+  },
+  "include":["tssrc/**/*"]
+}

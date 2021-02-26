@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_qiangganghu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/qiangganghu_glow
+  rotate: false
+  xy: 2, 130
+  size: 423, 138
+  orig: 480, 256
+  offset: 14, 59
+  index: -1
+donghua/library/qiangganghu_glow2
+  rotate: false
+  xy: 2, 270
+  size: 458, 155
+  orig: 480, 256
+  offset: 0, 50
+  index: -1
+donghua/library/qiangganghu_txt
+  rotate: false
+  xy: 2, 2
+  size: 380, 126
+  orig: 480, 256
+  offset: 39, 64
+  index: -1

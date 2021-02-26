@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_quanqiuren.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/quanqiuren_glow
+  rotate: false
+  xy: 2, 2
+  size: 480, 201
+  orig: 480, 256
+  offset: 0, 35
+  index: -1
+donghua/library/quanqiuren_glow2
+  rotate: false
+  xy: 2, 205
+  size: 480, 236
+  orig: 480, 256
+  offset: 0, 12
+  index: -1
+donghua/library/quanqiuren_txt
+  rotate: false
+  xy: 484, 310
+  size: 400, 131
+  orig: 480, 256
+  offset: 38, 63
+  index: -1

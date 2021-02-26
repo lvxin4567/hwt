@@ -1,0 +1,300 @@
+{
+  "ID": "1083399c-bbf7-46b9-b6c2-887561610e93",
+  "Version": "2.3.4",
+  "Name": "TopBar",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 227,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -422,
+            "Scale9OriginY": -28,
+            "Scale9Width": 844,
+            "Scale9Height": 56,
+            "StretchWidthEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 63.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 228,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/TopBar/common.topbar.upBg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 323,
+                "Scale9OriginY": 20,
+                "Scale9Width": 335,
+                "Scale9Height": 23,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 490.5,
+                  "Y": 31.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3832,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.7664,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "RightMargin": 299.0,
+                "Tag": 165,
+                "ActionTag": -811155011,
+                "Size": {
+                  "X": 981.0,
+                  "Y": 63.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_back_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_back_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_back.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 160,
+                "Scale9Height": 38,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 95.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0742,
+                  "Y": 0.5238
+                },
+                "PreSize": {
+                  "X": 0.1484,
+                  "Y": 0.9524
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "RightMargin": 1090.0,
+                "BottomMargin": 3.0,
+                "Tag": 84,
+                "ActionTag": -2035731992,
+                "Size": {
+                  "X": 190.0,
+                  "Y": 60.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 58,
+                "Scale9OriginY": 17,
+                "Scale9Width": 62,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 324.0,
+                  "Y": 57.8088
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2531,
+                  "Y": 0.9176
+                },
+                "PreSize": {
+                  "X": 0.1391,
+                  "Y": 0.8413
+                },
+                "HorizontalEdge": "LeftEdge",
+                "LeftMargin": 235.0,
+                "RightMargin": 867.0,
+                "TopMargin": 5.1912,
+                "BottomMargin": 4.8088,
+                "Tag": 86,
+                "ActionTag": -1512163383,
+                "Size": {
+                  "X": 178.0,
+                  "Y": 53.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "游戏中心",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "common/Fonts/common.head_title_font.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 234.2722,
+                  "Y": 29.4204
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.183,
+                  "Y": 0.467
+                },
+                "PreSize": {
+                  "X": 0.1414,
+                  "Y": 1.0317
+                },
+                "LeftMargin": 234.2722,
+                "RightMargin": 864.7278,
+                "TopMargin": 1.0796,
+                "BottomMargin": -3.0796,
+                "Tag": 6,
+                "ActionTag": 1692332908,
+                "Size": {
+                  "X": 181.0,
+                  "Y": 65.0
+                },
+                "Name": "titleFont",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1248097282,
+            "Size": {
+              "X": 1280.0,
+              "Y": 63.0
+            },
+            "Name": "top_bar",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 63.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Default/ImageFile.png",
+        "../bnts/common_new_btns.plist",
+        "../bnts/common_new_btns.png",
+        "../Fonts/common.head_title_font.fnt",
+        "../Fonts/common.head_title_font.png",
+        "common.topbar.upBg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

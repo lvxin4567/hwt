@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>headbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,279},{48,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{48,48}}</string>
+				<key>sourceSize</key>
+				<string>{48,48}</string>
+			</dict>
+
+			<key>headbg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,226},{52,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,52}}</string>
+				<key>sourceSize</key>
+				<string>{52,52}</string>
+			</dict>
+
+			<key>roomidbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,472},{107,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{107,24}}</string>
+				<key>sourceSize</key>
+				<string>{107,24}</string>
+			</dict>
+
+			<key>table-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,0},{240,225}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{31,62},{240,225}}</string>
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+
+			<key>table-3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{242,245}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{29,42},{242,245}}</string>
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+
+			<key>table-4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,246},{242,225}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{29,62},{242,225}}</string>
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+
+			<key>tabletid.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{108,472},{90,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{90,38}}</string>
+				<key>sourceSize</key>
+				<string>{90,38}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,512}</string>
+			<key>textureFileName</key>
+			<string>tableImg.png</string>
+			</dict>
+		</dict>
+</plist>

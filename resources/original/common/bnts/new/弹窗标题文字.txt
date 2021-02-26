@@ -1,0 +1,4 @@
+温馨提示绑定手机号任务购买方式保险箱
+char id=@id x=@x y=@y width=@w height=@h xoffset=@sx yoffset=@sy xadvance=@w page=0 chnl=0 letter="@letter"
+info face="common.title_font.fnt" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=@padding,@padding\ncommon lineHeight=@advanceY base=26 scaleW=@texW scaleH=@texH pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0\npage id=0 file="common.title_font.png"\nchars count=@count\n@loop\nkernings count=@kernPairCount\n@kernLoop
+common.title_font.fnt

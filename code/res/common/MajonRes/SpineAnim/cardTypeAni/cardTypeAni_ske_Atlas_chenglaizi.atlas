@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_chenglaizi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/chenglaizi_glow 
+  rotate: false
+  xy: 2, 131
+  size: 394, 128
+  orig: 480, 256
+  offset: 29, 66
+  index: -1
+donghua/library/chenglaizi_glow2 
+  rotate: false
+  xy: 2, 261
+  size: 459, 162
+  orig: 480, 256
+  offset: 0, 45
+  index: -1
+donghua/library/chenglaizitxt 
+  rotate: false
+  xy: 2, 2
+  size: 366, 127
+  orig: 480, 256
+  offset: 46, 63
+  index: -1

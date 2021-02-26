@@ -1,0 +1,41 @@
+{
+"skeleton": { "hash": "c6Vtv4Er9I6kACAdDMVuTaBjlJ8", "spine": "3.7.94", "width": 554, "height": 556, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "xiaodeng1", "parent": "root" },
+	{ "name": "xiaodeng2", "parent": "root" }
+],
+"slots": [
+	{ "name": "xiaodeng1", "bone": "xiaodeng1", "attachment": "xiaodeng1" },
+	{ "name": "xiaodeng2", "bone": "xiaodeng2", "attachment": "xiaodeng2" }
+],
+"skins": {
+	"default": {
+		"xiaodeng1": {
+			"xiaodeng1": { "x": -0.75, "y": 3.47, "width": 554, "height": 556 }
+		},
+		"xiaodeng2": {
+			"xiaodeng2": { "x": -1.25, "y": 7.47, "width": 539, "height": 546 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"xiaodeng1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "xiaodeng1" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"xiaodeng2": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": "xiaodeng2" }
+				]
+			}
+		}
+	}
+}
+}

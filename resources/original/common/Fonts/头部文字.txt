@@ -1,0 +1,13 @@
+表并参层城成除大的点动段兑队个功管
+合换混活伙绩技计竞劳理历联列楼盟名
+能排疲亲情圈人赛删商设时史统我伍息
+戏详心信幸游友员运战值置中主子
+
+表并参层城成除大的点动段兑队个功管合换混活伙绩技计竞劳理历联列楼盟名能排疲亲情圈人赛删商设时史统我伍息戏详心信幸游友员运战值置中主子
+
+char id=@id x=@x y=@y width=@w height=@h xoffset=@sx yoffset=@sy xadvance=@w page=0 chnl=0 letter="@letter"
+info face="common.head_title_font.fnt" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=@padding,@padding\ncommon lineHeight=@advanceY base=26 scaleW=@texW scaleH=@texH pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0\npage id=0 file="common.head_title_font.png"\nchars count=@count\n@loop\nkernings count=@kernPairCount\n@kernLoop
+common.head_title_font.fnt
+
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"

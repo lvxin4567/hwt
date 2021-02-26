@@ -1,0 +1,906 @@
+{
+  "ID": "087611ec-1a3d-4c5d-ae67-f8eae9a6cfa4",
+  "Version": "2.3.4",
+  "Name": "ShareImagePanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 71,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lobby/ShareResource/shareBg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1280.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 270.0,
+            "RotationSkewY": 270.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 1.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.5625,
+              "Y": 1.7778
+            },
+            "LeftMargin": 1280.0,
+            "RightMargin": -720.0,
+            "TopMargin": -560.0,
+            "Tag": 72,
+            "ActionTag": 1390753074,
+            "Size": {
+              "X": 720.0,
+              "Y": 1280.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lobby/ShareResource/shareLogo.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 88,
+            "Scale9OriginY": 54,
+            "Scale9Width": 93,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 166.4,
+              "Y": 341.424
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 270.0,
+            "RotationSkewY": 270.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.13,
+              "Y": 0.4742
+            },
+            "PreSize": {
+              "X": 0.2102,
+              "Y": 0.2278
+            },
+            "LeftMargin": 31.9,
+            "RightMargin": 979.1,
+            "TopMargin": 296.576,
+            "BottomMargin": 259.424,
+            "Tag": 114,
+            "ActionTag": 1139195180,
+            "Size": {
+              "X": 269.0,
+              "Y": 164.0
+            },
+            "Name": "shareLogo_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1226.7897,
+              "Y": 16.3992
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 270.0,
+            "RotationSkewY": 270.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9584,
+              "Y": 0.0228
+            },
+            "PreSize": {
+              "X": 0.5406,
+              "Y": 0.2778
+            },
+            "LeftMargin": 1226.7897,
+            "RightMargin": -638.7897,
+            "TopMargin": 503.6008,
+            "BottomMargin": 16.3992,
+            "Tag": 83,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 20.0,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 221,
+                  "G": 202,
+                  "B": 163
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0289,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.4624,
+                  "Y": 0.19
+                },
+                "LeftMargin": 20.0,
+                "RightMargin": 352.0,
+                "TopMargin": 20.0,
+                "BottomMargin": 142.0,
+                "Tag": 84,
+                "ActionTag": 1934747421,
+                "Size": {
+                  "X": 320.0,
+                  "Y": 38.0
+                },
+                "Name": "rulename",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 365.0,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 221,
+                  "G": 202,
+                  "B": 163
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5275,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.4624,
+                  "Y": 0.19
+                },
+                "LeftMargin": 365.0,
+                "RightMargin": 7.0,
+                "TopMargin": 20.0,
+                "BottomMargin": 142.0,
+                "Tag": 86,
+                "ActionTag": 1342740489,
+                "Size": {
+                  "X": 320.0,
+                  "Y": 38.0
+                },
+                "Name": "room",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 20.0,
+                  "Y": 100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 221,
+                  "G": 202,
+                  "B": 163
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0289,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4624,
+                  "Y": 0.19
+                },
+                "LeftMargin": 20.0,
+                "RightMargin": 352.0,
+                "TopMargin": 81.0,
+                "BottomMargin": 81.0,
+                "Tag": 87,
+                "ActionTag": 1709776064,
+                "Size": {
+                  "X": 320.0,
+                  "Y": 38.0
+                },
+                "Name": "difen",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 365.0,
+                  "Y": 100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 221,
+                  "G": 202,
+                  "B": 163
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5275,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4624,
+                  "Y": 0.19
+                },
+                "LeftMargin": 365.0,
+                "RightMargin": 7.0,
+                "TopMargin": 81.0,
+                "BottomMargin": 81.0,
+                "Tag": 88,
+                "ActionTag": -1644258964,
+                "Size": {
+                  "X": 320.0,
+                  "Y": 38.0
+                },
+                "Name": "round",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 20.0,
+                  "Y": 40.8562
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 221,
+                  "G": 202,
+                  "B": 163
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0289,
+                  "Y": 0.2043
+                },
+                "PreSize": {
+                  "X": 0.7948,
+                  "Y": 0.19
+                },
+                "LeftMargin": 20.0,
+                "RightMargin": 122.0,
+                "TopMargin": 140.1438,
+                "BottomMargin": 21.8562,
+                "Tag": 85,
+                "ActionTag": -275645123,
+                "Size": {
+                  "X": 550.0,
+                  "Y": 38.0
+                },
+                "Name": "time",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 915775065,
+            "Size": {
+              "X": 692.0,
+              "Y": 200.0
+            },
+            "Name": "info",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ItemMargin": 10,
+            "DirectionType": "Vertical",
+            "HorizontalType": "Align_HorizontalCenter",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 989.67,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 270.0,
+            "RotationSkewY": 270.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.7732,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.5625,
+              "Y": 0.9306
+            },
+            "LeftMargin": 989.67,
+            "RightMargin": -429.6699,
+            "TopMargin": 50.0,
+            "Tag": 123,
+            "ActionTag": -1023138101,
+            "Size": {
+              "X": 720.0,
+              "Y": 670.0
+            },
+            "Name": "share_container",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lobby/ShareResource/shareItemBg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 228,
+            "Scale9OriginY": 52,
+            "Scale9Width": 236,
+            "Scale9Height": 56,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 225.411,
+              "Y": 1044.5632
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1761,
+              "Y": 1.4508
+            },
+            "PreSize": {
+              "X": 0.5406,
+              "Y": 0.2222
+            },
+            "LeftMargin": 225.411,
+            "RightMargin": 362.589,
+            "TopMargin": -484.5632,
+            "BottomMargin": 1044.5632,
+            "Tag": 74,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "lobby/ShareResource/shareHeadBg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 34,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 84.8625,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1226,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1445,
+                  "Y": 0.625
+                },
+                "LeftMargin": 34.8625,
+                "RightMargin": 557.1375,
+                "TopMargin": 30.0,
+                "BottomMargin": 30.0,
+                "Tag": 75,
+                "ActionTag": -685174938,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "head",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "lobby/ShareResource/shareMasterLogo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 27,
+                "Scale9Width": 15,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 13.0003,
+                  "Y": 154.992
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0188,
+                  "Y": 0.9687
+                },
+                "PreSize": {
+                  "X": 0.0592,
+                  "Y": 0.5188
+                },
+                "LeftMargin": 13.0003,
+                "RightMargin": 637.9997,
+                "TopMargin": 5.008,
+                "BottomMargin": 71.992,
+                "Tag": 76,
+                "ActionTag": 1456425744,
+                "Size": {
+                  "X": 41.0,
+                  "Y": 83.0
+                },
+                "Name": "fangzhu_icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 32,
+                "LabelText": "Text Label",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.0,
+                  "Y": 117.1183
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 167,
+                  "G": 111,
+                  "B": 73
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2182,
+                  "Y": 0.732
+                },
+                "PreSize": {
+                  "X": 0.289,
+                  "Y": 0.2062
+                },
+                "LeftMargin": 151.0,
+                "RightMargin": 341.0,
+                "TopMargin": 26.3817,
+                "BottomMargin": 100.6183,
+                "Tag": 77,
+                "ActionTag": 1428182386,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 33.0
+                },
+                "Name": "lbname",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 32,
+                "LabelText": "Text Label",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.0,
+                  "Y": 74.8902
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 167,
+                  "G": 111,
+                  "B": 73
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2182,
+                  "Y": 0.4681
+                },
+                "PreSize": {
+                  "X": 0.3671,
+                  "Y": 0.2062
+                },
+                "LeftMargin": 151.0,
+                "RightMargin": 287.0,
+                "TopMargin": 68.6098,
+                "BottomMargin": 58.3902,
+                "Tag": 78,
+                "ActionTag": 1666332205,
+                "Size": {
+                  "X": 254.0,
+                  "Y": 33.0
+                },
+                "Name": "lbid",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 32,
+                "LabelText": "Text Label",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.0,
+                  "Y": 35.9107
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 167,
+                  "G": 111,
+                  "B": 73
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2182,
+                  "Y": 0.2244
+                },
+                "PreSize": {
+                  "X": 0.4147,
+                  "Y": 0.2062
+                },
+                "LeftMargin": 151.0,
+                "RightMargin": 254.0,
+                "TopMargin": 107.5893,
+                "BottomMargin": 19.4107,
+                "Tag": 79,
+                "ActionTag": -877341346,
+                "Size": {
+                  "X": 287.0,
+                  "Y": 33.0
+                },
+                "Name": "lbupartner",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "lobby/ShareResource/shareBigWinIcon.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 19,
+                "Scale9Width": 35,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 385.6198,
+                  "Y": 120.3853
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5573,
+                  "Y": 0.7524
+                },
+                "PreSize": {
+                  "X": 0.146,
+                  "Y": 0.3625
+                },
+                "LeftMargin": 335.1198,
+                "RightMargin": 255.8802,
+                "TopMargin": 10.6147,
+                "BottomMargin": 91.3853,
+                "Tag": 80,
+                "ActionTag": -461881107,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 58.0
+                },
+                "Name": "bigwin_icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "+6666",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "lobby/ShareResource/fnt/lobby.share.bignumwin.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 564.3602,
+                  "Y": 114.1401
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8155,
+                  "Y": 0.7134
+                },
+                "PreSize": {
+                  "X": 0.3613,
+                  "Y": 0.4125
+                },
+                "LeftMargin": 439.3602,
+                "RightMargin": 2.6398,
+                "TopMargin": 45.8599,
+                "BottomMargin": 48.1401,
+                "Tag": 81,
+                "ActionTag": -1163268036,
+                "Size": {
+                  "X": 250.0,
+                  "Y": 66.0
+                },
+                "Name": "BitmapFontLabel_1",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 2132214940,
+            "Size": {
+              "X": 692.0,
+              "Y": 160.0
+            },
+            "Name": "item",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fnt/lobby.share.bignumwin.fnt",
+        "fnt/lobby.share.bignumwin.png",
+        "shareBg.png",
+        "shareBigWinIcon.png",
+        "shareHeadBg.png",
+        "shareItemBg.png",
+        "shareLogo.png",
+        "shareMasterLogo.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

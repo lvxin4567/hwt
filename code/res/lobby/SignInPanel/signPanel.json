@@ -1,0 +1,2891 @@
+{
+  "ID": "da8d80ab-b1e7-4bd8-a78a-97d52650e149",
+  "Version": "2.3.4",
+  "Name": "signPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 108,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 97,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 117,
+            "ActionTag": -1217493343,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -204,
+            "Scale9OriginY": -141,
+            "Scale9Width": 408,
+            "Scale9Height": 282,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.65
+            },
+            "TopMargin": 126.0,
+            "BottomMargin": 126.0,
+            "Tag": 109,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "lobby/SignInPanel/lspBg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 418,
+                "Scale9OriginY": 201,
+                "Scale9Width": 32,
+                "Scale9Height": 248,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 234.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6781,
+                  "Y": 1.3889
+                },
+                "LeftMargin": 206.0,
+                "RightMargin": 206.0,
+                "TopMargin": -91.0,
+                "BottomMargin": -91.0,
+                "Tag": 17,
+                "ActionTag": -327823067,
+                "Size": {
+                  "X": 868.0,
+                  "Y": 650.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 430.56
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.92
+                },
+                "PreSize": {
+                  "X": 0.5384,
+                  "Y": 0.9061
+                },
+                "LeftMargin": 295.4226,
+                "RightMargin": 295.4226,
+                "TopMargin": 37.44,
+                "BottomMargin": 6.4866,
+                "Tag": 18,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/SignInPanel/lspDayBg.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 55,
+                    "Scale9OriginY": 68,
+                    "Scale9Width": 54,
+                    "Scale9Height": 68,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -0.0002,
+                      "Y": 215.0734
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5072
+                    },
+                    "PreSize": {
+                      "X": 0.2438,
+                      "Y": 0.4928
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": -0.0002,
+                    "RightMargin": 521.155,
+                    "BottomMargin": 215.0734,
+                    "Tag": 25,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspToday.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 55,
+                        "Scale9OriginY": 68,
+                        "Scale9Width": 64,
+                        "Scale9Height": 78,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 104.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0357,
+                          "Y": 1.0239
+                        },
+                        "LeftMargin": -2.9988,
+                        "RightMargin": -2.9988,
+                        "TopMargin": -2.4976,
+                        "BottomMargin": -2.4976,
+                        "Tag": 28,
+                        "ActionTag": 1476866987,
+                        "Size": {
+                          "X": 173.9976,
+                          "Y": 213.9951
+                        },
+                        "Name": "curDayBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "lobby_sign_SignDay.png",
+                          "Plist": "lobby/SignInPanel/lobby_signPanel.plist"
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 8,
+                        "Scale9Width": 26,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 182.9549
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8754
+                        },
+                        "PreSize": {
+                          "X": 0.4405,
+                          "Y": 0.1244
+                        },
+                        "LeftMargin": 47.0,
+                        "RightMargin": 47.0,
+                        "TopMargin": 13.0451,
+                        "BottomMargin": 169.9549,
+                        "Tag": 26,
+                        "ActionTag": -545892697,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 26.0
+                        },
+                        "Name": "Image_8",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "1",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/signDayFont.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.8019,
+                          "Y": 176.3632
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5048,
+                          "Y": 0.8438
+                        },
+                        "PreSize": {
+                          "X": 0.0893,
+                          "Y": 0.1531
+                        },
+                        "LeftMargin": 77.3019,
+                        "RightMargin": 75.6981,
+                        "TopMargin": 16.6368,
+                        "BottomMargin": 160.3632,
+                        "Tag": 27,
+                        "ActionTag": 526926948,
+                        "Size": {
+                          "X": 15.0,
+                          "Y": 32.0
+                        },
+                        "Name": "label_curDay",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspCoin1.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 36,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 28,
+                        "Scale9Height": 31,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.808
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5063
+                        },
+                        "PreSize": {
+                          "X": 0.5952,
+                          "Y": 0.3589
+                        },
+                        "LeftMargin": 34.0,
+                        "RightMargin": 34.0,
+                        "TopMargin": 65.692,
+                        "BottomMargin": 68.308,
+                        "Tag": 29,
+                        "ActionTag": 7086212,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 75.0
+                        },
+                        "Name": "img_prize",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspReceive.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 37,
+                        "Scale9OriginY": 29,
+                        "Scale9Width": 90,
+                        "Scale9Height": 146,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5024
+                        },
+                        "PreSize": {
+                          "X": 0.9762,
+                          "Y": 0.9761
+                        },
+                        "LeftMargin": 2.0,
+                        "RightMargin": 2.0,
+                        "TopMargin": 2.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 69,
+                        "ActionTag": -1693024249,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 204.0
+                        },
+                        "Name": "img_isGet",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "2000金币",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 31.35
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 162,
+                          "G": 56,
+                          "B": 26
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.15
+                        },
+                        "PreSize": {
+                          "X": 0.8748,
+                          "Y": 0.1435
+                        },
+                        "LeftMargin": 10.5147,
+                        "RightMargin": 10.5147,
+                        "TopMargin": 162.65,
+                        "BottomMargin": 16.35,
+                        "Tag": 30,
+                        "ActionTag": 1832369873,
+                        "Size": {
+                          "X": 146.9705,
+                          "Y": 30.0
+                        },
+                        "Name": "label_num",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1058957259,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 209.0
+                    },
+                    "Name": "signDaySmallLayout1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/SignInPanel/lspDayBg.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 55,
+                    "Scale9OriginY": 68,
+                    "Scale9Width": 54,
+                    "Scale9Height": 68,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 173.7181,
+                      "Y": 215.0734
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2521,
+                      "Y": 0.5072
+                    },
+                    "PreSize": {
+                      "X": 0.2438,
+                      "Y": 0.4928
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 173.7181,
+                    "RightMargin": 347.4367,
+                    "BottomMargin": 215.0734,
+                    "Tag": 31,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspToday.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 55,
+                        "Scale9OriginY": 68,
+                        "Scale9Width": 64,
+                        "Scale9Height": 78,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 104.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0357,
+                          "Y": 1.0239
+                        },
+                        "LeftMargin": -2.9988,
+                        "RightMargin": -2.9988,
+                        "TopMargin": -2.4976,
+                        "BottomMargin": -2.4976,
+                        "Tag": 32,
+                        "ActionTag": 1604510282,
+                        "Size": {
+                          "X": 173.9976,
+                          "Y": 213.9951
+                        },
+                        "Name": "curDayBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "lobby_sign_SignDay.png",
+                          "Plist": "lobby/SignInPanel/lobby_signPanel.plist"
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 8,
+                        "Scale9Width": 26,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 182.9549
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8754
+                        },
+                        "PreSize": {
+                          "X": 0.4405,
+                          "Y": 0.1244
+                        },
+                        "LeftMargin": 47.0,
+                        "RightMargin": 47.0,
+                        "TopMargin": 13.0451,
+                        "BottomMargin": 169.9549,
+                        "Tag": 33,
+                        "ActionTag": 1794286986,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 26.0
+                        },
+                        "Name": "Image_8",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "2",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/signDayFont.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.8019,
+                          "Y": 176.3632
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5048,
+                          "Y": 0.8438
+                        },
+                        "PreSize": {
+                          "X": 0.0893,
+                          "Y": 0.1531
+                        },
+                        "LeftMargin": 77.3019,
+                        "RightMargin": 75.6981,
+                        "TopMargin": 16.6368,
+                        "BottomMargin": 160.3632,
+                        "Tag": 34,
+                        "ActionTag": -1428804422,
+                        "Size": {
+                          "X": 15.0,
+                          "Y": 32.0
+                        },
+                        "Name": "label_curDay",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspCoin2.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 36,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 40,
+                        "Scale9Height": 46,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.808
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5063
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.4306
+                        },
+                        "LeftMargin": 28.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 58.192,
+                        "BottomMargin": 60.808,
+                        "Tag": 35,
+                        "ActionTag": 964366413,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 90.0
+                        },
+                        "Name": "img_prize",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspReceive.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 37,
+                        "Scale9OriginY": 29,
+                        "Scale9Width": 90,
+                        "Scale9Height": 146,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5024
+                        },
+                        "PreSize": {
+                          "X": 0.9762,
+                          "Y": 0.9761
+                        },
+                        "LeftMargin": 2.0,
+                        "RightMargin": 2.0,
+                        "TopMargin": 2.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 70,
+                        "ActionTag": -971657349,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 204.0
+                        },
+                        "Name": "img_isGet",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "2000金币",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 31.35
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 162,
+                          "G": 56,
+                          "B": 26
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.15
+                        },
+                        "PreSize": {
+                          "X": 0.8748,
+                          "Y": 0.1435
+                        },
+                        "LeftMargin": 10.5147,
+                        "RightMargin": 10.5147,
+                        "TopMargin": 162.65,
+                        "BottomMargin": 16.35,
+                        "Tag": 36,
+                        "ActionTag": -1245399986,
+                        "Size": {
+                          "X": 146.9705,
+                          "Y": 30.0
+                        },
+                        "Name": "label_num",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -550171876,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 209.0
+                    },
+                    "Name": "signDaySmallLayout2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/SignInPanel/lspDayBg.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 55,
+                    "Scale9OriginY": 68,
+                    "Scale9Width": 54,
+                    "Scale9Height": 68,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 347.4365,
+                      "Y": 215.0734
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5041,
+                      "Y": 0.5072
+                    },
+                    "PreSize": {
+                      "X": 0.2438,
+                      "Y": 0.4928
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 347.4365,
+                    "RightMargin": 173.7183,
+                    "BottomMargin": 215.0734,
+                    "Tag": 37,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspToday.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 55,
+                        "Scale9OriginY": 68,
+                        "Scale9Width": 64,
+                        "Scale9Height": 78,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 104.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0357,
+                          "Y": 1.0239
+                        },
+                        "LeftMargin": -2.9988,
+                        "RightMargin": -2.9988,
+                        "TopMargin": -2.4976,
+                        "BottomMargin": -2.4976,
+                        "Tag": 38,
+                        "ActionTag": -1317603913,
+                        "Size": {
+                          "X": 173.9976,
+                          "Y": 213.9951
+                        },
+                        "Name": "curDayBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "lobby_sign_SignDay.png",
+                          "Plist": "lobby/SignInPanel/lobby_signPanel.plist"
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 8,
+                        "Scale9Width": 26,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 182.9549
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8754
+                        },
+                        "PreSize": {
+                          "X": 0.4405,
+                          "Y": 0.1244
+                        },
+                        "LeftMargin": 47.0,
+                        "RightMargin": 47.0,
+                        "TopMargin": 13.0451,
+                        "BottomMargin": 169.9549,
+                        "Tag": 39,
+                        "ActionTag": 1290899404,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 26.0
+                        },
+                        "Name": "Image_8",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "3",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/signDayFont.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.8019,
+                          "Y": 176.3632
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5048,
+                          "Y": 0.8438
+                        },
+                        "PreSize": {
+                          "X": 0.0893,
+                          "Y": 0.1531
+                        },
+                        "LeftMargin": 77.3019,
+                        "RightMargin": 75.6981,
+                        "TopMargin": 16.6368,
+                        "BottomMargin": 160.3632,
+                        "Tag": 40,
+                        "ActionTag": -1922976761,
+                        "Size": {
+                          "X": 15.0,
+                          "Y": 32.0
+                        },
+                        "Name": "label_curDay",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspCoin3.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 36,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 40,
+                        "Scale9Height": 46,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.808
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5063
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.4306
+                        },
+                        "LeftMargin": 28.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 58.192,
+                        "BottomMargin": 60.808,
+                        "Tag": 41,
+                        "ActionTag": -1454859760,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 90.0
+                        },
+                        "Name": "img_prize",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspReceive.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 37,
+                        "Scale9OriginY": 29,
+                        "Scale9Width": 90,
+                        "Scale9Height": 146,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5024
+                        },
+                        "PreSize": {
+                          "X": 0.9762,
+                          "Y": 0.9761
+                        },
+                        "LeftMargin": 2.0,
+                        "RightMargin": 2.0,
+                        "TopMargin": 2.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 71,
+                        "ActionTag": -736054671,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 204.0
+                        },
+                        "Name": "img_isGet",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "2000金币",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 31.35
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 162,
+                          "G": 56,
+                          "B": 26
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.15
+                        },
+                        "PreSize": {
+                          "X": 0.8748,
+                          "Y": 0.1435
+                        },
+                        "LeftMargin": 10.5147,
+                        "RightMargin": 10.5147,
+                        "TopMargin": 162.65,
+                        "BottomMargin": 16.35,
+                        "Tag": 42,
+                        "ActionTag": -979514143,
+                        "Size": {
+                          "X": 146.9705,
+                          "Y": 30.0
+                        },
+                        "Name": "label_num",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1888017261,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 209.0
+                    },
+                    "Name": "signDaySmallLayout3",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/SignInPanel/lspDayBg.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 55,
+                    "Scale9OriginY": 68,
+                    "Scale9Width": 54,
+                    "Scale9Height": 68,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 521.1547,
+                      "Y": 215.0734
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7562,
+                      "Y": 0.5072
+                    },
+                    "PreSize": {
+                      "X": 0.2438,
+                      "Y": 0.4928
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 521.1547,
+                    "RightMargin": 0.0001,
+                    "BottomMargin": 215.0734,
+                    "Tag": 43,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspToday.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 55,
+                        "Scale9OriginY": 68,
+                        "Scale9Width": 64,
+                        "Scale9Height": 78,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 104.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0357,
+                          "Y": 1.0239
+                        },
+                        "LeftMargin": -2.9988,
+                        "RightMargin": -2.9988,
+                        "TopMargin": -2.4976,
+                        "BottomMargin": -2.4976,
+                        "Tag": 44,
+                        "ActionTag": -1739093400,
+                        "Size": {
+                          "X": 173.9976,
+                          "Y": 213.9951
+                        },
+                        "Name": "curDayBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "lobby_sign_SignDay.png",
+                          "Plist": "lobby/SignInPanel/lobby_signPanel.plist"
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 8,
+                        "Scale9Width": 26,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 182.9549
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8754
+                        },
+                        "PreSize": {
+                          "X": 0.4405,
+                          "Y": 0.1244
+                        },
+                        "LeftMargin": 47.0,
+                        "RightMargin": 47.0,
+                        "TopMargin": 13.0451,
+                        "BottomMargin": 169.9549,
+                        "Tag": 45,
+                        "ActionTag": -1429767196,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 26.0
+                        },
+                        "Name": "Image_8",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "4",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/signDayFont.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.8019,
+                          "Y": 176.3632
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5048,
+                          "Y": 0.8438
+                        },
+                        "PreSize": {
+                          "X": 0.0893,
+                          "Y": 0.1531
+                        },
+                        "LeftMargin": 77.3019,
+                        "RightMargin": 75.6981,
+                        "TopMargin": 16.6368,
+                        "BottomMargin": 160.3632,
+                        "Tag": 46,
+                        "ActionTag": -1086948504,
+                        "Size": {
+                          "X": 15.0,
+                          "Y": 32.0
+                        },
+                        "Name": "label_curDay",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspCoin4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 36,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 39,
+                        "Scale9Height": 52,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.808
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5063
+                        },
+                        "PreSize": {
+                          "X": 0.6607,
+                          "Y": 0.4593
+                        },
+                        "LeftMargin": 28.5,
+                        "RightMargin": 28.5,
+                        "TopMargin": 55.192,
+                        "BottomMargin": 57.808,
+                        "Tag": 47,
+                        "ActionTag": -1213265356,
+                        "Size": {
+                          "X": 111.0,
+                          "Y": 96.0
+                        },
+                        "Name": "img_prize",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspReceive.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 37,
+                        "Scale9OriginY": 29,
+                        "Scale9Width": 90,
+                        "Scale9Height": 146,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5024
+                        },
+                        "PreSize": {
+                          "X": 0.9762,
+                          "Y": 0.9761
+                        },
+                        "LeftMargin": 2.0,
+                        "RightMargin": 2.0,
+                        "TopMargin": 2.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 72,
+                        "ActionTag": 201735254,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 204.0
+                        },
+                        "Name": "img_isGet",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "2000金币",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 31.35
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 162,
+                          "G": 56,
+                          "B": 26
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.15
+                        },
+                        "PreSize": {
+                          "X": 0.8748,
+                          "Y": 0.1435
+                        },
+                        "LeftMargin": 10.5147,
+                        "RightMargin": 10.5147,
+                        "TopMargin": 162.65,
+                        "BottomMargin": 16.35,
+                        "Tag": 48,
+                        "ActionTag": 1855852048,
+                        "Size": {
+                          "X": 146.9705,
+                          "Y": 30.0
+                        },
+                        "Name": "label_num",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 149808307,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 209.0
+                    },
+                    "Name": "signDaySmallLayout4",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/SignInPanel/lspDayBg.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 55,
+                    "Scale9OriginY": 68,
+                    "Scale9Width": 54,
+                    "Scale9Height": 68,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -0.0002,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.2438,
+                      "Y": 0.4928
+                    },
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": -0.0002,
+                    "RightMargin": 521.155,
+                    "TopMargin": 215.0734,
+                    "Tag": 49,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspToday.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 55,
+                        "Scale9OriginY": 68,
+                        "Scale9Width": 64,
+                        "Scale9Height": 78,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 104.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0357,
+                          "Y": 1.0239
+                        },
+                        "LeftMargin": -2.9988,
+                        "RightMargin": -2.9988,
+                        "TopMargin": -2.4976,
+                        "BottomMargin": -2.4976,
+                        "Tag": 50,
+                        "ActionTag": 241515720,
+                        "Size": {
+                          "X": 173.9976,
+                          "Y": 213.9951
+                        },
+                        "Name": "curDayBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "lobby_sign_SignDay.png",
+                          "Plist": "lobby/SignInPanel/lobby_signPanel.plist"
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 8,
+                        "Scale9Width": 26,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 182.9549
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8754
+                        },
+                        "PreSize": {
+                          "X": 0.4405,
+                          "Y": 0.1244
+                        },
+                        "LeftMargin": 47.0,
+                        "RightMargin": 47.0,
+                        "TopMargin": 13.0451,
+                        "BottomMargin": 169.9549,
+                        "Tag": 51,
+                        "ActionTag": -2122096225,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 26.0
+                        },
+                        "Name": "Image_8",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "5",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/signDayFont.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.8019,
+                          "Y": 176.3632
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5048,
+                          "Y": 0.8438
+                        },
+                        "PreSize": {
+                          "X": 0.0893,
+                          "Y": 0.1531
+                        },
+                        "LeftMargin": 77.3019,
+                        "RightMargin": 75.6981,
+                        "TopMargin": 16.6368,
+                        "BottomMargin": 160.3632,
+                        "Tag": 52,
+                        "ActionTag": -1652433661,
+                        "Size": {
+                          "X": 15.0,
+                          "Y": 32.0
+                        },
+                        "Name": "label_curDay",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspCoin5.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 36,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 34,
+                        "Scale9Height": 53,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.808
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5063
+                        },
+                        "PreSize": {
+                          "X": 0.631,
+                          "Y": 0.4641
+                        },
+                        "LeftMargin": 31.0,
+                        "RightMargin": 31.0,
+                        "TopMargin": 54.692,
+                        "BottomMargin": 57.308,
+                        "Tag": 53,
+                        "ActionTag": -1240323152,
+                        "Size": {
+                          "X": 106.0,
+                          "Y": 97.0
+                        },
+                        "Name": "img_prize",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspReceive.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 37,
+                        "Scale9OriginY": 29,
+                        "Scale9Width": 90,
+                        "Scale9Height": 146,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5024
+                        },
+                        "PreSize": {
+                          "X": 0.9762,
+                          "Y": 0.9761
+                        },
+                        "LeftMargin": 2.0,
+                        "RightMargin": 2.0,
+                        "TopMargin": 2.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 73,
+                        "ActionTag": -137283844,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 204.0
+                        },
+                        "Name": "img_isGet",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "2000金币",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 31.35
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 162,
+                          "G": 56,
+                          "B": 26
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.15
+                        },
+                        "PreSize": {
+                          "X": 0.8748,
+                          "Y": 0.1435
+                        },
+                        "LeftMargin": 10.5147,
+                        "RightMargin": 10.5147,
+                        "TopMargin": 162.65,
+                        "BottomMargin": 16.35,
+                        "Tag": 54,
+                        "ActionTag": 1793350194,
+                        "Size": {
+                          "X": 146.9705,
+                          "Y": 30.0
+                        },
+                        "Name": "label_num",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1692304978,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 209.0
+                    },
+                    "Name": "signDaySmallLayout5",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/SignInPanel/lspDayBg.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 55,
+                    "Scale9OriginY": 68,
+                    "Scale9Width": 54,
+                    "Scale9Height": 68,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 173.7181,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2521,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.2438,
+                      "Y": 0.4928
+                    },
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 173.7181,
+                    "RightMargin": 347.4367,
+                    "TopMargin": 215.0734,
+                    "Tag": 55,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspToday.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 55,
+                        "Scale9OriginY": 68,
+                        "Scale9Width": 64,
+                        "Scale9Height": 78,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 104.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0357,
+                          "Y": 1.0239
+                        },
+                        "LeftMargin": -2.9988,
+                        "RightMargin": -2.9988,
+                        "TopMargin": -2.4976,
+                        "BottomMargin": -2.4976,
+                        "Tag": 56,
+                        "ActionTag": 474358972,
+                        "Size": {
+                          "X": 173.9976,
+                          "Y": 213.9951
+                        },
+                        "Name": "curDayBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "lobby_sign_SignDay.png",
+                          "Plist": "lobby/SignInPanel/lobby_signPanel.plist"
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 8,
+                        "Scale9Width": 26,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 182.9549
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8754
+                        },
+                        "PreSize": {
+                          "X": 0.4405,
+                          "Y": 0.1244
+                        },
+                        "LeftMargin": 47.0,
+                        "RightMargin": 47.0,
+                        "TopMargin": 13.0451,
+                        "BottomMargin": 169.9549,
+                        "Tag": 57,
+                        "ActionTag": -594527051,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 26.0
+                        },
+                        "Name": "Image_8",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "6",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/signDayFont.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.8019,
+                          "Y": 176.3632
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5048,
+                          "Y": 0.8438
+                        },
+                        "PreSize": {
+                          "X": 0.0893,
+                          "Y": 0.1531
+                        },
+                        "LeftMargin": 77.3019,
+                        "RightMargin": 75.6981,
+                        "TopMargin": 16.6368,
+                        "BottomMargin": 160.3632,
+                        "Tag": 58,
+                        "ActionTag": 217385374,
+                        "Size": {
+                          "X": 15.0,
+                          "Y": 32.0
+                        },
+                        "Name": "label_curDay",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspCoin6.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 36,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 40,
+                        "Scale9Height": 65,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.808
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5063
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.5215
+                        },
+                        "LeftMargin": 28.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 48.692,
+                        "BottomMargin": 51.308,
+                        "Tag": 59,
+                        "ActionTag": -799914985,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 109.0
+                        },
+                        "Name": "img_prize",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspReceive.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 37,
+                        "Scale9OriginY": 29,
+                        "Scale9Width": 90,
+                        "Scale9Height": 146,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5024
+                        },
+                        "PreSize": {
+                          "X": 0.9762,
+                          "Y": 0.9761
+                        },
+                        "LeftMargin": 2.0,
+                        "RightMargin": 2.0,
+                        "TopMargin": 2.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 74,
+                        "ActionTag": -1536244409,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 204.0
+                        },
+                        "Name": "img_isGet",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "2000金币",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.0,
+                          "Y": 31.35
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 162,
+                          "G": 56,
+                          "B": 26
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.15
+                        },
+                        "PreSize": {
+                          "X": 0.8748,
+                          "Y": 0.1435
+                        },
+                        "LeftMargin": 10.5147,
+                        "RightMargin": 10.5147,
+                        "TopMargin": 162.65,
+                        "BottomMargin": 16.35,
+                        "Tag": 60,
+                        "ActionTag": 72671529,
+                        "Size": {
+                          "X": 146.9705,
+                          "Y": 30.0
+                        },
+                        "Name": "label_num",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -753556487,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 209.0
+                    },
+                    "Name": "signDaySmallLayout6",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/SignInPanel/lspDay7Bg.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 55,
+                    "Scale9OriginY": 68,
+                    "Scale9Width": 224,
+                    "Scale9Height": 68,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 349.089,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5065,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.4905,
+                      "Y": 0.4928
+                    },
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 349.089,
+                    "RightMargin": 2.0658,
+                    "TopMargin": 215.0734,
+                    "Tag": 61,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspToday.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 10,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 154,
+                        "Scale9Height": 194,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 169.0,
+                          "Y": 104.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 62,
+                        "ActionTag": -948656030,
+                        "Size": {
+                          "X": 338.0,
+                          "Y": 209.0
+                        },
+                        "Name": "curDayBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "lobby_sign_SignDay.png",
+                          "Plist": "lobby/SignInPanel/lobby_signPanel.plist"
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 8,
+                        "Scale9Width": 26,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 169.0,
+                          "Y": 182.9549
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8754
+                        },
+                        "PreSize": {
+                          "X": 0.2189,
+                          "Y": 0.1244
+                        },
+                        "LeftMargin": 132.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 13.0451,
+                        "BottomMargin": 169.9549,
+                        "Tag": 63,
+                        "ActionTag": 1859243190,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 26.0
+                        },
+                        "Name": "Image_8",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "7",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/signDayFont.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 169.0,
+                          "Y": 176.3632
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8438
+                        },
+                        "PreSize": {
+                          "X": 0.0444,
+                          "Y": 0.1531
+                        },
+                        "LeftMargin": 161.5,
+                        "RightMargin": 161.5,
+                        "TopMargin": 16.6368,
+                        "BottomMargin": 160.3632,
+                        "Tag": 64,
+                        "ActionTag": -1745895361,
+                        "Size": {
+                          "X": 15.0,
+                          "Y": 32.0
+                        },
+                        "Name": "label_curDay",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspCoin7.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 36,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 72,
+                        "Scale9Height": 65,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 169.0,
+                          "Y": 105.808
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5063
+                        },
+                        "PreSize": {
+                          "X": 0.426,
+                          "Y": 0.5215
+                        },
+                        "LeftMargin": 97.0,
+                        "RightMargin": 97.0,
+                        "TopMargin": 48.692,
+                        "BottomMargin": 51.308,
+                        "Tag": 65,
+                        "ActionTag": -1034801559,
+                        "Size": {
+                          "X": 144.0,
+                          "Y": 109.0
+                        },
+                        "Name": "img_prize",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "lobby/SignInPanel/lspReceive7.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 37,
+                        "Scale9OriginY": 29,
+                        "Scale9Width": 260,
+                        "Scale9Height": 146,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 169.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5024
+                        },
+                        "PreSize": {
+                          "X": 0.9882,
+                          "Y": 0.9761
+                        },
+                        "LeftMargin": 2.0,
+                        "RightMargin": 2.0,
+                        "TopMargin": 2.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 75,
+                        "ActionTag": -1735908624,
+                        "Size": {
+                          "X": 334.0,
+                          "Y": 204.0
+                        },
+                        "Name": "img_isGet",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "2000金币",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 169.0,
+                          "Y": 31.35
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 162,
+                          "G": 56,
+                          "B": 26
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.15
+                        },
+                        "PreSize": {
+                          "X": 0.4348,
+                          "Y": 0.1435
+                        },
+                        "LeftMargin": 95.5147,
+                        "RightMargin": 95.5147,
+                        "TopMargin": 162.65,
+                        "BottomMargin": 16.35,
+                        "Tag": 66,
+                        "ActionTag": -1220741051,
+                        "Size": {
+                          "X": 146.9705,
+                          "Y": 30.0
+                        },
+                        "Name": "label_num",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 746219891,
+                    "Size": {
+                      "X": 338.0,
+                      "Y": 209.0
+                    },
+                    "Name": "signDaySmallLayout7",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1447194232,
+                "Size": {
+                  "X": 689.1548,
+                  "Y": 424.0734
+                },
+                "Name": "signLayout",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_green_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_green.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 198,
+                "Scale9Height": 59,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.7468,
+                  "Y": -42.12
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4998,
+                  "Y": -0.09
+                },
+                "PreSize": {
+                  "X": 0.1781,
+                  "Y": 0.1731
+                },
+                "LeftMargin": 525.7468,
+                "RightMargin": 526.2532,
+                "TopMargin": 469.62,
+                "BottomMargin": -82.62,
+                "Tag": 67,
+                "Children": [
+                  {
+                    "LabelText": "立即签到",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "common/Fonts/common.green_font.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 114.0,
+                      "Y": 45.0698
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5564
+                    },
+                    "PreSize": {
+                      "X": 0.6184,
+                      "Y": 0.4321
+                    },
+                    "LeftMargin": 43.5,
+                    "RightMargin": 43.5,
+                    "TopMargin": 18.4302,
+                    "BottomMargin": 27.5698,
+                    "Tag": 68,
+                    "ActionTag": -1698598830,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 35.0
+                    },
+                    "Name": "fntSignIn",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -94883448,
+                "Size": {
+                  "X": 228.0,
+                  "Y": 81.0
+                },
+                "Name": "btn_Draw",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_close_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_close.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1002.0,
+                  "Y": 489.2355
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7828,
+                  "Y": 1.0454
+                },
+                "PreSize": {
+                  "X": 0.0437,
+                  "Y": 0.1239
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 974.0,
+                "RightMargin": 250.0,
+                "TopMargin": -50.2355,
+                "BottomMargin": 460.2355,
+                "Tag": 141,
+                "ActionTag": -2084451372,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 58.0
+                },
+                "Name": "Close",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1664355676,
+            "Size": {
+              "X": 1280.0,
+              "Y": 468.0
+            },
+            "Name": "contentPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../common/bnts/common_new_btns.plist",
+        "../../common/bnts/common_new_btns.png",
+        "../../common/Fonts/common.green_font.fnt",
+        "../../common/Fonts/common.green_font.png",
+        "../../common/Fonts/signDayFont.fnt",
+        "../../common/Fonts/signDayFont_0.png",
+        "lobby_signPanel.plist",
+        "lobby_signPanel.png",
+        "lspBg.png",
+        "lspCoin1.png",
+        "lspCoin2.png",
+        "lspCoin3.png",
+        "lspCoin4.png",
+        "lspCoin5.png",
+        "lspCoin6.png",
+        "lspCoin7.png",
+        "lspDay7Bg.png",
+        "lspDayBg.png",
+        "lspReceive.png",
+        "lspReceive7.png",
+        "lspToday.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_pengpenghu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/pengpenghu_glow
+  rotate: false
+  xy: 2, 2
+  size: 406, 180
+  orig: 480, 256
+  offset: 40, 38
+  index: -1
+donghua/library/pengpenghu_glow2
+  rotate: false
+  xy: 2, 184
+  size: 474, 256
+  orig: 480, 256
+  offset: 6, 0
+  index: -1
+donghua/library/pengpenghu_txt
+  rotate: false
+  xy: 478, 315
+  size: 370, 125
+  orig: 480, 256
+  offset: 56, 64
+  index: -1

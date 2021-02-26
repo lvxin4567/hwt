@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,359},{48,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{48,152}}</string>
+				<key>sourceSize</key>
+				<string>{48,152}</string>
+			</dict>
+
+			<key>down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,180},{58,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{58,59}}</string>
+				<key>sourceSize</key>
+				<string>{58,59}</string>
+			</dict>
+
+			<key>down_deep.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,120},{58,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{58,59}}</string>
+				<key>sourceSize</key>
+				<string>{58,59}</string>
+			</dict>
+
+			<key>down_gray.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{58,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{58,59}}</string>
+				<key>sourceSize</key>
+				<string>{58,59}</string>
+			</dict>
+
+			<key>up.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,240},{58,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{58,59}}</string>
+				<key>sourceSize</key>
+				<string>{58,59}</string>
+			</dict>
+
+			<key>up_deep.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,60},{58,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{58,59}}</string>
+				<key>sourceSize</key>
+				<string>{58,59}</string>
+			</dict>
+
+			<key>up_gray.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,300},{56,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,0},{56,58}}</string>
+				<key>sourceSize</key>
+				<string>{58,59}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{64,512}</string>
+			<key>textureFileName</key>
+			<string>upDownFloor.png</string>
+			</dict>
+		</dict>
+</plist>

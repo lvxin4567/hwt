@@ -1,0 +1,16 @@
+{
+  "name": "weixin-js-adapter",
+  "version": "1.0.0",
+  "description": "weixin adapter",
+  "main": "index.js",
+  "author": "baoshitang@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "gulplog": "^1.0.0",
+    "json-min-max": "^1.0.0",
+    "safe-buffer": "^5.1.2",
+    "through2": "^3.0.1",
+    "uglify-js": "^3.4.10"
+  }
+}

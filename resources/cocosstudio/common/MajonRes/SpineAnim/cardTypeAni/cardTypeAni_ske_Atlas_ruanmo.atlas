@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_ruanmo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/ruanmo_glow
+  rotate: false
+  xy: 2, 34
+  size: 450, 214
+  orig: 512, 256
+  offset: 33, 19
+  index: -1
+donghua/library/ruanmo_glow2
+  rotate: false
+  xy: 454, 46
+  size: 413, 202
+  orig: 512, 256
+  offset: 55, 31
+  index: -1
+donghua/library/ruanmo_txt
+  rotate: true
+  xy: 869, 2
+  size: 246, 122
+  orig: 512, 256
+  offset: 136, 69
+  index: -1

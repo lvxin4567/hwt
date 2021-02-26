@@ -1,0 +1,76 @@
+
+dhcg.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bt
+  rotate: false
+  xy: 1284, 111
+  size: 543, 104
+  orig: 543, 104
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 2, 33
+  size: 1280, 470
+  orig: 1280, 470
+  offset: 0, 0
+  index: -1
+dg
+  rotate: false
+  xy: 1284, 217
+  size: 650, 286
+  orig: 650, 286
+  offset: 0, 0
+  index: -1
+gl1
+  rotate: false
+  xy: 1970, 490
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+gl2
+  rotate: false
+  xy: 1829, 190
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+gl3
+  rotate: false
+  xy: 1284, 84
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+gl4
+  rotate: false
+  xy: 1936, 462
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+gl5
+  rotate: false
+  xy: 1936, 478
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 2, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: false
+  xy: 33, 7
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

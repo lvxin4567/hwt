@@ -1,0 +1,1122 @@
+{
+  "ID": "43ce6f50-17a8-4681-ac97-687d8131bae6",
+  "Version": "2.3.4",
+  "Name": "AgreementPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 16,
+            "ActionTag": 1231782783,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lobby/AgreementPanel/login_new_agreement_bg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 297,
+            "Scale9OriginY": 170,
+            "Scale9Width": 294,
+            "Scale9Height": 208,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7234,
+              "Y": 0.7792
+            },
+            "LeftMargin": 177.0,
+            "RightMargin": 177.0,
+            "TopMargin": 79.5,
+            "BottomMargin": 79.5,
+            "Tag": 48,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_close_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_close.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 921.126,
+                  "Y": 555.0192
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9947,
+                  "Y": 0.9893
+                },
+                "PreSize": {
+                  "X": 0.0605,
+                  "Y": 0.1034
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 893.126,
+                "RightMargin": -23.126,
+                "TopMargin": -23.0192,
+                "BottomMargin": 526.0192,
+                "Tag": 301,
+                "ActionTag": 847559617,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 58.0
+                },
+                "Name": "btnClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/bgs/dialogTitleBg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 463.0,
+                  "Y": 524.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9349
+                },
+                "PreSize": {
+                  "X": 0.2678,
+                  "Y": 0.1301
+                },
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 339.0,
+                "RightMargin": 339.0,
+                "BottomMargin": 488.0,
+                "Tag": 72,
+                "Children": [
+                  {
+                    "LabelText": "用户协议",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "common/Fonts/common.dialog_title.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 124.0,
+                      "Y": 40.15
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.55
+                    },
+                    "PreSize": {
+                      "X": 0.5484,
+                      "Y": 0.4932
+                    },
+                    "LeftMargin": 56.0,
+                    "RightMargin": 56.0,
+                    "TopMargin": 14.85,
+                    "BottomMargin": 22.15,
+                    "Tag": 21,
+                    "ActionTag": -254608818,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 36.0
+                    },
+                    "Name": "BitmapFontLabel_1",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -741773809,
+                "Size": {
+                  "X": 248.0,
+                  "Y": 73.0
+                },
+                "Name": "talert_title_bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 843,
+                  "Height": 415
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 463.0,
+                  "Y": 52.9891
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0945
+                },
+                "PreSize": {
+                  "X": 0.9104,
+                  "Y": 0.7344
+                },
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 41.5,
+                "RightMargin": 41.5,
+                "TopMargin": 96.0109,
+                "BottomMargin": 52.9891,
+                "Tag": 37,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_01.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.2072
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -501.0,
+                    "Tag": 36,
+                    "ActionTag": 1162728288,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 916.0
+                    },
+                    "Name": "login_agreement_01",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_02.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": -556.9606
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -1.3421
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3494
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": 484.4606,
+                    "BottomMargin": -1044.4606,
+                    "Tag": 38,
+                    "ActionTag": -1315669596,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 975.0
+                    },
+                    "Name": "login_agreement_02",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_03.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": -643.8232
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -1.5514
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4265
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": 555.3232,
+                    "BottomMargin": -1147.3232,
+                    "Tag": 39,
+                    "ActionTag": 1465329074,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1007.0
+                    },
+                    "Name": "login_agreement_03",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_04.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": -762.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -1.8363
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4337
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": 672.0511,
+                    "BottomMargin": -1267.051,
+                    "Tag": 40,
+                    "ActionTag": 433971308,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1010.0
+                    },
+                    "Name": "login_agreement_04",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_05.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": -762.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -1.8363
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4217
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": 674.5511,
+                    "BottomMargin": -1264.551,
+                    "Tag": 41,
+                    "ActionTag": -1688286457,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1005.0
+                    },
+                    "Name": "login_agreement_05",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_06.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": -863.3916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -2.0805
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4337
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": 773.3916,
+                    "BottomMargin": -1368.3916,
+                    "Tag": 42,
+                    "ActionTag": 853541839,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1010.0
+                    },
+                    "Name": "login_agreement_06",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_07.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": -996.0967
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -2.4002
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3373
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": 926.0967,
+                    "BottomMargin": -1481.0967,
+                    "Tag": 43,
+                    "ActionTag": -206337667,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 970.0
+                    },
+                    "Name": "login_agreement_07",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_08.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 212.8412
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5129
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4289
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -301.8412,
+                    "BottomMargin": -291.1588,
+                    "Tag": 44,
+                    "ActionTag": -1678577012,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1008.0
+                    },
+                    "Name": "login_agreement_08",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_09.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 118.414
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2853
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4289
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -207.414,
+                    "BottomMargin": -385.586,
+                    "Tag": 45,
+                    "ActionTag": -47910322,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1008.0
+                    },
+                    "Name": "login_agreement_09",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_10.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 108.414
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2612
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4313
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -197.914,
+                    "BottomMargin": -396.086,
+                    "Tag": 102,
+                    "ActionTag": 1803119897,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1009.0
+                    },
+                    "Name": "login_agreement_10",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_11.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 98.414
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2371
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4265
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -186.914,
+                    "BottomMargin": -405.086,
+                    "Tag": 103,
+                    "ActionTag": 1908668385,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1007.0
+                    },
+                    "Name": "login_agreement_11",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_12.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 88.414
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.213
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4313
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -177.914,
+                    "BottomMargin": -416.086,
+                    "Tag": 104,
+                    "ActionTag": -920412810,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1009.0
+                    },
+                    "Name": "login_agreement_12",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_13.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 78.414
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1889
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4361
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -168.914,
+                    "BottomMargin": -427.086,
+                    "Tag": 105,
+                    "ActionTag": -2134406167,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1011.0
+                    },
+                    "Name": "login_agreement_13",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 21190592,
+                "Size": {
+                  "X": 843.0,
+                  "Y": 412.0
+                },
+                "Name": "agreeScroll",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common.btn_gray_228x83.png",
+                  "Plist": "common/bnts/common.btngroup.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_green_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_green.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 198,
+                "Scale9Height": 59,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 463.0,
+                  "Y": -32.6996
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.0583
+                },
+                "PreSize": {
+                  "X": 0.2462,
+                  "Y": 0.1444
+                },
+                "LeftMargin": 349.0,
+                "RightMargin": 349.0,
+                "TopMargin": 553.1996,
+                "BottomMargin": -73.1996,
+                "Tag": 100,
+                "Children": [
+                  {
+                    "LabelText": "我 同 意",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "common/Fonts/common.green_font.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 114.0,
+                      "Y": 44.55
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.55
+                    },
+                    "PreSize": {
+                      "X": 0.4649,
+                      "Y": 0.4321
+                    },
+                    "LeftMargin": 61.0,
+                    "RightMargin": 61.0,
+                    "TopMargin": 18.95,
+                    "BottomMargin": 27.05,
+                    "Tag": 484,
+                    "ActionTag": -1134486271,
+                    "Size": {
+                      "X": 106.0,
+                      "Y": 35.0
+                    },
+                    "Name": "label",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 1938811158,
+                "Size": {
+                  "X": 228.0,
+                  "Y": 81.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_ok",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1208128794,
+            "Size": {
+              "X": 926.0,
+              "Y": 561.0
+            },
+            "Name": "contentPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../common/bgs/dialogTitleBg.png",
+        "../../common/bnts/common.btngroup.plist",
+        "../../common/bnts/common.btngroup.png",
+        "../../common/bnts/common_new_btns.plist",
+        "../../common/bnts/common_new_btns.png",
+        "../../common/Fonts/common.dialog_title.fnt",
+        "../../common/Fonts/common.dialog_title.png",
+        "../../common/Fonts/common.green_font.fnt",
+        "../../common/Fonts/common.green_font.png",
+        "../../Default/Button_Disable.png",
+        "login_new_agreement_01.png",
+        "login_new_agreement_02.png",
+        "login_new_agreement_03.png",
+        "login_new_agreement_04.png",
+        "login_new_agreement_05.png",
+        "login_new_agreement_06.png",
+        "login_new_agreement_07.png",
+        "login_new_agreement_08.png",
+        "login_new_agreement_09.png",
+        "login_new_agreement_10.png",
+        "login_new_agreement_11.png",
+        "login_new_agreement_12.png",
+        "login_new_agreement_13.png",
+        "login_new_agreement_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

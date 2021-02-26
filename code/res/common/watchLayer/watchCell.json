@@ -1,0 +1,180 @@
+{
+  "ID": "388d3922-b6d2-462b-841c-fc605d929390",
+  "Version": "2.3.4",
+  "Name": "watchCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 402,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "watch_icon.png",
+              "Plist": "common/watchLayer/watchLayer.plist"
+            },
+            "Scale9OriginX": 21,
+            "Scale9OriginY": 21,
+            "Scale9Width": 22,
+            "Scale9Height": 22,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 24.2364,
+              "Y": 22.3803
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1346,
+              "Y": 0.4973
+            },
+            "PreSize": {
+              "X": 0.2222,
+              "Y": 0.8889
+            },
+            "LeftMargin": 4.2364,
+            "RightMargin": 135.7636,
+            "TopMargin": 2.6197,
+            "BottomMargin": 2.3803,
+            "Tag": 403,
+            "ActionTag": 1721512208,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "watch_icon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "昵称昵称昵称",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 52.956,
+              "Y": 32.8498
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 250,
+              "B": 212
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2942,
+              "Y": 0.73
+            },
+            "PreSize": {
+              "X": 0.6,
+              "Y": 0.4
+            },
+            "LeftMargin": 52.956,
+            "RightMargin": 19.044,
+            "TopMargin": 3.1502,
+            "BottomMargin": 23.8498,
+            "Tag": 404,
+            "ActionTag": 1915505632,
+            "Size": {
+              "X": 108.0,
+              "Y": 18.0
+            },
+            "Name": "username",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "IDIDID",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 52.956,
+              "Y": 10.6328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 250,
+              "B": 212
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2942,
+              "Y": 0.2363
+            },
+            "PreSize": {
+              "X": 0.3,
+              "Y": 0.4
+            },
+            "LeftMargin": 52.956,
+            "RightMargin": 73.044,
+            "TopMargin": 25.3672,
+            "BottomMargin": 1.6328,
+            "Tag": 405,
+            "ActionTag": 1971903351,
+            "Size": {
+              "X": 54.0,
+              "Y": 18.0
+            },
+            "Name": "userid",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 180.0,
+          "Y": 45.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "watchLayer.plist",
+        "watchLayer.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

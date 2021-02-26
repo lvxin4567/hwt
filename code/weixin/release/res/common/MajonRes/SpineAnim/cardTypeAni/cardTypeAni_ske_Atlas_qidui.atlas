@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_qidui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/qidui_glow
+  rotate: false
+  xy: 2, 218
+  size: 450, 214
+  orig: 512, 256
+  offset: 33, 19
+  index: -1
+donghua/library/qidui_glow2
+  rotate: false
+  xy: 2, 2
+  size: 450, 214
+  orig: 512, 256
+  offset: 33, 19
+  index: -1
+donghua/library/qidui_txt
+  rotate: false
+  xy: 454, 308
+  size: 257, 124
+  orig: 512, 256
+  offset: 128, 65
+  index: -1

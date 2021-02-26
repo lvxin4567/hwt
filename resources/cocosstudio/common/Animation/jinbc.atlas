@@ -1,0 +1,48 @@
+
+jinbc.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 2, 116
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+djb
+  rotate: false
+  xy: 180, 219
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+mingz
+  rotate: true
+  xy: 139, 129
+  size: 123, 39
+  orig: 123, 39
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 2, 2
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+xjb
+  rotate: false
+  xy: 139, 120
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+zjb
+  rotate: false
+  xy: 108, 97
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

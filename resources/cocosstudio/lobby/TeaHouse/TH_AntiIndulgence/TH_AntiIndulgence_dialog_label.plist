@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>th_anti_dialog_label1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,0},{186,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{186,29}}</string>
+				<key>sourceSize</key>
+				<string>{186,29}</string>
+			</dict>
+
+			<key>th_anti_dialog_label3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{505,0},{129,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{129,29}}</string>
+				<key>sourceSize</key>
+				<string>{129,29}</string>
+			</dict>
+
+			<key>th_anti_dialog_label4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{764,0},{128,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{128,29}}</string>
+				<key>sourceSize</key>
+				<string>{128,29}</string>
+			</dict>
+
+			<key>th_anti_dialog_label5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{635,0},{128,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{128,28}}</string>
+				<key>sourceSize</key>
+				<string>{128,28}</string>
+			</dict>
+
+			<key>th_anti_dialog_label6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{893,0},{126,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{126,29}}</string>
+				<key>sourceSize</key>
+				<string>{126,29}</string>
+			</dict>
+
+			<key>th_anti_dialog_label7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{186,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{186,29}}</string>
+				<key>sourceSize</key>
+				<string>{186,29}</string>
+			</dict>
+
+			<key>th_anti_dialog_lable2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{374,0},{130,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{130,28}}</string>
+				<key>sourceSize</key>
+				<string>{130,28}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{1024,32}</string>
+			<key>textureFileName</key>
+			<string>TH_AntiIndulgence_dialog_label.png</string>
+			</dict>
+		</dict>
+</plist>

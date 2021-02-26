@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_haidilao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/haidilao_glow
+  rotate: false
+  xy: 2, 139
+  size: 380, 144
+  orig: 500, 300
+  offset: 52, 83
+  index: -1
+donghua/library/haidilao_glow2
+  rotate: false
+  xy: 2, 285
+  size: 415, 160
+  orig: 500, 300
+  offset: 53, 73
+  index: -1
+donghua/library/haidilao_txt
+  rotate: false
+  xy: 2, 2
+  size: 373, 135
+  orig: 500, 300
+  offset: 69, 89
+  index: -1

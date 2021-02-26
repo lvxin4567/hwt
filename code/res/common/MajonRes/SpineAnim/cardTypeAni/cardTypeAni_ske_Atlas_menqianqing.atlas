@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_menqianqing.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/menqing_glow
+  rotate: false
+  xy: 2, 326
+  size: 463, 179
+  orig: 480, 256
+  offset: 7, 42
+  index: -1
+donghua/library/menqing_glow2
+  rotate: false
+  xy: 2, 145
+  size: 463, 179
+  orig: 480, 256
+  offset: 7, 42
+  index: -1
+donghua/library/menqing_txt
+  rotate: false
+  xy: 2, 2
+  size: 374, 141
+  orig: 480, 256
+  offset: 51, 59
+  index: -1

@@ -1,0 +1,401 @@
+{
+  "ID": "51d2d321-ef57-43a6-b2b6-c62d4c8fb9f4",
+  "Version": "2.3.4",
+  "Name": "AntiNoteCard",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 305,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1605,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common.anc.bg.png",
+                  "Plist": "common/Poker/AntiNoteCard/common.AntiNoteCard.plist"
+                },
+                "Scale9OriginX": 354,
+                "Scale9OriginY": 209,
+                "Scale9Width": 298,
+                "Scale9Height": 218,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 367.2
+                },
+                "Scale": {
+                  "ScaleX": 1.08,
+                  "ScaleY": 1.08
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.51
+                },
+                "PreSize": {
+                  "X": 0.8391,
+                  "Y": 0.8833
+                },
+                "LeftMargin": 103.0,
+                "RightMargin": 103.0,
+                "TopMargin": 34.8,
+                "BottomMargin": 49.2,
+                "Tag": 624,
+                "ActionTag": 1266324372,
+                "Size": {
+                  "X": 1074.0,
+                  "Y": 636.0
+                },
+                "Name": "ImageBg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "StretchWidthEnable": true,
+                "StretchHeightEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "Tag": 1600,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 245.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.55,
+                      "ScaleY": 0.55
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3403
+                    },
+                    "PreSize": {
+                      "X": 0.4688,
+                      "Y": 0.2778
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 340.0,
+                    "RightMargin": 340.0,
+                    "TopMargin": 275.0,
+                    "BottomMargin": 245.0,
+                    "Tag": 1601,
+                    "ActionTag": 507589481,
+                    "Size": {
+                      "X": 600.0,
+                      "Y": 200.0
+                    },
+                    "Name": "Panel_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0
+                    },
+                    "Position": {
+                      "X": 1071.0,
+                      "Y": 409.968
+                    },
+                    "Scale": {
+                      "ScaleX": 0.55,
+                      "ScaleY": 0.55
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8367,
+                      "Y": 0.5694
+                    },
+                    "PreSize": {
+                      "X": 0.4688,
+                      "Y": 0.2778
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 471.0,
+                    "RightMargin": 209.0,
+                    "TopMargin": 110.032,
+                    "BottomMargin": 409.968,
+                    "Tag": 1602,
+                    "ActionTag": 1139956434,
+                    "Size": {
+                      "X": 600.0,
+                      "Y": 200.0
+                    },
+                    "Name": "Panel_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 600.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.55,
+                      "ScaleY": 0.55
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8333
+                    },
+                    "PreSize": {
+                      "X": 0.4688,
+                      "Y": 0.2778
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 340.0,
+                    "RightMargin": 340.0,
+                    "TopMargin": 120.0,
+                    "BottomMargin": 400.0,
+                    "Tag": 1603,
+                    "ActionTag": -1001374175,
+                    "Size": {
+                      "X": 600.0,
+                      "Y": 200.0
+                    },
+                    "Name": "Panel_2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 206.0,
+                      "Y": 409.968
+                    },
+                    "Scale": {
+                      "ScaleX": 0.55,
+                      "ScaleY": 0.55
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1609,
+                      "Y": 0.5694
+                    },
+                    "PreSize": {
+                      "X": 0.4688,
+                      "Y": 0.2778
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 206.0,
+                    "RightMargin": 474.0,
+                    "TopMargin": 110.032,
+                    "BottomMargin": 409.968,
+                    "Tag": 1604,
+                    "ActionTag": -668107489,
+                    "Size": {
+                      "X": 600.0,
+                      "Y": 200.0
+                    },
+                    "Name": "Panel_3",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1144486401,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "Panel_outCards",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1641968156,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "Panel_mask",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common.AntiNoteCard.plist",
+        "common.AntiNoteCard.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

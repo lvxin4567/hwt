@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_gangshangkaihua.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/gangshangkaihua_glow
+  rotate: false
+  xy: 2, 143
+  size: 569, 150
+  orig: 596, 256
+  offset: 17, 57
+  index: -1
+donghua/library/gangshangkaihua_glow2
+  rotate: false
+  xy: 2, 295
+  size: 596, 252
+  orig: 596, 256
+  offset: 0, 4
+  index: -1
+donghua/library/gangshangkaihua_txt
+  rotate: false
+  xy: 2, 2
+  size: 530, 139
+  orig: 596, 256
+  offset: 34, 61
+  index: -1

@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_feng.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/feng_glow
+  rotate: false
+  xy: 326, 92
+  size: 108, 101
+  orig: 256, 256
+  offset: 78, 82
+  index: -1
+donghua/library/feng_glow2
+  rotate: false
+  xy: 2, 2
+  size: 201, 191
+  orig: 256, 256
+  offset: 37, 37
+  index: -1
+donghua/library/feng_txt
+  rotate: false
+  xy: 205, 78
+  size: 119, 115
+  orig: 256, 256
+  offset: 75, 74
+  index: -1

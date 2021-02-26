@@ -1,0 +1,83 @@
+{
+"skeleton": { "hash": "QCSbVtJKiEmxHcpy8GKnb2cIa50", "spine": "3.7.94", "width": 158, "height": 137, "images": "", "audio": "D:/UI/1.合集/1.斗棋/资源/1.大厅/三人两门入口动画" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "zt", "parent": "root", "length": 44.21, "rotation": 92.66, "x": 15.46, "y": 8.74 },
+	{ "name": "xingg1", "parent": "zt", "x": 53.13, "y": 15.01 },
+	{ "name": "xingg2", "parent": "zt", "x": 37.34, "y": 73.32 }
+],
+"slots": [
+	{ "name": "d", "bone": "root", "attachment": "d" },
+	{ "name": "zt", "bone": "zt", "attachment": "zt" },
+	{ "name": "xingg2", "bone": "xingg2", "attachment": "xingg2" },
+	{ "name": "xingg1", "bone": "xingg1", "attachment": "xingg1" },
+	{ "name": "mingz", "bone": "root", "attachment": "mingz" }
+],
+"skins": {
+	"default": {
+		"d": {
+			"d": { "x": 0.33, "y": 4.99, "width": 135, "height": 136 }
+		},
+		"mingz": {
+			"mingz": { "x": 0.33, "y": -38.51, "width": 123, "height": 39 }
+		},
+		"xingg1": {
+			"xingg1": { "x": -0.62, "y": 0.21, "rotation": -92.66, "width": 28, "height": 27 }
+		},
+		"xingg2": {
+			"xingg2": { "x": -2.16, "y": -0.23, "rotation": -92.66, "width": 28, "height": 27 }
+		},
+		"zt": {
+			"zt": { "x": 6.34, "y": 23.37, "rotation": -92.66, "width": 158, "height": 108 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"xingg1": {
+				"color": [
+					{ "time": 1.1667, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff00" },
+					{ "time": 1.8333, "color": "ffffffff" }
+				]
+			},
+			"xingg2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.5, "color": "ffffffff" },
+					{ "time": 3, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"zt": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": 0, "y": 4.11 },
+					{ "time": 3, "x": 0, "y": 0 }
+				]
+			},
+			"xingg1": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.1667, "x": 0.222, "y": 0.222 },
+					{ "time": 1.5, "x": 0, "y": 0 },
+					{ "time": 1.8333, "x": 0.222, "y": 0.222 },
+					{ "time": 3, "x": 1, "y": 1 }
+				]
+			},
+			"xingg2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0.333, "y": 0.333 },
+					{ "time": 1.5, "x": 1, "y": 1 },
+					{ "time": 2.5, "x": 0.333, "y": 0.333 },
+					{ "time": 3, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

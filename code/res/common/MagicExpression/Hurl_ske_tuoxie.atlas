@@ -1,0 +1,20 @@
+
+Hurl_ske_tuoxie.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuoxie
+  rotate: false
+  xy: 2, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+xieyin
+  rotate: false
+  xy: 96, 13
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1

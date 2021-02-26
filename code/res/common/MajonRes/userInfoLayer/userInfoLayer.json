@@ -1,0 +1,1324 @@
+{
+  "ID": "d3a7258f-9220-477e-afb8-bace6a27ef39",
+  "Version": "2.3.4",
+  "Name": "userInfoLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 117,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 142,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -212,
+            "Scale9OriginY": -125,
+            "Scale9Width": 424,
+            "Scale9Height": 250,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 133,
+            "ActionTag": -423826640,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "mask_Bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "userinfobg.png",
+              "Plist": "common/MajonRes/userInfoLayer/dq_userInfo.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5023,
+              "Y": 0.5278
+            },
+            "LeftMargin": 318.5,
+            "RightMargin": 318.5,
+            "TopMargin": 170.0,
+            "BottomMargin": 170.0,
+            "Tag": 1128,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "photo.png",
+                  "Plist": "common/MajonRes/userInfoLayer/dq_userInfo.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 122.511,
+                  "Y": 243.7622
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1905,
+                  "Y": 0.6415
+                },
+                "PreSize": {
+                  "X": 0.2395,
+                  "Y": 0.4053
+                },
+                "LeftMargin": 45.511,
+                "RightMargin": 443.489,
+                "TopMargin": 59.2378,
+                "BottomMargin": 166.7622,
+                "Tag": 1131,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Default",
+                      "Path": "Default/ImageFile.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 34,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 77.0,
+                      "Y": 77.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9481,
+                      "Y": 0.9481
+                    },
+                    "LeftMargin": 4.0,
+                    "RightMargin": 4.0,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 671,
+                    "ActionTag": 1053442357,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 146.0
+                    },
+                    "Name": "header",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -952925765,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 154.0
+                },
+                "Name": "photo",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xb_n.png",
+                  "Plist": "common/MajonRes/userInfoLayer/dq_userInfo.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 195.0,
+                  "Y": 175.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3033,
+                  "Y": 0.4605
+                },
+                "PreSize": {
+                  "X": 0.0747,
+                  "Y": 0.1263
+                },
+                "LeftMargin": 171.0,
+                "RightMargin": 424.0,
+                "TopMargin": 181.0,
+                "BottomMargin": 151.0,
+                "Tag": 1133,
+                "ActionTag": 700066927,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 48.0
+                },
+                "Name": "xb_n",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xb_v.png",
+                  "Plist": "common/MajonRes/userInfoLayer/dq_userInfo.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 195.0,
+                  "Y": 175.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3033,
+                  "Y": 0.4605
+                },
+                "PreSize": {
+                  "X": 0.0747,
+                  "Y": 0.1263
+                },
+                "LeftMargin": 171.0,
+                "RightMargin": 424.0,
+                "TopMargin": 181.0,
+                "BottomMargin": 151.0,
+                "Tag": 1134,
+                "ActionTag": 856244836,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 48.0
+                },
+                "Name": "xb_v",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2078247010,
+            "Size": {
+              "X": 643.0,
+              "Y": 380.0
+            },
+            "Name": "userinfobg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 704.0,
+              "Y": 410.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.55,
+              "Y": 0.5694
+            },
+            "PreSize": {
+              "X": 0.2734,
+              "Y": 0.2778
+            },
+            "LeftMargin": 529.0,
+            "RightMargin": 401.0,
+            "TopMargin": 210.0,
+            "BottomMargin": 310.0,
+            "Tag": 1129,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 157.0,
+                  "Y": 174.9994
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4486,
+                  "Y": 0.875
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 157.0,
+                "RightMargin": 193.0,
+                "TopMargin": 25.0006,
+                "BottomMargin": 174.9994,
+                "Tag": 38,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "name.png",
+                      "Plist": "common/MajonRes/userInfoLayer/dq_userInfo.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -110.0,
+                      "Y": -10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -123.0,
+                    "RightMargin": 97.0,
+                    "TopMargin": -3.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 39,
+                    "ActionTag": 21705121,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 26.0
+                    },
+                    "Name": "New Sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "Text Label",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": -70.0,
+                      "Y": 5.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 24,
+                      "G": 54,
+                      "B": 94
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -70.0,
+                    "RightMargin": -70.0,
+                    "TopMargin": -5.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 40,
+                    "ActionTag": -1363289651,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 28.0
+                    },
+                    "Name": "nameLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1467078846,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "name",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 157.0,
+                  "Y": 135.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4486,
+                  "Y": 0.675
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 157.0,
+                "RightMargin": 193.0,
+                "TopMargin": 65.0,
+                "BottomMargin": 135.0,
+                "Tag": 41,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ID.png",
+                      "Plist": "common/MajonRes/userInfoLayer/dq_userInfo.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -110.0,
+                      "Y": -10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -123.0,
+                    "RightMargin": 97.0,
+                    "TopMargin": -3.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 42,
+                    "ActionTag": -1281891008,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 26.0
+                    },
+                    "Name": "New Sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "170059505",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": -70.0,
+                      "Y": 5.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 24,
+                      "G": 54,
+                      "B": 94
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -70.0,
+                    "RightMargin": -56.0,
+                    "TopMargin": -5.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 43,
+                    "ActionTag": -173539475,
+                    "Size": {
+                      "X": 126.0,
+                      "Y": 28.0
+                    },
+                    "Name": "idLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 362061572,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "id",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 157.0,
+                  "Y": 95.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4486,
+                  "Y": 0.475
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 157.0,
+                "RightMargin": 193.0,
+                "TopMargin": 105.0,
+                "BottomMargin": 95.0,
+                "Tag": 44,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "IP.png",
+                      "Plist": "common/MajonRes/userInfoLayer/dq_userInfo.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -110.0,
+                      "Y": -10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -123.0,
+                    "RightMargin": 97.0,
+                    "TopMargin": -3.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 45,
+                    "ActionTag": 990231859,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 26.0
+                    },
+                    "Name": "New Sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "113.54.226.213",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": -70.0,
+                      "Y": 5.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 24,
+                      "G": 54,
+                      "B": 94
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -70.0,
+                    "RightMargin": -126.0,
+                    "TopMargin": -5.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 46,
+                    "ActionTag": 2132582283,
+                    "Size": {
+                      "X": 196.0,
+                      "Y": 28.0
+                    },
+                    "Name": "ipLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1754117994,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "ip",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 157.0,
+                  "Y": 55.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4486,
+                  "Y": 0.275
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 157.0,
+                "RightMargin": 193.0,
+                "TopMargin": 145.0,
+                "BottomMargin": 55.0,
+                "Tag": 47,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "position.png",
+                      "Plist": "common/MajonRes/userInfoLayer/dq_userInfo.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -110.0,
+                      "Y": -10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -123.0,
+                    "RightMargin": 97.0,
+                    "TopMargin": -3.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 48,
+                    "ActionTag": -919358129,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 26.0
+                    },
+                    "Name": "New Sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "武汉市江夏区金融港路",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": -70.0,
+                      "Y": 5.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 24,
+                      "G": 54,
+                      "B": 94
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -70.0,
+                    "RightMargin": -210.0,
+                    "TopMargin": -5.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 49,
+                    "ActionTag": -955625475,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 28.0
+                    },
+                    "Name": "GPSLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1082272939,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "GPS",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1782881280,
+            "Size": {
+              "X": 350.0,
+              "Y": 200.0
+            },
+            "Name": "infoLayout",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 260.9245
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3624
+            },
+            "PreSize": {
+              "X": 0.4375,
+              "Y": 0.1389
+            },
+            "LeftMargin": 360.0,
+            "RightMargin": 360.0,
+            "TopMargin": 409.0755,
+            "BottomMargin": 210.9245,
+            "Tag": 1130,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_flower_deep.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_flower.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 73,
+                "Scale9Height": 80,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0893,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1839,
+                  "Y": 1.02
+                },
+                "LeftMargin": -1.5,
+                "RightMargin": 458.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 51,
+                "ActionTag": 713107471,
+                "Size": {
+                  "X": 103.0,
+                  "Y": 102.0
+                },
+                "Name": "hua-btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_aixin_deep.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_aixin.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 73,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.0,
+                  "Y": 49.26
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2946,
+                  "Y": 0.4926
+                },
+                "PreSize": {
+                  "X": 0.1839,
+                  "Y": 1.03
+                },
+                "LeftMargin": 113.5,
+                "RightMargin": 343.5,
+                "TopMargin": -0.76,
+                "BottomMargin": -2.24,
+                "Tag": 52,
+                "ActionTag": -1552707534,
+                "Size": {
+                  "X": 103.0,
+                  "Y": 103.0
+                },
+                "Name": "aixin-btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_egg_deep.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_egg.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 73,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 280.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1839,
+                  "Y": 1.03
+                },
+                "LeftMargin": 228.5,
+                "RightMargin": 228.5,
+                "TopMargin": -1.5,
+                "BottomMargin": -1.5,
+                "Tag": 53,
+                "ActionTag": -696265096,
+                "Size": {
+                  "X": 103.0,
+                  "Y": 103.0
+                },
+                "Name": "jidan-btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_tuoxie_deep.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_tuoxie.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 73,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 395.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7054,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1839,
+                  "Y": 1.03
+                },
+                "LeftMargin": 343.5,
+                "RightMargin": 113.5,
+                "TopMargin": -1.5,
+                "BottomMargin": -1.5,
+                "Tag": 54,
+                "ActionTag": -209678070,
+                "Size": {
+                  "X": 103.0,
+                  "Y": 103.0
+                },
+                "Name": "tuoxie-btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_zhadan_deep.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "me.btn_zhadan.png",
+                  "Plist": "common/MagicEmotion/common.MagicEmotion.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 73,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 510.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9107,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1839,
+                  "Y": 1.04
+                },
+                "LeftMargin": 458.5,
+                "RightMargin": -1.5,
+                "TopMargin": -2.0,
+                "BottomMargin": -2.0,
+                "Tag": 55,
+                "ActionTag": -1264546284,
+                "Size": {
+                  "X": 103.0,
+                  "Y": 104.0
+                },
+                "Name": "zhadan",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -663000895,
+            "Size": {
+              "X": 560.0,
+              "Y": 100.0
+            },
+            "Name": "iconlayout",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../Default/ImageFile.png",
+        "../../MagicEmotion/common.MagicEmotion.plist",
+        "../../MagicEmotion/common.MagicEmotion.png",
+        "dq_userInfo.plist",
+        "dq_userInfo.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

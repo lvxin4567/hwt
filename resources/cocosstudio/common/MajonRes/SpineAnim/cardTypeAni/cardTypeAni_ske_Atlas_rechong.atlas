@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_rechong.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/rechong_glow
+  rotate: false
+  xy: 436, 68
+  size: 299, 126
+  orig: 512, 256
+  offset: 111, 66
+  index: -1
+donghua/library/rechong_glow2
+  rotate: false
+  xy: 2, 2
+  size: 432, 192
+  orig: 512, 256
+  offset: 46, 35
+  index: -1
+donghua/library/rechong_txt
+  rotate: false
+  xy: 737, 80
+  size: 258, 114
+  orig: 512, 256
+  offset: 130, 73
+  index: -1

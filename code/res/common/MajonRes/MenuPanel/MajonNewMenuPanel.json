@@ -1,0 +1,276 @@
+{
+  "ID": "fa6676f3-9ee6-462f-a566-34b33a0f0baa",
+  "Version": "2.3.4",
+  "Name": "MajonNewMenuPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 457,
+            "ActionTag": -802744024,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/MajonRes/MenuPanel/majon.caidanMask.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 21,
+            "Scale9OriginY": 90,
+            "Scale9Width": 61,
+            "Scale9Height": 283,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1213.0,
+              "Y": 628.809
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9477,
+              "Y": 0.8733
+            },
+            "PreSize": {
+              "X": 0.0812,
+              "Y": 0.4167
+            },
+            "HorizontalEdge": "RightEdge",
+            "LeftMargin": 1161.0,
+            "RightMargin": 15.0,
+            "TopMargin": 91.191,
+            "BottomMargin": 328.809,
+            "Tag": 379,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gamebtn_exit_deep.png",
+                  "Plist": "common/bnts/MajionTableBtns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gamebtn_exit.png",
+                  "Plist": "common/bnts/MajionTableBtns.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 22,
+                "Scale9Height": 67,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 51.666,
+                  "Y": 91.0724
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4968,
+                  "Y": 0.3036
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2967
+                },
+                "HorizontalEdge": "LeftEdge",
+                "LeftMargin": 25.666,
+                "RightMargin": 26.334,
+                "TopMargin": 164.4276,
+                "BottomMargin": 46.5724,
+                "Tag": 22,
+                "ActionTag": 240507102,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 89.0
+                },
+                "Name": "btn_exit",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gamebtn_setting_deep.png",
+                  "Plist": "common/bnts/MajionTableBtns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gamebtn_setting.png",
+                  "Plist": "common/bnts/MajionTableBtns.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 25,
+                "Scale9Height": 68,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.6662,
+                  "Y": 210.2083
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4872,
+                  "Y": 0.7007
+                },
+                "PreSize": {
+                  "X": 0.5288,
+                  "Y": 0.3
+                },
+                "HorizontalEdge": "LeftEdge",
+                "LeftMargin": 23.1662,
+                "RightMargin": 25.8338,
+                "TopMargin": 44.7917,
+                "BottomMargin": 165.2083,
+                "Tag": 23,
+                "ActionTag": -907507252,
+                "Size": {
+                  "X": 55.0,
+                  "Y": 90.0
+                },
+                "Name": "btn_setting",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1393489592,
+            "Size": {
+              "X": 104.0,
+              "Y": 300.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../bnts/MajionTableBtns.plist",
+        "../../bnts/MajionTableBtns.png",
+        "majon.caidanMask.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

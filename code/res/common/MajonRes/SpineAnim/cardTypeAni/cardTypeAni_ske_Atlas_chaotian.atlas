@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_chaotian.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/chaotian_glow
+  rotate: false
+  xy: 351, 13
+  size: 341, 159
+  orig: 512, 256
+  offset: 89, 51
+  index: -1
+donghua/library/chaotian_glow2
+  rotate: false
+  xy: 2, 2
+  size: 347, 170
+  orig: 512, 256
+  offset: 86, 47
+  index: -1
+donghua/library/chaotian_txt
+  rotate: false
+  xy: 694, 44
+  size: 261, 128
+  orig: 512, 256
+  offset: 128, 67
+  index: -1

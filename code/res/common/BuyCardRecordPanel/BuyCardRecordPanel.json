@@ -1,0 +1,1126 @@
+{
+  "ID": "ae41ab60-0edf-4f2b-87db-0cb55a46ca66",
+  "Version": "2.3.4",
+  "Name": "BuyCardRecordPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 26,
+        "Children": [
+          {
+            "ClipAble": false,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 28,
+            "ActionTag": -321412007,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Alpha": 127,
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BuyCardRecordPanel.img_bigbg.png",
+              "Plist": "common/BuyCardRecordPanel/BuyCardRecordPanel.plist"
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 260,
+            "Scale9OriginY": 147,
+            "Scale9Width": 268,
+            "Scale9Height": 154,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.6156,
+              "Y": 0.6222
+            },
+            "LeftMargin": 246.0,
+            "RightMargin": 246.0,
+            "TopMargin": 136.0,
+            "BottomMargin": 136.0,
+            "Tag": 516,
+            "Children": [
+              {
+                "InnerNodeSize": {
+                  "Width": 788,
+                  "Height": 224
+                },
+                "ScrollDirectionType": "Horizontal",
+                "ClipAble": true,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 394.0,
+                  "Y": 305.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6808
+                },
+                "PreSize": {
+                  "X": 0.9264,
+                  "Y": 0.5
+                },
+                "LeftMargin": 29.0,
+                "RightMargin": 29.0,
+                "TopMargin": 31.0,
+                "BottomMargin": 193.0,
+                "Tag": 365,
+                "ActionTag": 1564245341,
+                "Size": {
+                  "X": 730.0,
+                  "Y": 224.0
+                },
+                "Name": "ScrollView",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "兑换成功后下局生效",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 394.0,
+                  "Y": 160.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 203,
+                  "G": 165,
+                  "B": 111
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3571
+                },
+                "PreSize": {
+                  "X": 0.2513,
+                  "Y": 0.0491
+                },
+                "LeftMargin": 295.0,
+                "RightMargin": 295.0,
+                "TopMargin": 277.0,
+                "BottomMargin": 149.0,
+                "Tag": 574,
+                "ActionTag": 21843677,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 338.0,
+                  "Y": 196.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4289,
+                  "Y": 0.4375
+                },
+                "PreSize": {
+                  "X": 0.4518,
+                  "Y": 0.2679
+                },
+                "LeftMargin": 338.0,
+                "RightMargin": 94.0,
+                "TopMargin": 132.0,
+                "BottomMargin": 196.0,
+                "Tag": 112,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dom.question_tag.png",
+                      "Plist": "common/RichDom/RichDom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dom.question_tag.png",
+                      "Plist": "common/RichDom/RichDom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 6,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 178.0,
+                      "Y": -35.17
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.2931
+                    },
+                    "PreSize": {
+                      "X": 0.0787,
+                      "Y": 0.2333
+                    },
+                    "LeftMargin": 164.0,
+                    "RightMargin": 164.0,
+                    "TopMargin": 141.17,
+                    "BottomMargin": -49.17,
+                    "Tag": 113,
+                    "ActionTag": 563479224,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 28.0
+                    },
+                    "Name": "checkIp_Tip",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dom.bubble_bg.png",
+                      "Plist": "common/RichDom/RichDom.plist"
+                    },
+                    "Scale9OriginX": 142,
+                    "Scale9OriginY": 52,
+                    "Scale9Width": 147,
+                    "Scale9Height": 54,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 178.0,
+                      "Y": 32.4
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.27
+                    },
+                    "PreSize": {
+                      "X": 0.9607,
+                      "Y": 0.75
+                    },
+                    "LeftMargin": 7.0,
+                    "RightMargin": 7.0,
+                    "TopMargin": 42.6,
+                    "BottomMargin": -12.6,
+                    "Tag": 114,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "记牌器功能最终解释权归斗棋所有",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 171.0,
+                          "Y": 50.4
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.56
+                        },
+                        "PreSize": {
+                          "X": 0.9123,
+                          "Y": 0.4444
+                        },
+                        "LeftMargin": 15.0,
+                        "RightMargin": 15.0,
+                        "TopMargin": 19.6,
+                        "BottomMargin": 30.4,
+                        "Tag": 115,
+                        "ActionTag": -286470583,
+                        "Size": {
+                          "X": 312.0,
+                          "Y": 40.0
+                        },
+                        "Name": "Text_1",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 450375422,
+                    "Size": {
+                      "X": 342.0,
+                      "Y": 90.0
+                    },
+                    "Name": "checkIp_Tip_image",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1528410665,
+                "Size": {
+                  "X": 356.0,
+                  "Y": 120.0
+                },
+                "Name": "checkIp_TipPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "到期时间：2020/11/14 19::40",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 394.0,
+                  "Y": 132.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 221,
+                  "G": 117,
+                  "B": 32
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2946
+                },
+                "PreSize": {
+                  "X": 0.3769,
+                  "Y": 0.0491
+                },
+                "LeftMargin": 245.5,
+                "RightMargin": 245.5,
+                "TopMargin": 305.0,
+                "BottomMargin": 121.0,
+                "Tag": 576,
+                "ActionTag": -1862676080,
+                "Size": {
+                  "X": 297.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_lefttime",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_green_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_green.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 198,
+                "Scale9Height": 59,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 230.0,
+                  "Y": 70.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2919,
+                  "Y": 0.1563
+                },
+                "PreSize": {
+                  "X": 0.2893,
+                  "Y": 0.1808
+                },
+                "LeftMargin": 116.0,
+                "RightMargin": 444.0,
+                "TopMargin": 337.5,
+                "BottomMargin": 29.5,
+                "Tag": 577,
+                "Children": [
+                  {
+                    "LabelText": "确定",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "common/Fonts/common.green_font.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 114.0,
+                      "Y": 44.55
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.55
+                    },
+                    "PreSize": {
+                      "X": 0.3114,
+                      "Y": 0.4321
+                    },
+                    "LeftMargin": 78.5,
+                    "RightMargin": 78.5,
+                    "TopMargin": 18.95,
+                    "BottomMargin": 27.05,
+                    "Tag": 593,
+                    "ActionTag": -1488559299,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 35.0
+                    },
+                    "Name": "label",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 1382251338,
+                "Size": {
+                  "X": 228.0,
+                  "Y": 81.0
+                },
+                "Name": "Button_comfirm",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_yellow_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_yellow.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 198,
+                "Scale9Height": 59,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 558.0,
+                  "Y": 70.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7081,
+                  "Y": 0.1563
+                },
+                "PreSize": {
+                  "X": 0.2893,
+                  "Y": 0.1808
+                },
+                "LeftMargin": 444.0,
+                "RightMargin": 116.0,
+                "TopMargin": 337.5,
+                "BottomMargin": 29.5,
+                "Tag": 578,
+                "Children": [
+                  {
+                    "LabelText": "取消",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "common/Fonts/common.yellow_font.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 114.0,
+                      "Y": 44.55
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.55
+                    },
+                    "PreSize": {
+                      "X": 0.3202,
+                      "Y": 0.4321
+                    },
+                    "LeftMargin": 77.5,
+                    "RightMargin": 77.5,
+                    "TopMargin": 18.95,
+                    "BottomMargin": 27.05,
+                    "Tag": 594,
+                    "ActionTag": -1137696233,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 35.0
+                    },
+                    "Name": "label",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -706650551,
+                "Size": {
+                  "X": 228.0,
+                  "Y": 81.0
+                },
+                "Name": "Button_cancel",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1426089020,
+            "Size": {
+              "X": 788.0,
+              "Y": 448.0
+            },
+            "Name": "contentPanel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BuyCardRecordPanel.img_cellbg.png",
+              "Plist": "common/BuyCardRecordPanel/BuyCardRecordPanel.plist"
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 60,
+            "Scale9OriginY": 73,
+            "Scale9Width": 64,
+            "Scale9Height": 78,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -300.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.2344,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.1437,
+              "Y": 0.3111
+            },
+            "LeftMargin": -392.0,
+            "RightMargin": 1488.0,
+            "TopMargin": 248.0,
+            "BottomMargin": 248.0,
+            "Tag": 366,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.0,
+                  "Y": 112.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 438,
+                "ActionTag": -1089531594,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 224.0
+                },
+                "Name": "btn_buy",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BuyCardRecordPanel.img_pic.png",
+                  "Plist": "common/BuyCardRecordPanel/BuyCardRecordPanel.plist"
+                },
+                "Scale9OriginX": 35,
+                "Scale9OriginY": 39,
+                "Scale9Width": 37,
+                "Scale9Height": 43,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.0,
+                  "Y": 120.96
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.54
+                },
+                "PreSize": {
+                  "X": 0.5815,
+                  "Y": 0.5402
+                },
+                "LeftMargin": 38.5,
+                "RightMargin": 38.5,
+                "TopMargin": 42.54,
+                "BottomMargin": 60.46,
+                "Tag": 357,
+                "ActionTag": 1730070062,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 121.0
+                },
+                "Name": "Image_pic",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "1天",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "common/BuyCardRecordPanel/BuyCardRecordPanel.font.dataNum.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 42.0,
+                  "Y": 204.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2283,
+                  "Y": 0.9107
+                },
+                "PreSize": {
+                  "X": 0.2174,
+                  "Y": 0.1429
+                },
+                "LeftMargin": 22.0,
+                "RightMargin": 122.0,
+                "TopMargin": 4.0,
+                "BottomMargin": 188.0,
+                "Tag": 358,
+                "ActionTag": 382723990,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 32.0
+                },
+                "Name": "fnt_date",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BuyCardRecordPanel.img_pic2.png",
+                  "Plist": "common/BuyCardRecordPanel/BuyCardRecordPanel.plist"
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 10,
+                "Scale9Width": 13,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 62.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.337,
+                  "Y": 0.1116
+                },
+                "PreSize": {
+                  "X": 0.2011,
+                  "Y": 0.1473
+                },
+                "LeftMargin": 43.5,
+                "RightMargin": 103.5,
+                "TopMargin": 182.5,
+                "BottomMargin": 8.5,
+                "Tag": 359,
+                "ActionTag": -2021060752,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_zhuanshi",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "X3",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "common/BuyCardRecordPanel/BuyCardRecordPanel.font.zhuanshiNum.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4891,
+                  "Y": 0.1116
+                },
+                "PreSize": {
+                  "X": 0.25,
+                  "Y": 0.1429
+                },
+                "LeftMargin": 90.0,
+                "RightMargin": 48.0,
+                "TopMargin": 183.0,
+                "BottomMargin": 9.0,
+                "Tag": 360,
+                "ActionTag": -1542244324,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 32.0
+                },
+                "Name": "fnt_zhuanshi",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BuyCardRecordPanel.img_choose.png",
+                  "Plist": "common/BuyCardRecordPanel/BuyCardRecordPanel.plist"
+                },
+                "Scale9OriginX": 63,
+                "Scale9OriginY": 76,
+                "Scale9Width": 66,
+                "Scale9Height": 80,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.0,
+                  "Y": 112.0
+                },
+                "Scale": {
+                  "ScaleX": 1.05,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0435,
+                  "Y": 1.0357
+                },
+                "LeftMargin": -4.0,
+                "RightMargin": -4.0,
+                "TopMargin": -4.0,
+                "BottomMargin": -4.0,
+                "Tag": 361,
+                "ActionTag": 235260576,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 232.0
+                },
+                "Name": "Image_choose",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 689604942,
+            "Size": {
+              "X": 184.0,
+              "Y": 224.0
+            },
+            "Name": "Panel_cell",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Default/Button_Disable.png",
+        "../bnts/common_new_btns.plist",
+        "../bnts/common_new_btns.png",
+        "../Fonts/common.green_font.fnt",
+        "../Fonts/common.green_font.png",
+        "../Fonts/common.yellow_font.fnt",
+        "../Fonts/common.yellow_font.png",
+        "../RichDom/RichDom.plist",
+        "../RichDom/RichDom.png",
+        "BuyCardRecordPanel.font.dataNum.fnt",
+        "BuyCardRecordPanel.font.dataNum_0.png",
+        "BuyCardRecordPanel.font.zhuanshiNum.fnt",
+        "BuyCardRecordPanel.font.zhuanshiNum_0.png",
+        "BuyCardRecordPanel.plist",
+        "BuyCardRecordPanel.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

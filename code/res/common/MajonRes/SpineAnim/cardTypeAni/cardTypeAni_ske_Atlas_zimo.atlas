@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_zimo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/zimo_glow
+  rotate: false
+  xy: 305, 35
+  size: 256, 134
+  orig: 512, 256
+  offset: 143, 62
+  index: -1
+donghua/library/zimo_glow2
+  rotate: false
+  xy: 2, 2
+  size: 301, 167
+  orig: 512, 256
+  offset: 124, 47
+  index: -1
+donghua/library/zimo_txt
+  rotate: false
+  xy: 563, 45
+  size: 227, 124
+  orig: 512, 256
+  offset: 155, 68
+  index: -1

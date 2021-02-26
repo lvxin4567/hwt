@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_shua.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/shua_glow
+  rotate: false
+  xy: 258, 55
+  size: 151, 177
+  orig: 256, 256
+  offset: 46, 43
+  index: -1
+donghua/library/shua_glow2
+  rotate: true
+  xy: 2, 2
+  size: 230, 254
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+donghua/library/shua_txt
+  rotate: false
+  xy: 411, 99
+  size: 120, 133
+  orig: 256, 256
+  offset: 58, 59
+  index: -1

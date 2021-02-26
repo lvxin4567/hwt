@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>lobby.bg_topbar_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{189,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{189,48}}</string>
+				<key>sourceSize</key>
+				<string>{189,48}</string>
+			</dict>
+
+			<key>lobby.btn_topbar_add.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,105},{48,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{48,48}}</string>
+				<key>sourceSize</key>
+				<string>{48,48}</string>
+			</dict>
+
+			<key>lobby.btn_topbar_add_deep.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{74,50},{48,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{48,48}}</string>
+				<key>sourceSize</key>
+				<string>{48,48}</string>
+			</dict>
+
+			<key>lobby.btn_topbar_back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,50},{72,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{72,53}}</string>
+				<key>sourceSize</key>
+				<string>{72,53}</string>
+			</dict>
+
+			<key>lobby.tag_topbar_bean.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{107,100},{44,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{44,42}}</string>
+				<key>sourceSize</key>
+				<string>{44,42}</string>
+			</dict>
+
+			<key>lobby.tag_topbar_bean_gift.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,105},{55,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,0},{55,50}}</string>
+				<key>sourceSize</key>
+				<string>{57,51}</string>
+			</dict>
+
+			<key>lobby.tag_topbar_card.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{124,50},{43,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{43,46}}</string>
+				<key>sourceSize</key>
+				<string>{43,46}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{191,157}</string>
+			<key>textureFileName</key>
+			<string>Lobby_Topbar.png</string>
+			</dict>
+		</dict>
+</plist>

@@ -1,0 +1,48 @@
+
+Hurl_ske_flower.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 313, 158
+  size: 146, 90
+  orig: 146, 90
+  offset: 0, 0
+  index: -1
+meigui1
+  rotate: false
+  xy: 185, 119
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+mg1
+  rotate: false
+  xy: 461, 172
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+mg2
+  rotate: false
+  xy: 95, 16
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+mg3
+  rotate: false
+  xy: 2, 2
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+mg4
+  rotate: false
+  xy: 2, 83
+  size: 181, 165
+  orig: 181, 165
+  offset: 0, 0
+  index: -1

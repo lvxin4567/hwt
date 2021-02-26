@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_fengyise.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/fengyishe_glow
+  rotate: false
+  xy: 465, 148
+  size: 468, 215
+  orig: 480, 256
+  offset: 12, 41
+  index: -1
+donghua/library/fengyishe_glow2
+  rotate: false
+  xy: 2, 126
+  size: 461, 237
+  orig: 480, 256
+  offset: 4, 18
+  index: -1
+donghua/library/fengyishetxt
+  rotate: false
+  xy: 2, 2
+  size: 381, 122
+  orig: 480, 256
+  offset: 47, 69
+  index: -1

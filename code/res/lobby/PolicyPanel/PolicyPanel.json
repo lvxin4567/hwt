@@ -1,0 +1,2146 @@
+{
+  "ID": "4a4b0908-74c5-4a4e-b970-39c9b312a689",
+  "Version": "2.3.4",
+  "Name": "PolicyPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 72,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 117,
+            "ActionTag": 1375140140,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lobby/AgreementPanel/login_new_agreement_bg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 297,
+            "Scale9OriginY": 170,
+            "Scale9Width": 294,
+            "Scale9Height": 208,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7055,
+              "Y": 0.7194
+            },
+            "LeftMargin": 188.5,
+            "RightMargin": 188.5,
+            "TopMargin": 101.0,
+            "BottomMargin": 101.0,
+            "Tag": 102,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_close_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_close.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 889.4105,
+                  "Y": 526.7514
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.985,
+                  "Y": 1.0169
+                },
+                "PreSize": {
+                  "X": 0.062,
+                  "Y": 0.112
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 861.4105,
+                "RightMargin": -14.4105,
+                "TopMargin": -37.7514,
+                "BottomMargin": 497.7514,
+                "Tag": 279,
+                "ActionTag": -1595767654,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 58.0
+                },
+                "Name": "btnClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "lobby/PolicyPanel/lobby_new_Policy_title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 451.5,
+                  "Y": 505.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9749
+                },
+                "PreSize": {
+                  "X": 0.2746,
+                  "Y": 0.1409
+                },
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 327.5,
+                "RightMargin": 327.5,
+                "TopMargin": -23.5,
+                "BottomMargin": 468.5,
+                "Tag": 103,
+                "ActionTag": -1120410090,
+                "Size": {
+                  "X": 248.0,
+                  "Y": 73.0
+                },
+                "Name": "talert_title_bg_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 843,
+                  "Height": 415
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 28.0214,
+                  "Y": 35.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.031,
+                  "Y": 0.0676
+                },
+                "PreSize": {
+                  "X": 0.9336,
+                  "Y": 0.7954
+                },
+                "LeftMargin": 28.0214,
+                "RightMargin": 31.9786,
+                "TopMargin": 71.0,
+                "BottomMargin": 35.0,
+                "Tag": 105,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_01.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4217
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -590.0,
+                    "Tag": 132,
+                    "ActionTag": 424958425,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1005.0
+                    },
+                    "Name": "lobby_Policy_01",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_02.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4096
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -329.44,
+                    "BottomMargin": -255.56,
+                    "Tag": 133,
+                    "ActionTag": -2143364536,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1000.0
+                    },
+                    "Name": "lobby_Policy_02",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_03.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4096
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -329.44,
+                    "BottomMargin": -255.56,
+                    "Tag": 134,
+                    "ActionTag": 1543592596,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1000.0
+                    },
+                    "Name": "lobby_Policy_03",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_04.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4193
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -331.44,
+                    "BottomMargin": -257.56,
+                    "Tag": 24,
+                    "ActionTag": -120377538,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1004.0
+                    },
+                    "Name": "lobby_Policy_01_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_05.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4289
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -333.44,
+                    "BottomMargin": -259.56,
+                    "Tag": 25,
+                    "ActionTag": 1800767162,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1008.0
+                    },
+                    "Name": "lobby_Policy_02_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_06.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 1.653
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -172.44,
+                    "BottomMargin": -98.56,
+                    "Tag": 26,
+                    "ActionTag": 1679020818,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 686.0
+                    },
+                    "Name": "lobby_Policy_03_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_07.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.1253
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -270.44,
+                    "BottomMargin": -196.56,
+                    "Tag": 27,
+                    "ActionTag": 323730825,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 882.0
+                    },
+                    "Name": "lobby_Policy_01_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_08.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.2554
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -297.44,
+                    "BottomMargin": -223.56,
+                    "Tag": 28,
+                    "ActionTag": -28435658,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 936.0
+                    },
+                    "Name": "lobby_Policy_02_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_09.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3855
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -324.44,
+                    "BottomMargin": -250.56,
+                    "Tag": 29,
+                    "ActionTag": 707709428,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 990.0
+                    },
+                    "Name": "lobby_Policy_03_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_10.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3855
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -324.44,
+                    "BottomMargin": -250.56,
+                    "Tag": 30,
+                    "ActionTag": -1635032564,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 990.0
+                    },
+                    "Name": "lobby_Policy_01_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_11.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3855
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -324.44,
+                    "BottomMargin": -250.56,
+                    "Tag": 31,
+                    "ActionTag": -267154467,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 990.0
+                    },
+                    "Name": "lobby_Policy_02_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_12.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4482
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -337.44,
+                    "BottomMargin": -263.56,
+                    "Tag": 32,
+                    "ActionTag": -2087595707,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1016.0
+                    },
+                    "Name": "lobby_Policy_03_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_13.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.2747
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -301.44,
+                    "BottomMargin": -227.56,
+                    "Tag": 33,
+                    "ActionTag": 1370267131,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 944.0
+                    },
+                    "Name": "lobby_Policy_01_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_14.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3614
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -319.44,
+                    "BottomMargin": -245.56,
+                    "Tag": 34,
+                    "ActionTag": -1978398223,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 980.0
+                    },
+                    "Name": "lobby_Policy_02_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_15.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3614
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -319.44,
+                    "BottomMargin": -245.56,
+                    "Tag": 35,
+                    "ActionTag": 641899628,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 980.0
+                    },
+                    "Name": "lobby_Policy_03_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_16.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3277
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -312.44,
+                    "BottomMargin": -238.56,
+                    "Tag": 36,
+                    "ActionTag": -760794817,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 966.0
+                    },
+                    "Name": "lobby_Policy_01_4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_17.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3277
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -312.44,
+                    "BottomMargin": -238.56,
+                    "Tag": 37,
+                    "ActionTag": -398643805,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 966.0
+                    },
+                    "Name": "lobby_Policy_02_4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_18.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4289
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -333.44,
+                    "BottomMargin": -259.56,
+                    "Tag": 38,
+                    "ActionTag": 1177262886,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1008.0
+                    },
+                    "Name": "lobby_Policy_03_4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_19.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3807
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -323.44,
+                    "BottomMargin": -249.56,
+                    "Tag": 39,
+                    "ActionTag": -1267492354,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 988.0
+                    },
+                    "Name": "lobby_Policy_01_5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_20.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3325
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -313.44,
+                    "BottomMargin": -239.56,
+                    "Tag": 40,
+                    "ActionTag": -1553150903,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 968.0
+                    },
+                    "Name": "lobby_Policy_02_5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_21.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4145
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -330.44,
+                    "BottomMargin": -256.56,
+                    "Tag": 41,
+                    "ActionTag": -1008201946,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1002.0
+                    },
+                    "Name": "lobby_Policy_03_5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_22.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3759
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -322.44,
+                    "BottomMargin": -248.56,
+                    "Tag": 42,
+                    "ActionTag": 1265575595,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 986.0
+                    },
+                    "Name": "lobby_Policy_01_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_23.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.0434
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -253.44,
+                    "BottomMargin": -179.56,
+                    "Tag": 43,
+                    "ActionTag": -1010671756,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 848.0
+                    },
+                    "Name": "lobby_Policy_02_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_24.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3639
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -319.94,
+                    "BottomMargin": -246.06,
+                    "Tag": 44,
+                    "ActionTag": 533134805,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 981.0
+                    },
+                    "Name": "lobby_Policy_03_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_25.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3542
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -317.94,
+                    "BottomMargin": -244.06,
+                    "Tag": 45,
+                    "ActionTag": -513596144,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 977.0
+                    },
+                    "Name": "lobby_Policy_01_7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_26.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3277
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -312.44,
+                    "BottomMargin": -238.56,
+                    "Tag": 46,
+                    "ActionTag": -1528108678,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 966.0
+                    },
+                    "Name": "lobby_Policy_02_7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_27.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.2699
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -300.44,
+                    "BottomMargin": -226.56,
+                    "Tag": 47,
+                    "ActionTag": -2011853183,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 942.0
+                    },
+                    "Name": "lobby_Policy_03_7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_28.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.2434
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -294.94,
+                    "BottomMargin": -221.06,
+                    "Tag": 48,
+                    "ActionTag": 1984093238,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 931.0
+                    },
+                    "Name": "lobby_Policy_01_8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_29.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4578
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -339.44,
+                    "BottomMargin": -265.56,
+                    "Tag": 49,
+                    "ActionTag": 405887571,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1020.0
+                    },
+                    "Name": "lobby_Policy_02_8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_30.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.4289
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -333.44,
+                    "BottomMargin": -259.56,
+                    "Tag": 50,
+                    "ActionTag": 1296065734,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 1008.0
+                    },
+                    "Name": "lobby_Policy_03_8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_31.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3133
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -309.44,
+                    "BottomMargin": -235.56,
+                    "Tag": 51,
+                    "ActionTag": 509670992,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 960.0
+                    },
+                    "Name": "lobby_Policy_01_9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_32.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3422
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -315.44,
+                    "BottomMargin": -241.56,
+                    "Tag": 52,
+                    "ActionTag": 1988102282,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 972.0
+                    },
+                    "Name": "lobby_Policy_02_9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_33.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3253
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -311.94,
+                    "BottomMargin": -238.06,
+                    "Tag": 53,
+                    "ActionTag": -1280049266,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 965.0
+                    },
+                    "Name": "lobby_Policy_03_9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_34.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3952
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -326.44,
+                    "BottomMargin": -252.56,
+                    "Tag": 54,
+                    "ActionTag": 244083101,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 994.0
+                    },
+                    "Name": "lobby_Policy_01_10",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_35.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.3928
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -325.94,
+                    "BottomMargin": -252.06,
+                    "Tag": 55,
+                    "ActionTag": -341652388,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 993.0
+                    },
+                    "Name": "lobby_Policy_02_10",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/PolicyPanel/0_36.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 421.5,
+                      "Y": 244.44
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.589
+                    },
+                    "PreSize": {
+                      "X": 1.0107,
+                      "Y": 2.0964
+                    },
+                    "LeftMargin": -4.5,
+                    "RightMargin": -4.5,
+                    "TopMargin": -264.44,
+                    "BottomMargin": -190.56,
+                    "Tag": 56,
+                    "ActionTag": 309397146,
+                    "Size": {
+                      "X": 852.0,
+                      "Y": 870.0
+                    },
+                    "Name": "lobby_Policy_03_10",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -641509691,
+                "Size": {
+                  "X": 843.0,
+                  "Y": 412.0
+                },
+                "Name": "agreeScroll",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_green_deep.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "common_btn_green.png",
+                  "Plist": "common/bnts/common_new_btns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 198,
+                "Scale9Height": 59,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 451.5,
+                  "Y": -56.0009
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.1081
+                },
+                "PreSize": {
+                  "X": 0.2525,
+                  "Y": 0.1564
+                },
+                "LeftMargin": 337.5,
+                "RightMargin": 337.5,
+                "TopMargin": 533.5009,
+                "BottomMargin": -96.5009,
+                "Tag": 115,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/AgreementPanel/login_new_agreement_agree.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 36,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 39,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 114.0,
+                      "Y": 43.74
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.4868,
+                      "Y": 0.4568
+                    },
+                    "LeftMargin": 58.5,
+                    "RightMargin": 58.5,
+                    "TopMargin": 18.76,
+                    "BottomMargin": 25.24,
+                    "Tag": 155,
+                    "ActionTag": 1472689381,
+                    "Size": {
+                      "X": 111.0,
+                      "Y": 37.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -185576170,
+                "Size": {
+                  "X": 228.0,
+                  "Y": 81.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_ok",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -416376275,
+            "Size": {
+              "X": 903.0,
+              "Y": 518.0
+            },
+            "Name": "contentPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../common/bnts/common_new_btns.plist",
+        "../../common/bnts/common_new_btns.png",
+        "../../Default/Button_Disable.png",
+        "../AgreementPanel/login_new_agreement_agree.png",
+        "../AgreementPanel/login_new_agreement_bg.png",
+        "0_01.png",
+        "0_02.png",
+        "0_03.png",
+        "0_04.png",
+        "0_05.png",
+        "0_06.png",
+        "0_07.png",
+        "0_08.png",
+        "0_09.png",
+        "0_10.png",
+        "0_11.png",
+        "0_12.png",
+        "0_13.png",
+        "0_14.png",
+        "0_15.png",
+        "0_16.png",
+        "0_17.png",
+        "0_18.png",
+        "0_19.png",
+        "0_20.png",
+        "0_21.png",
+        "0_22.png",
+        "0_23.png",
+        "0_24.png",
+        "0_25.png",
+        "0_26.png",
+        "0_27.png",
+        "0_28.png",
+        "0_29.png",
+        "0_30.png",
+        "0_31.png",
+        "0_32.png",
+        "0_33.png",
+        "0_34.png",
+        "0_35.png",
+        "0_36.png",
+        "lobby_new_Policy_title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,69 @@
+
+Hurl_ske_zhadan.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 662, 73
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 576, 48
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 267, 6
+  size: 106, 120
+  orig: 106, 120
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 143, 5
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 139, 124
+  orig: 139, 124
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 375, 7
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+yanb
+  rotate: false
+  xy: 375, 2
+  size: 41, 3
+  orig: 41, 3
+  offset: 0, 0
+  index: -1
+yanz
+  rotate: false
+  xy: 482, 11
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+zhadan
+  rotate: false
+  xy: 482, 33
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1

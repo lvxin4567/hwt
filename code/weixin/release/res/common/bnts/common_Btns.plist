@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>btn_blue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,79},{202,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{202,74}}</string>
+				<key>sourceSize</key>
+				<string>{202,74}</string>
+			</dict>
+
+			<key>btn_blue_deep.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,158},{202,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{202,74}}</string>
+				<key>sourceSize</key>
+				<string>{202,74}</string>
+			</dict>
+
+			<key>btn_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,237},{202,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{202,74}}</string>
+				<key>sourceSize</key>
+				<string>{202,74}</string>
+			</dict>
+
+			<key>btn_green_deep.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{202,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{202,74}}</string>
+				<key>sourceSize</key>
+				<string>{202,74}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{207,316}</string>
+			<key>textureFileName</key>
+			<string>common_Btns.png</string>
+			</dict>
+		</dict>
+</plist>

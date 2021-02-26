@@ -1,0 +1,13 @@
+{
+  "name": "resourcepack",
+  "version": "1.0.0",
+  "description": "resource pack",
+  "main": "pack.js",
+  "author": "baoshitang@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^6.1.1",
+    "jszip": "^3.2.2",
+    "plist": "^3.0.1"
+  }
+}

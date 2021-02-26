@@ -1,0 +1,13 @@
+
+Reward.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi
+  rotate: false
+  xy: 2, 2
+  size: 121, 112
+  orig: 121, 112
+  offset: 0, 0
+  index: -1

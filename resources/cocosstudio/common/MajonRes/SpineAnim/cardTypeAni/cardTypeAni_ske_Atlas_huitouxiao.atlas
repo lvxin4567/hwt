@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_huitouxiao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/huitouxiao_glow
+  rotate: false
+  xy: 2, 307
+  size: 480, 185
+  orig: 480, 256
+  offset: 0, 42
+  index: -1
+donghua/library/huitouxiao_glow2
+  rotate: false
+  xy: 2, 133
+  size: 480, 172
+  orig: 480, 256
+  offset: 0, 44
+  index: -1
+donghua/library/huitouxiao_txt
+  rotate: false
+  xy: 2, 2
+  size: 387, 129
+  orig: 480, 256
+  offset: 48, 65
+  index: -1

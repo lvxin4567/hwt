@@ -1,0 +1,19 @@
+{
+    "out_path":"weixin/packages",
+    "format":"zip",
+    "package":{
+        "lobby":{
+            "package":["common","lobby"],
+            "min_json":true
+        },
+        "qcdg":{
+            "package":["qcdg"],
+            "min_json":true
+        },
+        "dydg":{
+            "package":["dydg"],
+            "min_json":true
+        }
+        
+    }
+}

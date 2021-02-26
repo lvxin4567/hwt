@@ -1,0 +1,20 @@
+
+xiaodeng.png
+size: 1095,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaodeng1
+  rotate: false
+  xy: 0, 0
+  size: 554, 556
+  orig: 554, 556
+  offset: 0, 0
+  index: -1
+xiaodeng2
+  rotate: false
+  xy: 556, 10
+  size: 539, 546
+  orig: 539, 546
+  offset: 0, 0
+  index: -1

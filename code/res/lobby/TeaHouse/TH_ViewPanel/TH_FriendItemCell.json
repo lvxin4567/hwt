@@ -1,0 +1,647 @@
+{
+  "ID": "f53ffeb4-4944-4146-a9c0-dbc8a8f899aa",
+  "Version": "2.3.4",
+  "Name": "TH_FriendItemCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 158,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "qyqItemBg.png",
+              "Plist": "lobby/TeaHouse/TH_ViewPanel/teahouseCreate.plist"
+            },
+            "Scale9OriginX": 111,
+            "Scale9OriginY": 139,
+            "Scale9Width": 116,
+            "Scale9Height": 146,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.5889
+            },
+            "LeftMargin": 471.0,
+            "RightMargin": 471.0,
+            "TopMargin": 148.0,
+            "BottomMargin": 148.0,
+            "Tag": 160,
+            "ActionTag": 87018885,
+            "Size": {
+              "X": 338.0,
+              "Y": 424.0
+            },
+            "Name": "Background",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "最多六个字哦",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 524.448
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 85,
+              "G": 74,
+              "B": 182
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7284
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.0417
+            },
+            "LeftMargin": 550.0,
+            "RightMargin": 550.0,
+            "TopMargin": 180.552,
+            "BottomMargin": 509.448,
+            "Tag": 161,
+            "ActionTag": 1852039671,
+            "Size": {
+              "X": 180.0,
+              "Y": 30.0
+            },
+            "Name": "friendQname",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "大大大的亲友圈",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 717.056,
+              "Y": 407.52
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 122,
+              "G": 82,
+              "B": 47
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5602,
+              "Y": 0.566
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0278
+            },
+            "LeftMargin": 647.056,
+            "RightMargin": 492.944,
+            "TopMargin": 302.48,
+            "BottomMargin": 397.52,
+            "Tag": 163,
+            "ActionTag": -218147589,
+            "Size": {
+              "X": 140.0,
+              "Y": 20.0
+            },
+            "Name": "masterName",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 22,
+            "LabelText": "亲友圈号：123456",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 489.9996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 126,
+              "G": 117,
+              "B": 189
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6806
+            },
+            "PreSize": {
+              "X": 0.1375,
+              "Y": 0.0306
+            },
+            "LeftMargin": 552.0,
+            "RightMargin": 552.0,
+            "TopMargin": 219.0004,
+            "BottomMargin": 478.9996,
+            "Tag": 162,
+            "ActionTag": -809899568,
+            "Size": {
+              "X": 176.0,
+              "Y": 22.0
+            },
+            "Name": "friendQid",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "成员：2人",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 706.7075,
+              "Y": 267.4257
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 174,
+              "G": 168
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5521,
+              "Y": 0.3714
+            },
+            "PreSize": {
+              "X": 0.0703,
+              "Y": 0.0278
+            },
+            "LeftMargin": 706.7075,
+            "RightMargin": 483.2925,
+            "TopMargin": 442.5743,
+            "BottomMargin": 257.4257,
+            "Tag": 164,
+            "ActionTag": -294881157,
+            "Size": {
+              "X": 90.0,
+              "Y": 20.0
+            },
+            "Name": "memberNum",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "成员：2人",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 563.8907,
+              "Y": 266.7433
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 174,
+              "G": 168
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4405,
+              "Y": 0.3705
+            },
+            "PreSize": {
+              "X": 0.0703,
+              "Y": 0.0278
+            },
+            "LeftMargin": 563.8907,
+            "RightMargin": 626.1093,
+            "TopMargin": 443.2567,
+            "BottomMargin": 256.7433,
+            "Tag": 165,
+            "ActionTag": 719975113,
+            "Size": {
+              "X": 90.0,
+              "Y": 20.0
+            },
+            "Name": "tablenum",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -11,
+            "Scale9Width": 30,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 734.6451,
+              "Y": 446.2339
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5739,
+              "Y": 0.6198
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.0569
+            },
+            "LeftMargin": 684.6451,
+            "RightMargin": 495.3549,
+            "TopMargin": 253.2661,
+            "BottomMargin": 425.7339,
+            "Tag": 166,
+            "ActionTag": -66443591,
+            "Size": {
+              "X": 100.0,
+              "Y": 41.0
+            },
+            "Name": "btn_to_top",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -11,
+            "Scale9Width": 30,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 554.0071,
+              "Y": 335.267
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4328,
+              "Y": 0.4656
+            },
+            "PreSize": {
+              "X": 0.0664,
+              "Y": 0.1181
+            },
+            "LeftMargin": 511.5071,
+            "RightMargin": 683.4929,
+            "TopMargin": 342.233,
+            "BottomMargin": 292.767,
+            "Tag": 167,
+            "ActionTag": 1610968393,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "Button_wanfa1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -11,
+            "Scale9Width": 30,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 651.7685,
+              "Y": 335.0368
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5092,
+              "Y": 0.4653
+            },
+            "PreSize": {
+              "X": 0.0664,
+              "Y": 0.1181
+            },
+            "LeftMargin": 609.2685,
+            "RightMargin": 585.7315,
+            "TopMargin": 342.4632,
+            "BottomMargin": 292.5368,
+            "Tag": 169,
+            "ActionTag": -374867101,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "Button_wanfa2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -11,
+            "Scale9Width": 30,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 745.8895,
+              "Y": 334.4923
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5827,
+              "Y": 0.4646
+            },
+            "PreSize": {
+              "X": 0.0664,
+              "Y": 0.1181
+            },
+            "LeftMargin": 703.3895,
+            "RightMargin": 491.6105,
+            "TopMargin": 343.0077,
+            "BottomMargin": 291.9923,
+            "Tag": 168,
+            "ActionTag": -1610310796,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "Button_wanfa3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -11,
+            "Scale9Width": 30,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 648.832,
+              "Y": 207.9218
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5069,
+              "Y": 0.2888
+            },
+            "PreSize": {
+              "X": 0.2406,
+              "Y": 0.1236
+            },
+            "LeftMargin": 494.832,
+            "RightMargin": 477.168,
+            "TopMargin": 467.5782,
+            "BottomMargin": 163.4218,
+            "Tag": 170,
+            "ActionTag": -447500857,
+            "Size": {
+              "X": 308.0,
+              "Y": 89.0
+            },
+            "Name": "go_qyq",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "teahouseCreate.plist",
+        "teahouseCreate.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,41 @@
+
+Hurl_ske_egg.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danhuang
+  rotate: false
+  xy: 177, 136
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+danke1
+  rotate: false
+  xy: 295, 224
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+danke2
+  rotate: false
+  xy: 177, 101
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+danqing
+  rotate: false
+  xy: 2, 80
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+jidan1
+  rotate: false
+  xy: 2, 2
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1

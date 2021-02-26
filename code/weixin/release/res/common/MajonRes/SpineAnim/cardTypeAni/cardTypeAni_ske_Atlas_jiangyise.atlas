@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_jiangyise.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/jiangyishe_glow
+  rotate: false
+  xy: 2, 2
+  size: 445, 216
+  orig: 480, 256
+  offset: 35, 40
+  index: -1
+donghua/library/jiangyishe_glow2
+  rotate: false
+  xy: 2, 220
+  size: 453, 225
+  orig: 480, 256
+  offset: 13, 17
+  index: -1
+donghua/library/jiangyishe_txt
+  rotate: false
+  xy: 457, 313
+  size: 383, 132
+  orig: 480, 256
+  offset: 45, 64
+  index: -1

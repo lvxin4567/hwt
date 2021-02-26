@@ -1,0 +1,436 @@
+{
+  "ID": "684af774-f625-428d-a0cd-2f88ec3967fd",
+  "Version": "2.3.4",
+  "Name": "ChatLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 159,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 160,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/MajonRes/ChatLayer/chatbg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 284,
+                "Scale9OriginY": 158,
+                "Scale9Width": 295,
+                "Scale9Height": 164,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6742,
+                  "Y": 0.6667
+                },
+                "LeftMargin": 208.5,
+                "RightMargin": 208.5,
+                "TopMargin": 120.0,
+                "BottomMargin": 120.0,
+                "Tag": 161,
+                "Children": [
+                  {
+                    "IsBounceEnabled": true,
+                    "InnerNodeSize": {
+                      "Width": 390,
+                      "Height": 400
+                    },
+                    "ScrollDirectionType": "Vertical",
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "FirstColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 20.0,
+                      "Y": 53.7207
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0232,
+                      "Y": 0.1119
+                    },
+                    "PreSize": {
+                      "X": 0.4519,
+                      "Y": 0.8333
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "LeftMargin": 20.0,
+                    "RightMargin": 453.0,
+                    "TopMargin": 26.2793,
+                    "BottomMargin": 53.7207,
+                    "Tag": 163,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": -0.0005,
+                          "Y": 307.49
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.7687
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.225
+                        },
+                        "LeftMargin": -0.0005,
+                        "RightMargin": 0.0005,
+                        "TopMargin": 2.51,
+                        "BottomMargin": 307.49,
+                        "Tag": 164,
+                        "ActionTag": 1038917802,
+                        "Size": {
+                          "X": 390.0,
+                          "Y": 90.0
+                        },
+                        "Name": "cellPanel",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": -1476139631,
+                    "Size": {
+                      "X": 390.0,
+                      "Y": 400.0
+                    },
+                    "Name": "emotionScr",
+                    "ctype": "ScrollViewObjectData"
+                  },
+                  {
+                    "IsBounceEnabled": true,
+                    "InnerNodeSize": {
+                      "Width": 420,
+                      "Height": 400
+                    },
+                    "ScrollDirectionType": "Vertical",
+                    "ClipAble": true,
+                    "SingleColor": {},
+                    "FirstColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 416.9188,
+                      "Y": 53.7207
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4831,
+                      "Y": 0.1119
+                    },
+                    "PreSize": {
+                      "X": 0.4867,
+                      "Y": 0.8333
+                    },
+                    "LeftMargin": 416.9188,
+                    "RightMargin": 26.0812,
+                    "TopMargin": 26.2793,
+                    "BottomMargin": 53.7207,
+                    "Tag": 177,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.1625
+                        },
+                        "TopMargin": 335.0,
+                        "Tag": 187,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "text-l-bg.png",
+                              "Plist": "common/MajonRes/ChatLayer/ChatLayer.plist"
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 2,
+                            "Scale9OriginY": 17,
+                            "Scale9Width": 5,
+                            "Scale9Height": 18,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 186,
+                            "ActionTag": -941547700,
+                            "Size": {
+                              "X": 420.0,
+                              "Y": 65.0
+                            },
+                            "Name": "Image_2",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 23,
+                            "LabelText": "Text Label",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 8.9,
+                              "Y": 30.2048
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0212,
+                              "Y": 0.4647
+                            },
+                            "PreSize": {
+                              "X": 0.2857,
+                              "Y": 0.3538
+                            },
+                            "LeftMargin": 8.9,
+                            "RightMargin": 291.1,
+                            "TopMargin": 23.2952,
+                            "BottomMargin": 18.7048,
+                            "Tag": 188,
+                            "ActionTag": 1009342992,
+                            "Size": {
+                              "X": 120.0,
+                              "Y": 23.0
+                            },
+                            "Name": "Text_1",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 415018217,
+                        "Size": {
+                          "X": 420.0,
+                          "Y": 65.0
+                        },
+                        "Name": "cellPanel",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1306120582,
+                    "Size": {
+                      "X": 420.0,
+                      "Y": 400.0
+                    },
+                    "Name": "quyuScr",
+                    "ctype": "ScrollViewObjectData"
+                  }
+                ],
+                "ActionTag": 883650817,
+                "Size": {
+                  "X": 863.0,
+                  "Y": 480.0
+                },
+                "Name": "img_bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 774295984,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "chatPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "chatbg.png",
+        "ChatLayer.plist",
+        "ChatLayer.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

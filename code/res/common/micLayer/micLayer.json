@@ -1,0 +1,199 @@
+{
+  "ID": "0330e2c8-a488-4dc3-8faf-a4862052c451",
+  "Version": "2.3.4",
+  "Name": "micLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 576,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "yy_3.png",
+              "Plist": "common/micLayer/voices.plist"
+            },
+            "Scale9OriginX": 85,
+            "Scale9OriginY": 85,
+            "Scale9Width": 90,
+            "Scale9Height": 90,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -130.0,
+            "RightMargin": -130.0,
+            "TopMargin": -130.0,
+            "BottomMargin": -130.0,
+            "Tag": 465,
+            "ActionTag": -1504222188,
+            "Size": {
+              "X": 260.0,
+              "Y": 260.0
+            },
+            "Name": "voicesSp",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 583,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yy_cancel.png",
+                  "Plist": "common/micLayer/voices.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -130.0,
+                "RightMargin": -130.0,
+                "TopMargin": -130.0,
+                "BottomMargin": -130.0,
+                "Tag": 581,
+                "ActionTag": -580595237,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 260.0
+                },
+                "Name": "cancelSp",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yy_txt.png",
+                  "Plist": "common/micLayer/voices.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -94.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -107.0,
+                "RightMargin": -107.0,
+                "TopMargin": 81.5,
+                "BottomMargin": -106.5,
+                "Tag": 584,
+                "ActionTag": 1042052395,
+                "Size": {
+                  "X": 214.0,
+                  "Y": 25.0
+                },
+                "Name": "yy_txt_2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2018145595,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "cancelBox",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "voices.plist",
+        "voices.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

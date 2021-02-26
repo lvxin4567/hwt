@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_heimo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/heimo_glow
+  rotate: false
+  xy: 333, 14
+  size: 322, 148
+  orig: 512, 256
+  offset: 98, 57
+  index: -1
+donghua/library/heimo_glow2
+  rotate: false
+  xy: 2, 2
+  size: 329, 160
+  orig: 512, 256
+  offset: 95, 52
+  index: -1
+donghua/library/heimo_txt
+  rotate: false
+  xy: 657, 42
+  size: 247, 120
+  orig: 512, 256
+  offset: 135, 71
+  index: -1

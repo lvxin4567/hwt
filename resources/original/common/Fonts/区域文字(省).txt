@@ -1,0 +1,24 @@
+北京市广东省山江苏河南上海浙香港特
+别行政区陕西湖重庆福建天津云四川壮
+族自治安徽辽宁台湾黑龙内蒙古澳门贵
+州甘肃青新疆维吾尔藏吉林夏回
+
+北京市广东省山江苏河南上海浙香港特别行政区陕西湖重庆福建天津云四川壮族自治安徽辽宁台湾黑龙内蒙古澳门贵州甘肃青新疆维吾尔藏吉林夏回
+
+
+common.area_font.fnt
+common.area_font.png
+common.area_font_on.fnt
+common.area_font_on.png
+
+
+char id=@id x=@x y=@y width=@w height=@h xoffset=@sx yoffset=@sy xadvance=@w page=0 chnl=0 letter="@letter"
+info face="common.area_font.fnt" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=@padding,@padding\ncommon lineHeight=@advanceY base=26 scaleW=@texW scaleH=@texH pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0\npage id=0 file="common.area_font.png"\nchars count=@count\n@loop\nkernings count=@kernPairCount\n@kernLoop
+common.area_font.fnt
+
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"
+
+char id=@id x=@x y=@y width=@w height=@h xoffset=@sx yoffset=@sy xadvance=@w page=0 chnl=0 letter="@letter"
+info face="common.area_font_on.fnt" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=@padding,@padding\ncommon lineHeight=@advanceY base=26 scaleW=@texW scaleH=@texH pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0\npage id=0 file="common.area_font_on.png"\nchars count=@count\n@loop\nkernings count=@kernPairCount\n@kernLoop
+common.area_font_on.fnt

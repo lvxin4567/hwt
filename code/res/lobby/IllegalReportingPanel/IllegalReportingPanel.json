@@ -1,0 +1,926 @@
+{
+  "ID": "641a08ad-3930-460e-bd60-4abc7eba25f4",
+  "Version": "2.3.4",
+  "Name": "IllegalReportingPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 788,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 798,
+            "ActionTag": 2047728640,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -204,
+            "Scale9OriginY": -141,
+            "Scale9Width": 408,
+            "Scale9Height": 282,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.816,
+              "Y": 358.056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5022,
+              "Y": 0.4973
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 2.816,
+            "RightMargin": -2.816,
+            "TopMargin": 1.944,
+            "BottomMargin": -1.944,
+            "Tag": 789,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/bgs/Bg888548.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 293,
+                "Scale9OriginY": 180,
+                "Scale9Width": 302,
+                "Scale9Height": 188,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6938,
+                  "Y": 0.7611
+                },
+                "LeftMargin": 196.0,
+                "RightMargin": 196.0,
+                "TopMargin": 86.0,
+                "BottomMargin": 86.0,
+                "Tag": 790,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "common/bgs/dialogTitleBg.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 444.0,
+                      "Y": 518.005
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9453
+                    },
+                    "PreSize": {
+                      "X": 0.2793,
+                      "Y": 0.1332
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 320.0,
+                    "RightMargin": 320.0,
+                    "TopMargin": -6.505,
+                    "BottomMargin": 481.505,
+                    "Tag": 847,
+                    "Children": [
+                      {
+                        "LabelText": "违法举报",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/common.dialog_title.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 40.15
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.5645,
+                          "Y": 0.4932
+                        },
+                        "LeftMargin": 54.0,
+                        "RightMargin": 54.0,
+                        "TopMargin": 14.85,
+                        "BottomMargin": 22.15,
+                        "Tag": 848,
+                        "ActionTag": 792495765,
+                        "Size": {
+                          "X": 140.0,
+                          "Y": 36.0
+                        },
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                      }
+                    ],
+                    "ActionTag": 386515540,
+                    "Size": {
+                      "X": 248.0,
+                      "Y": 73.0
+                    },
+                    "Name": "Title",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "本产品为休闲游戏平台，倡导绿色游戏！禁止非法组织或个人利用本平台进行赌博等非法盈利行为，一经查实，将做违规处罚，情节严重者将直接汇报公安机关采取法律手段进行处理，请广大玩家文明游戏，禁止赌博！若您发现任何违法行为，可直接将相关信息发送至我们的违法行为专用处理邮箱，我们的工作人员会尽快核查处理，违法行为受理专用邮箱：“jubao@douqi.com”",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 31.0,
+                      "Y": 377.61
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 136,
+                      "G": 84,
+                      "B": 51
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0349,
+                      "Y": 0.6891
+                    },
+                    "PreSize": {
+                      "X": 0.9324,
+                      "Y": 0.3011
+                    },
+                    "LeftMargin": 31.0,
+                    "RightMargin": 29.0,
+                    "TopMargin": 87.89,
+                    "BottomMargin": 295.11,
+                    "Tag": 929,
+                    "ActionTag": 1819748155,
+                    "Size": {
+                      "X": 828.0,
+                      "Y": 165.0
+                    },
+                    "Name": "Text_7",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "您的邮箱地址(请填写反馈信息的邮箱地址)",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.0,
+                      "Y": 264.1278
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 118,
+                      "G": 110,
+                      "B": 99
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0394,
+                      "Y": 0.482
+                    },
+                    "PreSize": {
+                      "X": 0.5135,
+                      "Y": 0.0438
+                    },
+                    "LeftMargin": 35.0,
+                    "RightMargin": 397.0,
+                    "TopMargin": 271.8722,
+                    "BottomMargin": 252.1278,
+                    "Tag": 930,
+                    "ActionTag": 1928979330,
+                    "Size": {
+                      "X": 456.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text_8",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "",
+                    "MaxLengthText": 10,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 45.0,
+                      "Y": 222.5719
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 185,
+                      "G": 125,
+                      "B": 85
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0507,
+                      "Y": 0.4062
+                    },
+                    "PreSize": {
+                      "X": 0.6194,
+                      "Y": 0.0632
+                    },
+                    "LeftMargin": 45.0,
+                    "RightMargin": 293.0,
+                    "TopMargin": 308.1176,
+                    "BottomMargin": 205.2614,
+                    "Tag": 931,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "TH_anti_dialog_input_small.png",
+                          "Plist": "lobby/TeaHouse/TH_AntiIndulgence/TH_AntiIndulgence_dialog.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 61,
+                        "Scale9OriginY": 14,
+                        "Scale9Width": 63,
+                        "Scale9Height": 16,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 275.0,
+                          "Y": 19.0415
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 1.0364,
+                          "Y": 1.2709
+                        },
+                        "LeftMargin": -10.0,
+                        "RightMargin": -10.0,
+                        "TopMargin": -6.4206,
+                        "BottomMargin": -2.9585,
+                        "Tag": 932,
+                        "ActionTag": -187226911,
+                        "Size": {
+                          "X": 570.0,
+                          "Y": 44.0
+                        },
+                        "Name": "Image_6",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -707005644,
+                    "Size": {
+                      "X": 550.0,
+                      "Y": 34.6209
+                    },
+                    "Name": "input_mail",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/IllegalReportingPanel/right.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 660.0,
+                      "Y": 223.9958
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7432,
+                      "Y": 0.4088
+                    },
+                    "PreSize": {
+                      "X": 0.0529,
+                      "Y": 0.0858
+                    },
+                    "LeftMargin": 636.5,
+                    "RightMargin": 204.5,
+                    "TopMargin": 300.5042,
+                    "BottomMargin": 200.4958,
+                    "Tag": 220,
+                    "ActionTag": -2010670476,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 47.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "mailPass",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/IllegalReportingPanel/wrong.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 660.0,
+                      "Y": 223.9958
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7432,
+                      "Y": 0.4088
+                    },
+                    "PreSize": {
+                      "X": 0.0529,
+                      "Y": 0.0858
+                    },
+                    "LeftMargin": 636.5,
+                    "RightMargin": 204.5,
+                    "TopMargin": 300.5042,
+                    "BottomMargin": 200.4958,
+                    "Tag": 38,
+                    "ActionTag": -385401152,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 47.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "mailErr",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 37,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "common_btn_close_deep.png",
+                      "Plist": "common/bnts/common_new_btns.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "common_btn_close.png",
+                      "Plist": "common/bnts/common_new_btns.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 26,
+                    "Scale9Height": 36,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 880.0,
+                      "Y": 539.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.991,
+                      "Y": 0.9836
+                    },
+                    "PreSize": {
+                      "X": 0.0631,
+                      "Y": 0.1058
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 852.0,
+                    "RightMargin": -20.0,
+                    "TopMargin": -20.0,
+                    "BottomMargin": 510.0,
+                    "Tag": 792,
+                    "ActionTag": 1671756022,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 58.0
+                    },
+                    "Name": "btn_notice_close",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "您的举报内容(请对举报内容进行描述)",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.0,
+                      "Y": 175.6058
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 118,
+                      "G": 110,
+                      "B": 99
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0394,
+                      "Y": 0.3204
+                    },
+                    "PreSize": {
+                      "X": 0.4595,
+                      "Y": 0.0438
+                    },
+                    "LeftMargin": 35.0,
+                    "RightMargin": 445.0,
+                    "TopMargin": 360.3942,
+                    "BottomMargin": 163.6058,
+                    "Tag": 933,
+                    "ActionTag": 317976230,
+                    "Size": {
+                      "X": 408.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text_8_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "",
+                    "MaxLengthText": 10,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 45.0,
+                      "Y": 134.0506
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 185,
+                      "G": 125,
+                      "B": 85
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0507,
+                      "Y": 0.2446
+                    },
+                    "PreSize": {
+                      "X": 0.8784,
+                      "Y": 0.0632
+                    },
+                    "LeftMargin": 45.0,
+                    "RightMargin": 63.0,
+                    "TopMargin": 396.6389,
+                    "BottomMargin": 116.7402,
+                    "Tag": 934,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "TH_anti_dialog_input_small.png",
+                          "Plist": "lobby/TeaHouse/TH_AntiIndulgence/TH_AntiIndulgence_dialog.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 61,
+                        "Scale9OriginY": 14,
+                        "Scale9Width": 63,
+                        "Scale9Height": 16,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 390.0,
+                          "Y": 19.0415
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 1.0256,
+                          "Y": 1.2709
+                        },
+                        "LeftMargin": -10.0,
+                        "RightMargin": -10.0,
+                        "TopMargin": -6.4206,
+                        "BottomMargin": -2.9585,
+                        "Tag": 935,
+                        "ActionTag": -1604219449,
+                        "Size": {
+                          "X": 800.0,
+                          "Y": 44.0
+                        },
+                        "Name": "Image_6",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1240364674,
+                    "Size": {
+                      "X": 780.0,
+                      "Y": 34.6209
+                    },
+                    "Name": "input_content",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 37,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "common_btn_green_deep.png",
+                      "Plist": "common/bnts/common_new_btns.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "common_btn_green.png",
+                      "Plist": "common/bnts/common_new_btns.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 198,
+                    "Scale9Height": 59,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 444.0,
+                      "Y": 64.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1168
+                    },
+                    "PreSize": {
+                      "X": 0.2568,
+                      "Y": 0.1478
+                    },
+                    "LeftMargin": 330.0,
+                    "RightMargin": 330.0,
+                    "TopMargin": 443.5,
+                    "BottomMargin": 23.5,
+                    "Tag": 238,
+                    "Children": [
+                      {
+                        "LabelText": "提交",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "common/Fonts/common.green_font.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 114.0,
+                          "Y": 44.55
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.3114,
+                          "Y": 0.4321
+                        },
+                        "LeftMargin": 78.5,
+                        "RightMargin": 78.5,
+                        "TopMargin": 18.95,
+                        "BottomMargin": 27.05,
+                        "Tag": 239,
+                        "ActionTag": 2086483769,
+                        "Size": {
+                          "X": 71.0,
+                          "Y": 35.0
+                        },
+                        "Name": "label",
+                        "ctype": "TextBMFontObjectData"
+                      }
+                    ],
+                    "ActionTag": 1298866689,
+                    "Size": {
+                      "X": 228.0,
+                      "Y": 81.0
+                    },
+                    "Name": "submit",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -349282572,
+                "Size": {
+                  "X": 888.0,
+                  "Y": 548.0
+                },
+                "Name": "Bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1362819186,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "contentPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../common/bgs/Bg888548.png",
+        "../../common/bgs/dialogTitleBg.png",
+        "../../common/bnts/common_new_btns.plist",
+        "../../common/bnts/common_new_btns.png",
+        "../../common/Fonts/common.dialog_title.fnt",
+        "../../common/Fonts/common.dialog_title.png",
+        "../../common/Fonts/common.green_font.fnt",
+        "../../common/Fonts/common.green_font.png",
+        "../TeaHouse/TH_AntiIndulgence/TH_AntiIndulgence_dialog.plist",
+        "../TeaHouse/TH_AntiIndulgence/TH_AntiIndulgence_dialog.png",
+        "right.png",
+        "wrong.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

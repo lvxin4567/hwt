@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tea_tag_business_stat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,93},{123,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{123,29}}</string>
+				<key>sourceSize</key>
+				<string>{123,29}</string>
+			</dict>
+
+			<key>tea_tag_business_stat_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,155},{123,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{123,29}}</string>
+				<key>sourceSize</key>
+				<string>{123,29}</string>
+			</dict>
+
+			<key>tea_tag_circle_rc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,186},{122,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{122,29}}</string>
+				<key>sourceSize</key>
+				<string>{122,29}</string>
+			</dict>
+
+			<key>tea_tag_circle_rc_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,217},{122,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{122,29}}</string>
+				<key>sourceSize</key>
+				<string>{122,29}</string>
+			</dict>
+
+			<key>tea_tag_member_rc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,124},{123,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{123,29}}</string>
+				<key>sourceSize</key>
+				<string>{123,29}</string>
+			</dict>
+
+			<key>tea_tag_member_rc_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,62},{123,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{123,29}}</string>
+				<key>sourceSize</key>
+				<string>{123,29}</string>
+			</dict>
+
+			<key>tea_tag_mine_rc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,31},{123,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{123,29}}</string>
+				<key>sourceSize</key>
+				<string>{123,29}</string>
+			</dict>
+
+			<key>tea_tag_mine_rc_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{123,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{123,29}}</string>
+				<key>sourceSize</key>
+				<string>{123,29}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{125,248}</string>
+			<key>textureFileName</key>
+			<string>TH_Menu_Items.png</string>
+			</dict>
+		</dict>
+</plist>

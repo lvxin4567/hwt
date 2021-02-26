@@ -1,0 +1,22 @@
+015Kk挨鞍安八巴百斑板蚌保北必壁埠昌长巢城成池赤崇滁楚川吹春戳次打大当倒到得瞪凳底地店顶东斗都多鄂恩儿二番房放肥分丰封峰风凤福阜干感冈杠隔个拱谷刮广归滚锅汉合河鹤洪红胡湖花画淮黄晃机吉集级济嘉家监建将江椒焦脚斤荆京九决卡开康口快来赖老利陵流六龙陆罗洛麻马梅门梦磨南宁牛牌跑拼平七千潜庆丘圈全人肉三沙山商上绍生升施十石始市首数双水四松宿随桃天田通铜团推皖芜武五悟西虾峡下仙咸县襄乡祥孝新忻信星兴许宣穴血眼堰洋阳冶一宜英应硬鱼雨源远云郧枣战漳张郑枝中钟周州洲竹主驻滋子字作亳蕲捱浠漯濮铳秭
+
+015Kk挨鞍安八巴百斑板蚌保北必壁埠昌
+长巢城成池赤崇滁楚川吹春戳次打大当倒
+到得瞪凳底地店顶东斗都多鄂恩儿二番房
+放肥分丰封峰风凤福阜干感冈杠隔个拱谷
+刮广归滚锅汉合河鹤洪红胡湖花画淮黄晃
+机吉集级济嘉家监建将江椒焦脚斤荆京九
+决卡开康口快来赖老利陵流六龙陆罗洛麻
+马梅门梦磨南宁牛牌跑拼平七千潜庆丘圈
+全人肉三沙山商上绍生升施十石始市首数
+双水四松宿随桃天田通铜团推皖芜武五悟
+西虾峡下仙咸县襄乡祥孝新忻信星兴许宣
+穴血眼堰洋阳冶一宜英应硬鱼雨源远云郧
+枣战漳张郑枝中钟周州洲竹主驻滋子字作
+亳蕲捱浠漯濮铳秭
+
+char id=@id x=@x y=@y width=@w height=@h xoffset=@sx yoffset=@sy xadvance=@w page=0 chnl=0 letter="@letter"
+info face="common.game_icon_font.fnt" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=@padding,@padding\ncommon lineHeight=@advanceY base=26 scaleW=@texW scaleH=@texH pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0\npage id=0 file="common.game_icon_font.png"\nchars count=@count\n@loop\nkernings count=@kernPairCount\n@kernLoop
+
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"

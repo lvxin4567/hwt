@@ -1,0 +1,426 @@
+{
+  "ID": "39eab845-79ea-4a81-83bc-674f9f59bb0e",
+  "Version": "2.3.4",
+  "Name": "TH_ChangeFloorBlock",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 347,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "thmMenuAddDeep.png",
+              "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/TH_Mix.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "thmMenuAdd.png",
+              "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/TH_Mix.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 102,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1239.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.968,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0484,
+              "Y": 0.1722
+            },
+            "HorizontalEdge": "RightEdge",
+            "LeftMargin": 1208.0,
+            "RightMargin": 10.0,
+            "TopMargin": 298.0,
+            "BottomMargin": 298.0,
+            "Tag": 344,
+            "ActionTag": -1731149350,
+            "Size": {
+              "X": 62.0,
+              "Y": 124.0
+            },
+            "VisibleForFrame": false,
+            "Name": "AddButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 25.6,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.02,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0376,
+              "Y": 0.2778
+            },
+            "LeftMargin": 25.6,
+            "RightMargin": 1206.212,
+            "TopMargin": 260.0,
+            "BottomMargin": 260.0,
+            "Tag": 55,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bg.png",
+                  "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/upDownFloor.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 24.0,
+                  "Y": 100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.498,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9961,
+                  "Y": 0.76
+                },
+                "RightMargin": 0.188,
+                "TopMargin": 24.0,
+                "BottomMargin": 24.0,
+                "Tag": 134,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "down_gray.png",
+                      "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/upDownFloor.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "down_deep.png",
+                      "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/upDownFloor.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "down.png",
+                      "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/upDownFloor.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 37,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.2083,
+                      "Y": 0.3882
+                    },
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": -5.0,
+                    "RightMargin": -5.0,
+                    "TopMargin": 122.5,
+                    "BottomMargin": -29.5,
+                    "Tag": 349,
+                    "ActionTag": -1854671906,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 59.0
+                    },
+                    "Name": "btn_down",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "up_gray.png",
+                      "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/upDownFloor.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "up_deep.png",
+                      "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/upDownFloor.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "up.png",
+                      "Plist": "lobby/TeaHouse/TH_ChangeFloorPanel/upDownFloor.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 37,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.0,
+                      "Y": 152.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 1.0
+                    },
+                    "PreSize": {
+                      "X": 1.2083,
+                      "Y": 0.3882
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": -5.0,
+                    "RightMargin": -5.0,
+                    "TopMargin": -29.5,
+                    "BottomMargin": 122.5,
+                    "Tag": 350,
+                    "ActionTag": 74243356,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 59.0
+                    },
+                    "Name": "btn_up",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 25.0584,
+                      "Y": 81.9327
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 239,
+                      "G": 238,
+                      "B": 222
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.522,
+                      "Y": 0.539
+                    },
+                    "PreSize": {
+                      "X": 0.851,
+                      "Y": 0.6098
+                    },
+                    "LeftMargin": 4.6339,
+                    "RightMargin": 2.5171,
+                    "TopMargin": 23.7224,
+                    "BottomMargin": 35.5879,
+                    "Tag": 66,
+                    "ActionTag": -1537779119,
+                    "Size": {
+                      "X": 40.8491,
+                      "Y": 92.6897
+                    },
+                    "Name": "floornum",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1499041255,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 152.0
+                },
+                "Name": "floor_group1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1414873376,
+            "Size": {
+              "X": 48.188,
+              "Y": 200.0
+            },
+            "Name": "floor_group",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../Default/Button_Disable.png",
+        "TH_Mix.plist",
+        "TH_Mix.png",
+        "upDownFloor.plist",
+        "upDownFloor.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

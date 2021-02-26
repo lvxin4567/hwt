@@ -1,0 +1,41 @@
+
+sanren.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 2, 101
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+mingz
+  rotate: false
+  xy: 2, 60
+  size: 123, 39
+  orig: 123, 39
+  offset: 0, 0
+  index: -1
+xingg1
+  rotate: false
+  xy: 2, 31
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+xingg2
+  rotate: false
+  xy: 2, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+zt
+  rotate: true
+  xy: 139, 79
+  size: 158, 108
+  orig: 158, 108
+  offset: 0, 0
+  index: -1

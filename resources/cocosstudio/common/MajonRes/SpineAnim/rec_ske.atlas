@@ -1,0 +1,48 @@
+
+rec_ske.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi
+  rotate: false
+  xy: 312, 8
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+gang
+  rotate: false
+  xy: 413, 8
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 108, 8
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+peng
+  rotate: false
+  xy: 210, 8
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 2, 2
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+shouzhi01
+  rotate: false
+  xy: 514, 33
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1

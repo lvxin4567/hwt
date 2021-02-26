@@ -1,0 +1,69 @@
+
+douqimeinv.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg
+  rotate: false
+  xy: 564, 41
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 39
+  size: 440, 560
+  orig: 440, 560
+  offset: 0, 0
+  index: -1
+toufahou
+  rotate: false
+  xy: 564, 174
+  size: 230, 305
+  orig: 230, 305
+  offset: 0, 0
+  index: -1
+toufaqian
+  rotate: true
+  xy: 907, 325
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1
+toufaxiao
+  rotate: true
+  xy: 984, 299
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 796, 79
+  size: 186, 153
+  orig: 186, 153
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 907, 234
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 796, 234
+  size: 109, 245
+  orig: 109, 245
+  offset: 0, 0
+  index: -1

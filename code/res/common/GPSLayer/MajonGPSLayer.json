@@ -1,0 +1,1271 @@
+{
+  "ID": "5d7b23b1-70ec-4b2a-b0a2-de112f12c093",
+  "Version": "2.3.4",
+  "Name": "MajonGPSLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 204,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 207,
+            "ActionTag": 1387274195,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/GPSLayer/gpsbg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 297,
+            "Scale9OriginY": 215,
+            "Scale9Width": 307,
+            "Scale9Height": 223,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7039,
+              "Y": 0.9069
+            },
+            "LeftMargin": 189.5,
+            "RightMargin": 189.5,
+            "TopMargin": 33.5,
+            "BottomMargin": 33.5,
+            "Tag": 211,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "text.png",
+                  "Plist": "common/GPSLayer/xt_mjGPSLayer.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 450.5,
+                  "Y": 600.4874
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9196
+                },
+                "PreSize": {
+                  "X": 0.1743,
+                  "Y": 0.0628
+                },
+                "LeftMargin": 372.0,
+                "RightMargin": 372.0,
+                "TopMargin": 32.0126,
+                "BottomMargin": 579.9874,
+                "Tag": 212,
+                "ActionTag": 1400912576,
+                "Size": {
+                  "X": 157.0,
+                  "Y": 41.0
+                },
+                "Name": "text",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "tishi.png",
+                  "Plist": "common/GPSLayer/xt_mjGPSLayer.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 105.9479,
+                  "Y": 544.1551
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1176,
+                  "Y": 0.8333
+                },
+                "PreSize": {
+                  "X": 0.1665,
+                  "Y": 0.1149
+                },
+                "LeftMargin": 30.9479,
+                "RightMargin": 720.0521,
+                "TopMargin": 71.3449,
+                "BottomMargin": 506.6551,
+                "Tag": 213,
+                "ActionTag": 1007147253,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 75.0
+                },
+                "Name": "tishi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "thh_btn_close_deep.png",
+                  "Plist": "common/MajonRes/SettingPanel/MajonSettingLayer.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "thh_btn_close.png",
+                  "Plist": "common/MajonRes/SettingPanel/MajonSettingLayer.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 65,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 874.9336,
+                  "Y": 590.7738
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9711,
+                  "Y": 0.9047
+                },
+                "PreSize": {
+                  "X": 0.1054,
+                  "Y": 0.144
+                },
+                "LeftMargin": 827.4336,
+                "RightMargin": -21.4336,
+                "TopMargin": 15.2262,
+                "BottomMargin": 543.7738,
+                "Tag": 214,
+                "ActionTag": -2080195865,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "无法获取",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 632.658,
+                  "Y": 202.4588
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -30.0,
+                "RotationSkewY": -30.0,
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7022,
+                  "Y": 0.31
+                },
+                "PreSize": {
+                  "X": 0.111,
+                  "Y": 0.0383
+                },
+                "LeftMargin": 582.658,
+                "RightMargin": 218.342,
+                "TopMargin": 438.0412,
+                "BottomMargin": 189.9588,
+                "Tag": 215,
+                "ActionTag": 2955851,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 25.0
+                },
+                "Name": "disText_0_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "无法获取",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 487.9143,
+                  "Y": 285.3922
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 270.0,
+                "RotationSkewY": 270.0,
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5415,
+                  "Y": 0.437
+                },
+                "PreSize": {
+                  "X": 0.111,
+                  "Y": 0.0383
+                },
+                "LeftMargin": 437.9143,
+                "RightMargin": 363.0857,
+                "TopMargin": 355.1078,
+                "BottomMargin": 272.8922,
+                "Tag": 216,
+                "ActionTag": 1544974145,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 25.0
+                },
+                "Name": "disText_0_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "无法获取",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 268.455,
+                  "Y": 208.0244
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 30.0,
+                "RotationSkewY": 30.0,
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.298,
+                  "Y": 0.3186
+                },
+                "PreSize": {
+                  "X": 0.111,
+                  "Y": 0.0383
+                },
+                "LeftMargin": 218.455,
+                "RightMargin": 582.545,
+                "TopMargin": 432.4756,
+                "BottomMargin": 195.5244,
+                "Tag": 221,
+                "ActionTag": 35318809,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 25.0
+                },
+                "Name": "disText_0_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "无法获取",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 630.7533,
+                  "Y": 419.6222
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 30.0,
+                "RotationSkewY": 30.0,
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7001,
+                  "Y": 0.6426
+                },
+                "PreSize": {
+                  "X": 0.111,
+                  "Y": 0.0383
+                },
+                "LeftMargin": 580.7533,
+                "RightMargin": 220.2467,
+                "TopMargin": 220.8778,
+                "BottomMargin": 407.1222,
+                "Tag": 222,
+                "ActionTag": 1757678452,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 25.0
+                },
+                "Name": "disText_1_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "无法获取",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 326.5021,
+                  "Y": 349.1569
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3624,
+                  "Y": 0.5347
+                },
+                "PreSize": {
+                  "X": 0.111,
+                  "Y": 0.0383
+                },
+                "LeftMargin": 276.5021,
+                "RightMargin": 524.4979,
+                "TopMargin": 291.3431,
+                "BottomMargin": 336.6569,
+                "Tag": 223,
+                "ActionTag": -1704757945,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 25.0
+                },
+                "Name": "disText_1_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "无法获取",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 282.3111,
+                  "Y": 424.0242
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -30.0,
+                "RotationSkewY": -30.0,
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3133,
+                  "Y": 0.6493
+                },
+                "PreSize": {
+                  "X": 0.111,
+                  "Y": 0.0383
+                },
+                "LeftMargin": 232.3111,
+                "RightMargin": 568.6889,
+                "TopMargin": 216.4758,
+                "BottomMargin": 411.5242,
+                "Tag": 224,
+                "ActionTag": -70219645,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 25.0
+                },
+                "Name": "disText_2_3",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 487627184,
+            "Size": {
+              "X": 901.0,
+              "Y": 653.0
+            },
+            "Name": "content",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 225,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gpsHeadbg.png",
+                  "Plist": "common/GPSLayer/xt_mjGPSLayer.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -184.2107
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -34.0,
+                "RightMargin": -34.0,
+                "TopMargin": 133.7107,
+                "BottomMargin": -234.7107,
+                "Tag": 226,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon.png",
+                      "Plist": "common/DissRoom/DissRoom.plist"
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 22,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.7643,
+                      "Y": 67.1104
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4965,
+                      "Y": 0.6645
+                    },
+                    "PreSize": {
+                      "X": 0.9412,
+                      "Y": 0.6337
+                    },
+                    "LeftMargin": 1.7643,
+                    "RightMargin": 2.2357,
+                    "TopMargin": 1.8896,
+                    "BottomMargin": 35.1104,
+                    "Tag": 348,
+                    "ActionTag": 386396710,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 64.0
+                    },
+                    "Name": "headImg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "二哈二哈二哈",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 34.0,
+                      "Y": -13.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 89,
+                      "G": 165,
+                      "B": 189
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.1386
+                    },
+                    "PreSize": {
+                      "X": 1.7647,
+                      "Y": 0.198
+                    },
+                    "LeftMargin": -26.0,
+                    "RightMargin": -26.0,
+                    "TopMargin": 104.9998,
+                    "BottomMargin": -23.9998,
+                    "Tag": 228,
+                    "ActionTag": 1931002989,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 20.0
+                    },
+                    "Name": "nameText",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -933447294,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 101.0
+                },
+                "Name": "player",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gpsHeadbg.png",
+                  "Plist": "common/GPSLayer/xt_mjGPSLayer.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 365.86,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 331.86,
+                "RightMargin": -399.86,
+                "TopMargin": -50.5,
+                "BottomMargin": -50.5,
+                "Tag": 229,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon.png",
+                      "Plist": "common/DissRoom/DissRoom.plist"
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 22,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.76,
+                      "Y": 67.11
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4965,
+                      "Y": 0.6645
+                    },
+                    "PreSize": {
+                      "X": 0.9412,
+                      "Y": 0.6337
+                    },
+                    "LeftMargin": 1.76,
+                    "RightMargin": 2.24,
+                    "TopMargin": 1.89,
+                    "BottomMargin": 35.11,
+                    "Tag": 349,
+                    "ActionTag": 111801177,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 64.0
+                    },
+                    "Name": "headImg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "二哈二哈二哈",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 34.0,
+                      "Y": -16.9996
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 89,
+                      "G": 165,
+                      "B": 189
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.1683
+                    },
+                    "PreSize": {
+                      "X": 1.7647,
+                      "Y": 0.198
+                    },
+                    "LeftMargin": -26.0,
+                    "RightMargin": -26.0,
+                    "TopMargin": 107.9996,
+                    "BottomMargin": -26.9996,
+                    "Tag": 231,
+                    "ActionTag": 789147412,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 20.0
+                    },
+                    "Name": "nameText",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1875437044,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 101.0
+                },
+                "Name": "player",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gpsHeadbg.png",
+                  "Plist": "common/GPSLayer/xt_mjGPSLayer.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 145.6422
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -34.0,
+                "RightMargin": -34.0,
+                "TopMargin": -196.1422,
+                "BottomMargin": 95.1422,
+                "Tag": 232,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon.png",
+                      "Plist": "common/DissRoom/DissRoom.plist"
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 22,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.66,
+                      "Y": 67.11
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.495,
+                      "Y": 0.6645
+                    },
+                    "PreSize": {
+                      "X": 0.9412,
+                      "Y": 0.6337
+                    },
+                    "LeftMargin": 1.66,
+                    "RightMargin": 2.34,
+                    "TopMargin": 1.89,
+                    "BottomMargin": 35.11,
+                    "Tag": 350,
+                    "ActionTag": 1951632326,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 64.0
+                    },
+                    "Name": "headImg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "二哈二哈二哈",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 34.0,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 89,
+                      "G": 165,
+                      "B": 189
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 1.1881
+                    },
+                    "PreSize": {
+                      "X": 1.7647,
+                      "Y": 0.198
+                    },
+                    "LeftMargin": -26.0,
+                    "RightMargin": -26.0,
+                    "TopMargin": -29.0,
+                    "BottomMargin": 110.0,
+                    "Tag": 234,
+                    "ActionTag": -1553588280,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 20.0
+                    },
+                    "Name": "nameText",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1786140715,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 101.0
+                },
+                "Name": "player",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gpsHeadbg.png",
+                  "Plist": "common/GPSLayer/xt_mjGPSLayer.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -313.268,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -347.268,
+                "RightMargin": 279.268,
+                "TopMargin": -50.5,
+                "BottomMargin": -50.5,
+                "Tag": 235,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon.png",
+                      "Plist": "common/DissRoom/DissRoom.plist"
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 22,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.76,
+                      "Y": 67.11
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4965,
+                      "Y": 0.6645
+                    },
+                    "PreSize": {
+                      "X": 0.9412,
+                      "Y": 0.6337
+                    },
+                    "LeftMargin": 1.76,
+                    "RightMargin": 2.24,
+                    "TopMargin": 1.89,
+                    "BottomMargin": 35.11,
+                    "Tag": 351,
+                    "ActionTag": 528066488,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 64.0
+                    },
+                    "Name": "headImg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "二哈二哈二哈",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 34.0,
+                      "Y": -16.9996
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 89,
+                      "G": 165,
+                      "B": 189
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.1683
+                    },
+                    "PreSize": {
+                      "X": 1.7647,
+                      "Y": 0.198
+                    },
+                    "LeftMargin": -26.0,
+                    "RightMargin": -26.0,
+                    "TopMargin": 107.9996,
+                    "BottomMargin": -26.9996,
+                    "Tag": 237,
+                    "ActionTag": 1227603158,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 20.0
+                    },
+                    "Name": "nameText",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1408931616,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 101.0
+                },
+                "Name": "player",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -951571936,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "playerNode",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../DissRoom/DissRoom.plist",
+        "../DissRoom/DissRoom.png",
+        "../MajonRes/SettingPanel/MajonSettingLayer.plist",
+        "../MajonRes/SettingPanel/MajonSettingLayer.png",
+        "gpsbg.png",
+        "xt_mjGPSLayer.plist",
+        "xt_mjGPSLayer.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

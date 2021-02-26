@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>SettingPanel.anniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,270},{52,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,55}}</string>
+				<key>sourceSize</key>
+				<string>{52,55}</string>
+			</dict>
+
+			<key>SettingPanel.btn_switchAccount.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,164},{197,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{197,74}}</string>
+				<key>sourceSize</key>
+				<string>{197,74}</string>
+			</dict>
+
+			<key>SettingPanel.btn_switchAccount_deep.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,240},{197,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{197,74}}</string>
+				<key>sourceSize</key>
+				<string>{197,74}</string>
+			</dict>
+
+			<key>SettingPanel.gamebgm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,316},{118,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{118,27}}</string>
+				<key>sourceSize</key>
+				<string>{118,27}</string>
+			</dict>
+
+			<key>SettingPanel.gamesound.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,316},{119,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{119,26}}</string>
+				<key>sourceSize</key>
+				<string>{119,26}</string>
+			</dict>
+
+			<key>SettingPanel.off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,217},{146,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{146,51}}</string>
+				<key>sourceSize</key>
+				<string>{146,51}</string>
+			</dict>
+
+			<key>SettingPanel.on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,164},{146,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{146,51}}</string>
+				<key>sourceSize</key>
+				<string>{146,51}</string>
+			</dict>
+
+			<key>SettingPanel.sound_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{294,162}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{294,162}}</string>
+				<key>sourceSize</key>
+				<string>{294,162}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{347,345}</string>
+			<key>textureFileName</key>
+			<string>SettingPanel.png</string>
+			</dict>
+		</dict>
+</plist>

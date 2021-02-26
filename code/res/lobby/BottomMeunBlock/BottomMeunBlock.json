@@ -1,0 +1,1647 @@
+{
+  "ID": "2fe1c6ad-92e4-472f-ab9a-b52227c31027",
+  "Version": "2.3.4",
+  "Name": "BottomMeunBlock",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 53,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 163,
+            "ActionTag": -2131611944,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "VisibleForFrame": false,
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -419,
+            "Scale9OriginY": -21,
+            "Scale9Width": 838,
+            "Scale9Height": 42,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": -0.2
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": -0.0003
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1375
+            },
+            "VerticalEdge": "BottomEdge",
+            "TopMargin": 621.2,
+            "BottomMargin": -0.2,
+            "Tag": 56,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Lobby_BMB_img_bg.png",
+                  "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 422,
+                "Scale9OriginY": 23,
+                "Scale9Width": 380,
+                "Scale9Height": 24,
+                "TouchEnable": true,
+                "StretchWidthEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.7071
+                },
+                "HorizontalEdge": "LeftEdge",
+                "TopMargin": 29.0,
+                "Tag": 57,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 48.6184,
+                      "Y": 34.524
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.038,
+                      "Y": 0.4932
+                    },
+                    "PreSize": {
+                      "X": 0.0781,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": -1.3816,
+                    "RightMargin": 1181.3816,
+                    "TopMargin": 0.476,
+                    "BottomMargin": -0.476,
+                    "Tag": 99,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_line_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_line_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_line.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 67,
+                        "Scale9Height": 48,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 35.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.97,
+                          "Y": 1.0
+                        },
+                        "RightMargin": 3.0,
+                        "Tag": 100,
+                        "ActionTag": -1950799656,
+                        "Size": {
+                          "X": 97.0,
+                          "Y": 70.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "btn_menu",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -400869360,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_menu_list",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 183.3572,
+                      "Y": 32.718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1432,
+                      "Y": 0.4674
+                    },
+                    "PreSize": {
+                      "X": 0.0938,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 123.3572,
+                    "RightMargin": 1036.6428,
+                    "TopMargin": 2.282,
+                    "BottomMargin": -2.282,
+                    "Tag": 102,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_store_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_store_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_store.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 72,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 35.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6286
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 103,
+                        "ActionTag": -418039329,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 44.0
+                        },
+                        "Name": "btn_menu",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -99801535,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_menu_store",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 327.204,
+                      "Y": 33.201
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2556,
+                      "Y": 0.4743
+                    },
+                    "PreSize": {
+                      "X": 0.0938,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 267.204,
+                    "RightMargin": 892.796,
+                    "TopMargin": 1.799,
+                    "BottomMargin": -1.799,
+                    "Tag": 104,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_record_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_record_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_record.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 57.756,
+                          "Y": 35.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4813,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6286
+                        },
+                        "LeftMargin": 7.756,
+                        "RightMargin": 12.244,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 105,
+                        "ActionTag": 1639847507,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 44.0
+                        },
+                        "Name": "btn_menu",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 419863567,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_menu_record",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 466.5923,
+                      "Y": 32.039
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3645,
+                      "Y": 0.4577
+                    },
+                    "PreSize": {
+                      "X": 0.0938,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 406.5923,
+                    "RightMargin": 753.4077,
+                    "TopMargin": 2.961,
+                    "BottomMargin": -2.961,
+                    "Tag": 106,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_custom_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_custom_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_custom.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 27,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.24,
+                          "Y": 33.628
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.502,
+                          "Y": 0.4804
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 10.24,
+                        "RightMargin": 9.76,
+                        "TopMargin": 11.872,
+                        "BottomMargin": 9.128,
+                        "Tag": 107,
+                        "ActionTag": 861334509,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 49.0
+                        },
+                        "Name": "btn_menu",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1812449079,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_menu_cs",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 606.5535,
+                      "Y": 32.235
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4739,
+                      "Y": 0.4605
+                    },
+                    "PreSize": {
+                      "X": 0.0938,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 546.5535,
+                    "RightMargin": 613.4465,
+                    "TopMargin": 2.765,
+                    "BottomMargin": -2.765,
+                    "Tag": 108,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_share_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_share_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_share.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 67,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 58.848,
+                          "Y": 35.161
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4904,
+                          "Y": 0.5023
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6286
+                        },
+                        "LeftMargin": 8.848,
+                        "RightMargin": 11.152,
+                        "TopMargin": 12.839,
+                        "BottomMargin": 13.161,
+                        "Tag": 109,
+                        "ActionTag": 270956782,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 44.0
+                        },
+                        "Name": "btn_menu",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 182015426,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_menu_share",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 745.8788,
+                      "Y": 32.599
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5827,
+                      "Y": 0.4657
+                    },
+                    "PreSize": {
+                      "X": 0.0938,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 685.8788,
+                    "RightMargin": 474.1212,
+                    "TopMargin": 2.401,
+                    "BottomMargin": -2.401,
+                    "Tag": 110,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_recruit_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_recruit_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_recruit.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 66,
+                        "Scale9Height": 21,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 59.328,
+                          "Y": 34.895
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4944,
+                          "Y": 0.4985
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6286
+                        },
+                        "LeftMargin": 9.328,
+                        "RightMargin": 10.672,
+                        "TopMargin": 13.105,
+                        "BottomMargin": 12.895,
+                        "Tag": 111,
+                        "ActionTag": -873225783,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 44.0
+                        },
+                        "Name": "btn_menu",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1989747440,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_menu_recruit",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 881.7954,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6889,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0938,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 821.7954,
+                    "RightMargin": 338.2046,
+                    "Tag": 284,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_bind_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_bind_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_bind.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 68,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 32.998
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4714
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6286
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 15.002,
+                        "BottomMargin": 10.998,
+                        "Tag": 285,
+                        "ActionTag": 912085333,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 44.0
+                        },
+                        "Name": "btn_menu",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1719967557,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_menu_bind",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1033.2692,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8072,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.118,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 957.7692,
+                    "RightMargin": 171.2308,
+                    "Tag": 36,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_greengame.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_greengame_deep.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_btn_greengame.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 119,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.5,
+                          "Y": 32.998
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4714
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.6286
+                        },
+                        "TopMargin": 15.002,
+                        "BottomMargin": 10.998,
+                        "Tag": 37,
+                        "ActionTag": -253834252,
+                        "Size": {
+                          "X": 151.0,
+                          "Y": 44.0
+                        },
+                        "Name": "btn_menu",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_redpoint.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "Scale9OriginX": 6,
+                        "Scale9OriginY": 7,
+                        "Scale9Width": 9,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.9704,
+                          "Y": 53.2594
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2515,
+                          "Y": 0.7608
+                        },
+                        "PreSize": {
+                          "X": 0.1391,
+                          "Y": 0.3429
+                        },
+                        "LeftMargin": 27.4704,
+                        "RightMargin": 102.5296,
+                        "TopMargin": 4.7406,
+                        "BottomMargin": 41.2594,
+                        "Tag": 38,
+                        "ActionTag": 1574516839,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 24.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "img_redpoint",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Lobby_BMB_bubble_bg.png",
+                          "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                        },
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9OriginX": 105,
+                        "Scale9OriginY": 25,
+                        "Scale9Width": 110,
+                        "Scale9Height": 26,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": -180.65,
+                          "Y": 79.97
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -1.1964,
+                          "Y": 1.1424
+                        },
+                        "PreSize": {
+                          "X": 2.1192,
+                          "Y": 1.0857
+                        },
+                        "LeftMargin": -180.65,
+                        "RightMargin": 11.65,
+                        "TopMargin": -85.97,
+                        "BottomMargin": 79.97,
+                        "Tag": 39,
+                        "Children": [
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "DisabledFileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "Lobby_BMB_reporting.png",
+                              "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                            },
+                            "PressedFileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "Lobby_BMB_reporting_deep.png",
+                              "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                            },
+                            "NormalFileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "Lobby_BMB_reporting.png",
+                              "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 74,
+                            "Scale9Height": 26,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 80.0,
+                              "Y": 38.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.25,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.325,
+                              "Y": 0.6316
+                            },
+                            "LeftMargin": 28.0,
+                            "RightMargin": 188.0,
+                            "TopMargin": 14.0,
+                            "BottomMargin": 14.0,
+                            "Tag": 41,
+                            "ActionTag": -747413613,
+                            "Size": {
+                              "X": 104.0,
+                              "Y": 48.0
+                            },
+                            "Name": "btn_reporting",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "DisabledFileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "Lobby_BMB_tutelage.png",
+                              "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                            },
+                            "PressedFileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "Lobby_BMB_tutelage_deep.png",
+                              "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                            },
+                            "NormalFileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "Lobby_BMB_tutelage.png",
+                              "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 92,
+                            "Scale9Height": 26,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 230.4,
+                              "Y": 38.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.72,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.3812,
+                              "Y": 0.6316
+                            },
+                            "LeftMargin": 169.4,
+                            "RightMargin": 28.6,
+                            "TopMargin": 14.0,
+                            "BottomMargin": 14.0,
+                            "Tag": 42,
+                            "ActionTag": -710778233,
+                            "Size": {
+                              "X": 122.0,
+                              "Y": 48.0
+                            },
+                            "Name": "btn_menu_realName",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "Lobby_BMB_bubble_arrow.png",
+                              "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                            },
+                            "Scale9OriginX": 6,
+                            "Scale9OriginY": 3,
+                            "Scale9Width": 8,
+                            "Scale9Height": 5,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 1.0
+                            },
+                            "Position": {
+                              "X": 246.7933,
+                              "Y": 1.3
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.7712,
+                              "Y": 0.0171
+                            },
+                            "PreSize": {
+                              "X": 0.0625,
+                              "Y": 0.1447
+                            },
+                            "LeftMargin": 236.7933,
+                            "RightMargin": 63.2067,
+                            "TopMargin": 74.7,
+                            "BottomMargin": -9.7,
+                            "Tag": 40,
+                            "ActionTag": 34569479,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 11.0
+                            },
+                            "Name": "arrow",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 1727792347,
+                        "Size": {
+                          "X": 320.0,
+                          "Y": 76.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "sub_container",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1036767274,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_menu_greengame",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1581837405,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 70.0
+                },
+                "Name": "meunLayout",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1671450102,
+            "Size": {
+              "X": 1280.0,
+              "Y": 99.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 432.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.6
+            },
+            "PreSize": {
+              "X": 0.1016,
+              "Y": 0.1806
+            },
+            "RightMargin": 1150.0,
+            "TopMargin": 223.0,
+            "BottomMargin": 367.0,
+            "Tag": 95,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Lobby_BMB_redpoint.png",
+                  "Plist": "lobby/BottomMeunBlock/ButtomMeunBlock.plist"
+                },
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 7,
+                "Scale9Width": 9,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.5,
+                  "Y": 118.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9192,
+                  "Y": 0.9077
+                },
+                "PreSize": {
+                  "X": 0.1615,
+                  "Y": 0.1846
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 109.0,
+                "BottomMargin": 106.0,
+                "Tag": 84,
+                "ActionTag": -1666410432,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 24.0
+                },
+                "VisibleForFrame": false,
+                "Name": "ivSignInRedPoint",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -352585368,
+            "Size": {
+              "X": 130.0,
+              "Y": 130.0
+            },
+            "VisibleForFrame": false,
+            "Name": "lySignIn",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ButtomMeunBlock.plist",
+        "ButtomMeunBlock.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

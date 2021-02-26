@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_piaolaizi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/piaolaizi_glow
+  rotate: false
+  xy: 2, 2
+  size: 402, 148
+  orig: 500, 300
+  offset: 46, 86
+  index: -1
+donghua/library/piaolaizi_glow2
+  rotate: false
+  xy: 2, 152
+  size: 433, 250
+  orig: 500, 300
+  offset: 27, 0
+  index: -1
+donghua/library/piaolaizi_txt
+  rotate: false
+  xy: 437, 276
+  size: 377, 126
+  orig: 500, 300
+  offset: 61, 91
+  index: -1

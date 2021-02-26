@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_qingyise.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/qingyishe_glow
+  rotate: false
+  xy: 2, 2
+  size: 447, 234
+  orig: 480, 256
+  offset: 33, 22
+  index: -1
+donghua/library/qingyishe_glow2
+  rotate: false
+  xy: 2, 238
+  size: 451, 234
+  orig: 480, 256
+  offset: 14, 11
+  index: -1
+donghua/library/qingyishe_txt
+  rotate: false
+  xy: 455, 332
+  size: 375, 140
+  orig: 480, 256
+  offset: 53, 59
+  index: -1

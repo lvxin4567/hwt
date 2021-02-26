@@ -1,0 +1,20 @@
+
+Cloud.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+you
+  rotate: false
+  xy: 0, 362
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 0, 0
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1

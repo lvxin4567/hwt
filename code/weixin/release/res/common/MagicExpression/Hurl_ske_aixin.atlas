@@ -1,0 +1,20 @@
+
+Hurl_ske_aixin.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 106
+  size: 159, 141
+  orig: 159, 141
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

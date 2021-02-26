@@ -1,0 +1,16 @@
+
+IPV榜绑包报背比变补参操层产场长大待等低调定段队对额法房分改告个更功公规耗合护户绩记家加监间奖结进景局举距开离礼励楼录盟明名能你排牌判配破亲情请圈权人入赛筛设时示数说私送搜索提添玩违温我细显限详消效协行修选邀议隐赢用有友员则赠战整置助桌组作馨
+
+IPV
+榜绑包报背比变补
+参操层产场长
+大待等低调定段队对
+额法房分改告个更功公规耗合护户绩记家加监间奖结进景局举距开离礼励
+楼录盟明名能你排牌判配破亲情请圈权人入赛筛设时示数说私送搜索提添
+玩违温我细显限详消效协行修选邀议隐赢用有友员则赠战整置助桌组作馨
+
+char id=@id x=@x y=@y width=@w height=@h xoffset=@sx yoffset=@sy xadvance=@w page=0 chnl=0 letter="@letter"
+info face="common.dialog_title.fnt" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=@padding,@padding\ncommon lineHeight=@advanceY base=26 scaleW=@texW scaleH=@texH pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0\npage id=0 file="common.dialog_title.png"\nchars count=@count\n@loop\nkernings count=@kernPairCount\n@kernLoop
+
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=7 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=0 letter="	"

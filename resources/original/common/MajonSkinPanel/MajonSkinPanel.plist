@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>MajonSkinPanel.bgselect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,0},{96,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{96,96}}</string>
+				<key>sourceSize</key>
+				<string>{96,96}</string>
+			</dict>
+
+			<key>MajonSkinPanel.bluebg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,548},{86,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{86,86}}</string>
+				<key>sourceSize</key>
+				<string>{86,86}</string>
+			</dict>
+
+			<key>MajonSkinPanel.bluemj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,460},{86,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{86,86}}</string>
+				<key>sourceSize</key>
+				<string>{86,86}</string>
+			</dict>
+
+			<key>MajonSkinPanel.greenbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,372},{86,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{86,86}}</string>
+				<key>sourceSize</key>
+				<string>{86,86}</string>
+			</dict>
+
+			<key>MajonSkinPanel.greenmj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{543,196},{86,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{86,86}}</string>
+				<key>sourceSize</key>
+				<string>{86,86}</string>
+			</dict>
+
+			<key>MajonSkinPanel.mjselect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,98},{96,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{96,96}}</string>
+				<key>sourceSize</key>
+				<string>{96,96}</string>
+			</dict>
+
+			<key>MajonSkinPanel.skinBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{453,720}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{453,720}}</string>
+				<key>sourceSize</key>
+				<string>{453,720}</string>
+			</dict>
+
+			<key>MajonSkinPanel.yellowbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,284},{86,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{86,86}}</string>
+				<key>sourceSize</key>
+				<string>{86,86}</string>
+			</dict>
+
+			<key>MajonSkinPanel.yellowmj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,196},{86,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{86,86}}</string>
+				<key>sourceSize</key>
+				<string>{86,86}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{631,722}</string>
+			<key>textureFileName</key>
+			<string>MajonSkinPanel.png</string>
+			</dict>
+		</dict>
+</plist>

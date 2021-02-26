@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_chi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/chi_glow
+  rotate: false
+  xy: 2, 2
+  size: 180, 180
+  orig: 256, 256
+  offset: 38, 38
+  index: -1
+donghua/library/chi_glow2
+  rotate: false
+  xy: 2, 184
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+donghua/library/chi_txt
+  rotate: false
+  xy: 260, 321
+  size: 129, 119
+  orig: 256, 256
+  offset: 67, 73
+  index: -1

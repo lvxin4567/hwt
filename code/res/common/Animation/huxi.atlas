@@ -1,0 +1,34 @@
+
+huxi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font
+  rotate: false
+  xy: 2, 70
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+font2
+  rotate: false
+  xy: 2, 36
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+font3
+  rotate: false
+  xy: 2, 2
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+font4
+  rotate: true
+  xy: 83, 23
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1

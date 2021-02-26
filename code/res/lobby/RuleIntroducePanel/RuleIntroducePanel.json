@@ -1,0 +1,512 @@
+{
+  "ID": "61c13092-8a24-440d-9695-961dee1405e9",
+  "Version": "2.3.4",
+  "Name": "RuleIntroducePanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 256,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 272,
+            "ActionTag": -679726061,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "maskbg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/bgs/rule_bg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 409,
+            "Scale9OriginY": 197,
+            "Scale9Width": 424,
+            "Scale9Height": 205,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 320.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4451
+            },
+            "PreSize": {
+              "X": 0.9703,
+              "Y": 0.8319
+            },
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 19.0,
+            "RightMargin": 19.0,
+            "TopMargin": 100.0,
+            "BottomMargin": 21.0,
+            "Tag": 283,
+            "Children": [
+              {
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -458.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.7646
+                },
+                "PreSize": {
+                  "X": 0.1675,
+                  "Y": 0.1402
+                },
+                "VerticalEdge": "BottomEdge",
+                "RightMargin": 1034.0,
+                "TopMargin": 1015.0,
+                "BottomMargin": -500.0,
+                "Tag": 301,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "崇阳玩法",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 3,
+                    "OutlineColor": {
+                      "R": 29,
+                      "G": 91,
+                      "B": 133
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 42.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1923,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9615,
+                      "Y": 0.6071
+                    },
+                    "LeftMargin": 40.0,
+                    "RightMargin": -32.0,
+                    "TopMargin": 16.5,
+                    "BottomMargin": 16.5,
+                    "Tag": 68,
+                    "ActionTag": 1617711367,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 51.0
+                    },
+                    "Name": "rule_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "lobby/RuleIntroducePanel/lobby.btn_rulle_shaizi.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 68,
+                    "Scale9OriginY": 27,
+                    "Scale9Width": 72,
+                    "Scale9Height": 30,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 104.0,
+                      "Y": 42.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 71,
+                    "ActionTag": -1497723479,
+                    "Size": {
+                      "X": 208.0,
+                      "Y": 84.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "rule_touzi",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1364925891,
+                "Size": {
+                  "X": 208.0,
+                  "Y": 84.0
+                },
+                "Name": "rule_btn_mode",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/bgs/inner_bg2.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 222,
+                "Scale9OriginY": 96,
+                "Scale9Width": 231,
+                "Scale9Height": 101,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 178.0,
+                  "Y": 1.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1433,
+                  "Y": 0.0017
+                },
+                "PreSize": {
+                  "X": 0.8406,
+                  "Y": 0.985
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 178.0,
+                "RightMargin": 20.0,
+                "TopMargin": 8.0,
+                "BottomMargin": 1.0,
+                "Tag": 300,
+                "ActionTag": -272424526,
+                "Size": {
+                  "X": 1044.0,
+                  "Y": 590.0
+                },
+                "Name": "rule_conten",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 204,
+                  "Height": 587
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 17.0,
+                  "Y": 7.3595
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0137,
+                  "Y": 0.0123
+                },
+                "PreSize": {
+                  "X": 0.1643,
+                  "Y": 0.9733
+                },
+                "HorizontalEdge": "LeftEdge",
+                "LeftMargin": 17.0,
+                "RightMargin": 1021.0,
+                "TopMargin": 8.6405,
+                "BottomMargin": 7.3595,
+                "Tag": 70,
+                "ActionTag": 515368876,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 583.0
+                },
+                "Name": "rule_menu_layout",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": -272133681,
+            "Size": {
+              "X": 1242.0,
+              "Y": 599.0
+            },
+            "Name": "contentPanel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "InnerActionSpeed": 0.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 266,
+            "ActionTag": -259327879,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "top",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/TopBar/TopBar.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 635.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.8819
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1181
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "BottomMargin": 635.0,
+            "Tag": 837,
+            "ActionTag": -925653038,
+            "Size": {
+              "X": 1280.0,
+              "Y": 85.0
+            },
+            "Name": "FileNode_1",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../common/bgs/inner_bg2.png",
+        "../../common/bgs/rule_bg.png",
+        "../../common/TopBar/TopBar.json",
+        "../../Default/CheckBox_Disable.png",
+        "../../Default/CheckBox_Normal.png",
+        "../../Default/CheckBox_Press.png",
+        "../../Default/CheckBoxNode_Disable.png",
+        "../../Default/CheckBoxNode_Normal.png",
+        "lobby.btn_rulle_shaizi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

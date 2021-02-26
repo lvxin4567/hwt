@@ -1,0 +1,278 @@
+{
+  "ID": "4d358287-b798-4751-8cbd-b880bf1ce003",
+  "Version": "2.3.4",
+  "Name": "PmdPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 113,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/bgs/pmd_bg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 191,
+            "Scale9OriginY": 11,
+            "Scale9Width": 315,
+            "Scale9Height": 22,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 569.5422
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.791
+            },
+            "PreSize": {
+              "X": 0.4531,
+              "Y": 0.05
+            },
+            "LeftMargin": 350.0,
+            "RightMargin": 350.0,
+            "TopMargin": 132.4578,
+            "BottomMargin": 551.5422,
+            "Tag": 120,
+            "Children": [
+              {
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -191,
+                "Scale9OriginY": -11,
+                "Scale9Width": 382,
+                "Scale9Height": 22,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 290.0,
+                  "Y": 18.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "Tag": 18,
+                "Children": [
+                  {
+                    "FontSize": 26,
+                    "LabelText": "系统4",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 18.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1121,
+                      "Y": 0.7222
+                    },
+                    "RightMargin": 515.0,
+                    "TopMargin": 5.0,
+                    "BottomMargin": 5.0,
+                    "Tag": 119,
+                    "ActionTag": 400703985,
+                    "Size": {
+                      "X": 65.0,
+                      "Y": 26.0
+                    },
+                    "Name": "label_pmd",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1197999089,
+                "Size": {
+                  "X": 580.0,
+                  "Y": 36.0
+                },
+                "Name": "pmd_bg_continer",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "lobby_pmd_img_laba.png",
+                  "Plist": "lobby/PmdPanel/PmdBlock.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "lobby_pmd_img_laba.png",
+                  "Plist": "lobby/PmdPanel/PmdBlock.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 15,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -32.963,
+                  "Y": 18.2592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.0568,
+                  "Y": 0.5072
+                },
+                "PreSize": {
+                  "X": 0.0776,
+                  "Y": 1.1944
+                },
+                "LeftMargin": -55.463,
+                "RightMargin": 590.463,
+                "TopMargin": -3.7592,
+                "BottomMargin": -3.2408,
+                "Tag": 16,
+                "ActionTag": 1966418987,
+                "Size": {
+                  "X": 45.0,
+                  "Y": 43.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_laba",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -423126122,
+            "Size": {
+              "X": 580.0,
+              "Y": 36.0
+            },
+            "Name": "pmd_bg",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../common/bgs/pmd_bg.png",
+        "../../Default/Button_Disable.png",
+        "PmdBlock.plist",
+        "PmdBlock.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

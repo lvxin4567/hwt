@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_dianxiao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/dianxiao_glow
+  rotate: false
+  xy: 343, 39
+  size: 282, 134
+  orig: 512, 256
+  offset: 121, 62
+  index: -1
+donghua/library/dianxiao_glow2
+  rotate: false
+  xy: 2, 2
+  size: 339, 171
+  orig: 512, 256
+  offset: 94, 44
+  index: -1
+donghua/library/dianxiao_txt
+  rotate: false
+  xy: 627, 45
+  size: 255, 128
+  orig: 512, 256
+  offset: 134, 66
+  index: -1

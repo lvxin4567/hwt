@@ -1,0 +1,42 @@
+{
+"skeleton": { "hash": "KC+TMj+0JvME4Fim04oa43JKAjI", "spine": "3.7.94", "width": 44, "height": 44, "images": "", "audio": "C:/Users/Administrator/Desktop/images" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "wx", "parent": "root", "x": -1.5, "y": 150.5 },
+	{ "name": "wx2", "parent": "root", "x": -1.49, "y": 150 }
+],
+"slots": [
+	{ "name": "wx", "bone": "wx", "attachment": "wx" },
+	{ "name": "wx2", "bone": "wx2", "attachment": "wx2" }
+],
+"skins": {
+	"default": {
+		"wx": {
+			"wx": { "x": 0.01, "y": 0.31, "width": 44, "height": 44 }
+		},
+		"wx2": {
+			"wx2": { "y": 0.81, "width": 44, "height": 44 }
+		}
+	}
+},
+"animations": {
+	"hx": {
+		"slots": {
+			"wx": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff44" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"wx2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff44" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			}
+		}
+	}
+}
+}

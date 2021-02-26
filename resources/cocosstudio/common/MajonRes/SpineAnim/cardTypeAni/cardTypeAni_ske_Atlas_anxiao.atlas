@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_anxiao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/anxiao_glow
+  rotate: false
+  xy: 294, 9
+  size: 292, 143
+  orig: 512, 256
+  offset: 117, 57
+  index: -1
+donghua/library/anxiao_glow2
+  rotate: false
+  xy: 2, 2
+  size: 290, 150
+  orig: 512, 256
+  offset: 119, 54
+  index: -1
+donghua/library/anxiao_txt
+  rotate: false
+  xy: 588, 22
+  size: 252, 130
+  orig: 512, 256
+  offset: 137, 64
+  index: -1

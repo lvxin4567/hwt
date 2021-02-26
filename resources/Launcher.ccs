@@ -1,0 +1,13 @@
+<Solution>
+  <PropertyGroup Name="Launcher" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="bg.jpg" />
+        <Image Name="launch_Bg.png" />
+        <Project Name="Launcher.csd" Type="Layer" />
+        <Image Name="lncProgress.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

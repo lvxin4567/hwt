@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_peng.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/peng_glow
+  rotate: false
+  xy: 259, 65
+  size: 171, 168
+  orig: 256, 256
+  offset: 47, 39
+  index: -1
+donghua/library/peng_glow2
+  rotate: true
+  xy: 2, 2
+  size: 231, 255
+  orig: 256, 256
+  offset: 13, 1
+  index: -1
+donghua/library/peng_txt
+  rotate: false
+  xy: 432, 119
+  size: 129, 114
+  orig: 256, 256
+  offset: 63, 75
+  index: -1

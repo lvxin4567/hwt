@@ -1,0 +1,27 @@
+
+cardTypeAni_ske_Png_liangdao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liangdao_glow
+  rotate: false
+  xy: 224, 2
+  size: 158, 113
+  orig: 158, 113
+  offset: 0, 0
+  index: -1
+liangdao_glow2
+  rotate: false
+  xy: 2, 79
+  size: 220, 157
+  orig: 220, 157
+  offset: 0, 0
+  index: -1
+liangdao_txt
+  rotate: false
+  xy: 224, 117
+  size: 200, 119
+  orig: 200, 119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+cardTypeAni_ske_Png_hu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua/library/hu_glow
+  rotate: false
+  xy: 260, 48
+  size: 158, 180
+  orig: 256, 256
+  offset: 40, 38
+  index: -1
+donghua/library/hu_glow2
+  rotate: true
+  xy: 2, 2
+  size: 226, 256
+  orig: 256, 256
+  offset: 6, 0
+  index: -1
+donghua/library/hu_txt
+  rotate: false
+  xy: 420, 103
+  size: 106, 125
+  orig: 256, 256
+  offset: 71, 64
+  index: -1

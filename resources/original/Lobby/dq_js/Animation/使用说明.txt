@@ -1,0 +1,2 @@
+DQ_Sweep包含动画Sweep和join分别应用在2个按钮上。
+DQ_Effect_BG0背景特效动画放在背景前。

@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "system",
+        "allowJs": false,
+        "declaration": true,
+        "outFile": "kaayoulibs.js",
+        "rootDir": "./tssrc/klibs/",
+        "strict": false,
+        "removeComments": true,
+        "strictNullChecks": false,
+        "strictPropertyInitialization": false,
+        "esModuleInterop": true,
+        "experimentalDecorators": true
+    },
+    "include": ["./tssrc/klibs/**/*" , "./tssrc/tslib/**/*" ]
+  }
